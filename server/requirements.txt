@@ -1,0 +1,5 @@
+python-socketio
+aiohttp
+aiosqlite
+pydantic-ai
+python-dotenv
