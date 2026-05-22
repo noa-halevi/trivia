@@ -1,0 +1,437 @@
+[
+  {
+    "question_id": 56,
+    "keep": false,
+    "reason": "Ambiguous and unsuited for MC: It's trivial (Macbeth appears in Macbeth by definition) and answer stands out."
+  },
+  {
+    "question_id": 71,
+    "keep": false,
+    "reason": "Rejected, as 'Which planet has the most moons? | Answer: Saturn' is already kept, and Saturn's rings are a repeated identifying feature."
+  },
+  {
+    "question_id": 75,
+    "keep": false,
+    "reason": "Rejected: repeats mostly the same fact as already kept 'Who directed the movie 'Jurassic Park'?'"
+  },
+  {
+    "question_id": 111,
+    "keep": false,
+    "reason": "Implausible distractors (violin, flute, trumpet clearly have no keys and pedals); answer is overdetermined."
+  },
+  {
+    "question_id": 113,
+    "keep": false,
+    "reason": "Fact (Apollo 11 Moon landing year: 1969) is already covered in kept question 32."
+  },
+  {
+    "question_id": 119,
+    "keep": false,
+    "reason": "Covered by kept question 46, which asks about the world's largest desert (Sahara) and its location off the coast of Africa."
+  },
+  {
+    "question_id": 144,
+    "keep": false,
+    "reason": "Fact (sushi is known for rice, and for being Japanese)—the main focus of sushi (ingredient/food type) is already in kept question 9."
+  },
+  {
+    "question_id": 145,
+    "keep": false,
+    "reason": "Fact (composer of 'The Magic Flute') is already covered by kept question 14."
+  },
+  {
+    "question_id": 148,
+    "keep": false,
+    "reason": "Fact (Jordan/dinar) is already covered as kept question 22 (currency of Jordan is in kept set)."
+  },
+  {
+    "question_id": 151,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 12."
+  },
+  {
+    "question_id": 154,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 50."
+  },
+  {
+    "question_id": 155,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 17."
+  },
+  {
+    "question_id": 157,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 33."
+  },
+  {
+    "question_id": 164,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 30."
+  },
+  {
+    "question_id": 184,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 52 (falafel, which also uses chickpeas as its main ingredient)."
+  },
+  {
+    "question_id": 189,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 20."
+  },
+  {
+    "question_id": 192,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 23."
+  },
+  {
+    "question_id": 198,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 57."
+  },
+  {
+    "question_id": 200,
+    "keep": false,
+    "reason": "Rejected: This fact is already covered by already kept question 13."
+  },
+  {
+    "question_id": 201,
+    "keep": false,
+    "reason": "Rejected: The question asks about something Japan is known for (Manga); candidate 9 already covers what Japan is known for culturally (\"Which country is known for inventing sushi?\") and would result in repetitive coverage."
+  },
+  {
+    "question_id": 204,
+    "keep": false,
+    "reason": "Rejected: Candidate 84 already asks what instrument Beethoven mainly composed for, which is Piano; since both questions test knowledge that the piano has 88 keys, this risks repetition."
+  },
+  {
+    "question_id": 205,
+    "keep": false,
+    "reason": "Rejected: Candidate 2 already covers 'Who wrote the novel Moby-Dick?'"
+  },
+  {
+    "question_id": 210,
+    "keep": false,
+    "reason": "Rejected: Candidate 51 already asks about Machu Picchu (\"Which ancient civilization built Machu Picchu?\"), so a question about its country would be repetitive."
+  },
+  {
+    "question_id": 213,
+    "keep": false,
+    "reason": "Rejected: Candidate 76 already covers Isaac Newton and the laws of motion. This question is a reworded version with overlapping content."
+  },
+  {
+    "question_id": 217,
+    "keep": false,
+    "reason": "Rejected: Candidate 101 (already kept) covers the Danube River in Budapest. This is a rephrasing."
+  },
+  {
+    "question_id": 219,
+    "keep": false,
+    "reason": "Rejected: Candidate 88 (already kept) asks about the main alcohol in a mojito, which is white rum. This would be repetitive."
+  },
+  {
+    "question_id": 223,
+    "keep": false,
+    "reason": "Rejected: Candidate 55 already covers the chemical symbol for potassium."
+  },
+  {
+    "question_id": 226,
+    "keep": false,
+    "reason": "Rejected: Candidate 30 (kept) already covers Michelangelo as an artist, specifically for the Sistine Chapel. With limited artist questions per batch, this is too close."
+  },
+  {
+    "question_id": 240,
+    "keep": false,
+    "reason": "Rejected: Candidate 122 (already kept) asks the same thing: Who created Hercule Poirot?."
+  },
+  {
+    "question_id": 246,
+    "keep": false,
+    "reason": "Rejected: Candidate 72 (already kept) asks who composed 'The Nutcracker,' and both questions are about Tchaikovsky and ballets. Too similar for this batch."
+  },
+  {
+    "question_id": 252,
+    "keep": false,
+    "reason": "This question duplicates already kept question 100, which asks for the world's largest reptile with the same answer, Saltwater crocodile."
+  },
+  {
+    "question_id": 258,
+    "keep": false,
+    "reason": "This repeats already kept question 32, which asks for the year Apollo 11 landed on the Moon (1969)."
+  },
+  {
+    "question_id": 263,
+    "keep": false,
+    "reason": "Duplicates already kept question 128, which asks about the artist of Guernica."
+  },
+  {
+    "question_id": 265,
+    "keep": false,
+    "reason": "Duplicates already kept question 125, which also asks about blood filtering in the human body, answer kidney(s)."
+  },
+  {
+    "question_id": 266,
+    "keep": false,
+    "reason": "Duplicates already kept question 26, which asks for the country home to Petra with the same answer, Jordan."
+  },
+  {
+    "question_id": 267,
+    "keep": false,
+    "reason": "Duplicates already kept question 35, which asks what gas is commonly used to fill balloons for floating; answer is Helium."
+  },
+  {
+    "question_id": 275,
+    "keep": false,
+    "reason": "Duplicates already kept question 169, which states Beethoven composed the 'Moonlight Sonata' and is famous for his deafness."
+  },
+  {
+    "question_id": 282,
+    "keep": false,
+    "reason": "Duplicates already kept question 136, which asks who wrote 'Pride and Prejudice' (Jane Austen)."
+  },
+  {
+    "question_id": 283,
+    "keep": false,
+    "reason": "Duplicates already kept question 6, 'Who painted the Mona Lisa?', and covers the same fact."
+  },
+  {
+    "question_id": 284,
+    "keep": false,
+    "reason": "Duplicates already kept question 4, asking when the Berlin Wall fell (1989)."
+  },
+  {
+    "question_id": 288,
+    "keep": false,
+    "reason": "Duplicates already kept question 72, about 'The Nutcracker' composer Tchaikovsky."
+  },
+  {
+    "question_id": 291,
+    "keep": false,
+    "reason": "Duplicates already kept question 86, asking who painted 'The Persistence of Memory' (Dalí)."
+  },
+  {
+    "question_id": 295,
+    "keep": false,
+    "reason": "Duplicates already kept question 53, about Einstein, general relativity, and famous equations."
+  },
+  {
+    "question_id": 298,
+    "keep": false,
+    "reason": "Duplicates already kept question 166, which asks for the smallest bone in the human body (Stapes)."
+  },
+  {
+    "question_id": 301,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of the already kept question 158: 'Which planet is known as the Red Planet? | Answer: Mars'."
+  },
+  {
+    "question_id": 302,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of the already kept question 24: 'The Great Barrier Reef is located off the coast of which country? | Answer: Australia'."
+  },
+  {
+    "question_id": 304,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 29: 'Which Italian city is famous for its historical canals? | Answer: Venice'."
+  },
+  {
+    "question_id": 312,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 57: 'Which artist is famous for his work 'The Starry Night'? | Answer: Vincent van Gogh'."
+  },
+  {
+    "question_id": 314,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 31: 'Which element has the atomic number 79? | Answer: Gold'."
+  },
+  {
+    "question_id": 320,
+    "keep": false,
+    "reason": "Rejected. This fact is already covered with question 102: 'What vitamin is mainly produced in human skin when exposed to sunlight? | Answer: Vitamin D'."
+  },
+  {
+    "question_id": 323,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 40: 'Who won the FIFA World Cup in 2014? | Answer: Germany'."
+  },
+  {
+    "question_id": 325,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 85: 'Who starred as Indiana Jones in the film series? | Answer: Harrison Ford'."
+  },
+  {
+    "question_id": 327,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 147: 'Who invented the telephone in 1876? | Answer: Alexander Bell'."
+  },
+  {
+    "question_id": 330,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 19: 'In which city is the famous Acropolis located? | Answer: Athens'."
+  },
+  {
+    "question_id": 331,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 2: 'Who wrote the novel 'Moby-Dick'? | Answer: Herman Melville'."
+  },
+  {
+    "question_id": 332,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 10: 'What is the main ingredient in guacamole? | Answer: Avocado'."
+  },
+  {
+    "question_id": 337,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 203: 'What is the basic unit of currency in Japan? | Answer: Yen'."
+  },
+  {
+    "question_id": 339,
+    "keep": false,
+    "reason": "Rejected. This repeats the fact in question 67: 'Which metal is liquid at room temperature? | Answer: Mercury'."
+  },
+  {
+    "question_id": 341,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 195: 'What is the longest river in Europe? | Answer: Volga'."
+  },
+  {
+    "question_id": 342,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 47: 'Which language uses the most native speakers worldwide? | Answer: Mandarin Chinese'."
+  },
+  {
+    "question_id": 343,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 76: 'Which scientist is credited with formulating the three laws of motion? | Answer: Isaac Newton'."
+  },
+  {
+    "question_id": 344,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 83: 'Which continent is the country of Bhutan located on? | Answer: Asia'."
+  },
+  {
+    "question_id": 346,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 20: 'Which planet has the most moons? | Answer: Saturn' (Saturn's rings are well known and this is a highly overused fact, better covered there)."
+  },
+  {
+    "question_id": 347,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 234: 'In which year did the Titanic sink? | Answer: 1912'."
+  },
+  {
+    "question_id": 348,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 116: 'Who was the Greek goddess of wisdom? | Answer: Athena'."
+  },
+  {
+    "question_id": 349,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 17: 'What gas do plants absorb during photosynthesis? | Answer: Carbon dioxide' and the broader photosynthesis topic is already thoroughly addressed."
+  },
+  {
+    "question_id": 350,
+    "keep": false,
+    "reason": "Rejected. This is a rewording of already kept question 50: 'Which city hosted the 2008 Summer Olympics? | Answer: Beijing'."
+  },
+  {
+    "question_id": 353,
+    "keep": false,
+    "reason": "Duplicate of kept question 150: 'Who painted the 'Girl with a Pearl Earring'? | Answer: Johannes Vermeer'."
+  },
+  {
+    "question_id": 354,
+    "keep": false,
+    "reason": "Duplicate of kept question 132: 'What instrument is Yo-Yo Ma famous for playing? | Answer: Cello'."
+  },
+  {
+    "question_id": 355,
+    "keep": false,
+    "reason": "Duplicate of kept question 121: 'Which animal is known for building dams in rivers? | Answer: Beaver'."
+  },
+  {
+    "question_id": 360,
+    "keep": false,
+    "reason": "Duplicate of kept question 141: 'What is the standard unit of electric resistance? | Answer: Ohm'."
+  },
+  {
+    "question_id": 361,
+    "keep": false,
+    "reason": "Duplicate of kept question 193: 'Which bird is known for its ability to mimic human speech? | Answer: Parrot'."
+  },
+  {
+    "question_id": 362,
+    "keep": false,
+    "reason": "Duplicate of kept question 23: 'What language is primarily spoken in Brazil? | Answer: Portuguese'."
+  },
+  {
+    "question_id": 363,
+    "keep": false,
+    "reason": "Duplicate of kept question 3: 'Which element has the chemical symbol 'Fe'? | Answer: Iron'."
+  },
+  {
+    "question_id": 364,
+    "keep": false,
+    "reason": "Duplicate of kept question 167: 'Who is the Greek god of the sea? | Answer: Poseidon'."
+  },
+  {
+    "question_id": 365,
+    "keep": false,
+    "reason": "Duplicate of kept question 129: 'Which planet is closest to the Sun? | Answer: Mercury'."
+  },
+  {
+    "question_id": 366,
+    "keep": false,
+    "reason": "Duplicate of kept question 309: 'Which Shakespeare character utters 'To be, or not to be'? | Answer: Hamlet', and question 36: 'Who wrote the play 'Romeo and Juliet'? | Answer: William Shakespeare'. 'Hamlet' authorship is already well-covered."
+  },
+  {
+    "question_id": 370,
+    "keep": false,
+    "reason": "Duplicate of kept question 299: 'Which African animal is known for its large, curved horn? | Answer: Rhinoceros' (slightly different wording but the same fact about the rhino's horn)."
+  },
+  {
+    "question_id": 381,
+    "keep": false,
+    "reason": "Duplicate of kept question 128: 'Who was the artist famous for the mural 'Guernica'? | Answer: Pablo Picasso'. Also kept set refers to Picasso as a Spanish artist, which would make this repetitive."
+  },
+  {
+    "question_id": 383,
+    "keep": false,
+    "reason": "Duplicate of kept question 251: 'In which city is the United Nations headquarters located? | Answer: New York City'."
+  },
+  {
+    "question_id": 384,
+    "keep": false,
+    "reason": "Duplicate of kept question 108: 'Which famous scientist developed the polio vaccine in 1955? | Answer: Jonas Salk'."
+  },
+  {
+    "question_id": 388,
+    "keep": false,
+    "reason": "Duplicate of kept question 52: 'What is the main ingredient in the Middle Eastern dish falafel? | Answer: Chickpeas', and question 127: 'What is the main ingredient in the Spanish dish gazpacho? | Answer: Tomato'. Hummus is unique but too close to the falafel/chickpea question."
+  },
+  {
+    "question_id": 389,
+    "keep": false,
+    "reason": "Duplicate of kept question 136: 'Which English author wrote 'Pride and Prejudice'? | Answer: Jane Austen'."
+  },
+  {
+    "question_id": 394,
+    "keep": false,
+    "reason": "Duplicate of kept question 15: 'What is the freezing point of water in Celsius? | Answer: 0 degrees'."
+  },
+  {
+    "question_id": 397,
+    "keep": false,
+    "reason": "Duplicate of kept question 279: 'Which team sport is played on an ice rink with sticks and a puck? | Answer: Ice hockey'."
+  },
+  {
+    "question_id": 399,
+    "keep": false,
+    "reason": "Duplicate of kept question 273: 'Which animal is classified as a marsupial? | Answer: Kangaroo'."
+  },
+  {
+    "question_id": 400,
+    "keep": false,
+    "reason": "Duplicate of kept question 17: 'What gas do plants absorb during photosynthesis? | Answer: Carbon dioxide'."
+  }
+]

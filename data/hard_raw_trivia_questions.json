@@ -1,0 +1,722 @@
+[
+  {
+    "question": "In the periodic table, which element has the highest electrical conductivity at standard temperature and pressure?",
+    "correct_answer": "Silver (Ag)",
+    "wrong_answer_1": "Copper (Cu)",
+    "wrong_answer_2": "Gold (Au)",
+    "wrong_answer_3": "Aluminum (Al)",
+    "difficulty": 8
+  },
+  {
+    "question": "Who was the primary author of the influential 18th-century work 'The Wealth of Nations'?",
+    "correct_answer": "Adam Smith",
+    "wrong_answer_1": "David Ricardo",
+    "wrong_answer_2": "John Locke",
+    "wrong_answer_3": "Thomas Malthus",
+    "difficulty": 8
+  },
+  {
+    "question": "Which Shakespeare play features characters named Goneril, Regan, and Cordelia?",
+    "correct_answer": "King Lear",
+    "wrong_answer_1": "Othello",
+    "wrong_answer_2": "Hamlet",
+    "wrong_answer_3": "Macbeth",
+    "difficulty": 8
+  },
+  {
+    "question": "Who composed the opera 'Die Meistersinger von Nürnberg'?",
+    "correct_answer": "Richard Wagner",
+    "wrong_answer_1": "Giacomo Puccini",
+    "wrong_answer_2": "Richard Strauss",
+    "wrong_answer_3": "Franz Lehár",
+    "difficulty": 8
+  },
+  {
+    "question": "Which branch of mathematics studies the properties of space that are preserved under continuous transformations?",
+    "correct_answer": "Topology",
+    "wrong_answer_1": "Algebra",
+    "wrong_answer_2": "Trigonometry",
+    "wrong_answer_3": "Calculus",
+    "difficulty": 8
+  },
+  {
+    "question": "Which Norse god is the father of Thor in mythology?",
+    "correct_answer": "Odin",
+    "wrong_answer_1": "Loki",
+    "wrong_answer_2": "Baldur",
+    "wrong_answer_3": "Freyr",
+    "difficulty": 8
+  },
+  {
+    "question": "Who was the first person to perform a successful human heart transplant?",
+    "correct_answer": "Christiaan Barnard",
+    "wrong_answer_1": "William DeVries",
+    "wrong_answer_2": "René Favaloro",
+    "wrong_answer_3": "Norman Shumway",
+    "difficulty": 9
+  },
+  {
+    "question": "Which Czech author wrote 'The Trial' and is known for themes of existential anxiety?",
+    "correct_answer": "Franz Kafka",
+    "wrong_answer_1": "Milan Kundera",
+    "wrong_answer_2": "Bohumil Hrabal",
+    "wrong_answer_3": "Jaroslav Hašek",
+    "difficulty": 9
+  },
+  {
+    "question": "Which physicist formulated the uncertainty principle, a fundamental theory in quantum mechanics?",
+    "correct_answer": "Werner Heisenberg",
+    "wrong_answer_1": "Niels Bohr",
+    "wrong_answer_2": "Paul Dirac",
+    "wrong_answer_3": "Erwin Schrödinger",
+    "difficulty": 9
+  },
+  {
+    "question": "What is the currency of South Korea called?",
+    "correct_answer": "South Korean won",
+    "wrong_answer_1": "Japanese yen",
+    "wrong_answer_2": "Chinese yuan",
+    "wrong_answer_3": "Vietnamese dong",
+    "difficulty": 9
+  },
+  {
+    "question": "Which chemical process is used to convert unsaturated fats to saturated fats by the addition of hydrogen?",
+    "correct_answer": "Hydrogenation",
+    "wrong_answer_1": "Esterification",
+    "wrong_answer_2": "Oxidation",
+    "wrong_answer_3": "Transesterification",
+    "difficulty": 9
+  },
+  {
+    "question": "Who played Salieri in the 1984 film 'Amadeus'?",
+    "correct_answer": "F. Murray Abraham",
+    "wrong_answer_1": "Tom Hulce",
+    "wrong_answer_2": "Sam Waterston",
+    "wrong_answer_3": "Jonathan Pryce",
+    "difficulty": 9
+  },
+  {
+    "question": "Who invented the movable-type printing press in Europe?",
+    "correct_answer": "Johannes Gutenberg",
+    "wrong_answer_1": "Aldus Manutius",
+    "wrong_answer_2": "William Caxton",
+    "wrong_answer_3": "Laurens Janszoon Coster",
+    "difficulty": 10
+  },
+  {
+    "question": "Which mathematician is credited with founding set theory in the late 19th century?",
+    "correct_answer": "Georg Cantor",
+    "wrong_answer_1": "Henri Poincaré",
+    "wrong_answer_2": "Bernhard Riemann",
+    "wrong_answer_3": "Évariste Galois",
+    "difficulty": 10
+  },
+  {
+    "question": "Which 20th-century painter created the triptych 'Three Studies for Figures at the Base of a Crucifixion'?",
+    "correct_answer": "Francis Bacon",
+    "wrong_answer_1": "Lucian Freud",
+    "wrong_answer_2": "Mark Rothko",
+    "wrong_answer_3": "Willem de Kooning",
+    "difficulty": 10
+  },
+  {
+    "question": "In which year was the first Nobel Prize in Physics awarded?",
+    "correct_answer": "1901",
+    "wrong_answer_1": "1895",
+    "wrong_answer_2": "1910",
+    "wrong_answer_3": "1921",
+    "difficulty": 10
+  },
+  {
+    "question": "Which Italian company is known for producing the iconic Vespa scooter?",
+    "correct_answer": "Piaggio",
+    "wrong_answer_1": "Lambretta",
+    "wrong_answer_2": "Aprilia",
+    "wrong_answer_3": "Ducati",
+    "difficulty": 10
+  },
+  {
+    "question": "What is the French culinary term for a bundle of herbs tied together and used to flavor soups and stews?",
+    "correct_answer": "Bouquet garni",
+    "wrong_answer_1": "Mirepoix",
+    "wrong_answer_2": "Roux blanc",
+    "wrong_answer_3": "Chiffonade",
+    "difficulty": 10
+  },
+  {
+    "question": "Which physicist discovered cosmic microwave background radiation alongside Arno Penzias?",
+    "correct_answer": "Robert Wilson",
+    "wrong_answer_1": "Richard Feynman",
+    "wrong_answer_2": "Murray Gell-Mann",
+    "wrong_answer_3": "Freeman Dyson",
+    "difficulty": 8
+  },
+  {
+    "question": "Which ancient Greek playwright wrote 'The Persians', one of the earliest surviving plays?",
+    "correct_answer": "Aeschylus",
+    "wrong_answer_1": "Sophocles",
+    "wrong_answer_2": "Euripides",
+    "wrong_answer_3": "Aristophanes",
+    "difficulty": 8
+  },
+  {
+    "question": "What is the name of the weak force-carrying boson discovered at CERN in 1983?",
+    "correct_answer": "W boson",
+    "wrong_answer_1": "Z boson",
+    "wrong_answer_2": "Higgs boson",
+    "wrong_answer_3": "Photon",
+    "difficulty": 8
+  },
+  {
+    "question": "Who was the first U.S. Secretary of the Treasury to found a national bank?",
+    "correct_answer": "Alexander Hamilton",
+    "wrong_answer_1": "Thomas Jefferson",
+    "wrong_answer_2": "Henry Knox",
+    "wrong_answer_3": "James Madison",
+    "difficulty": 8
+  },
+  {
+    "question": "Which artist painted 'The Garden of Earthly Delights'?",
+    "correct_answer": "Hieronymus Bosch",
+    "wrong_answer_1": "Pieter Bruegel",
+    "wrong_answer_2": "Jan van Eyck",
+    "wrong_answer_3": "Albrecht Dürer",
+    "difficulty": 8
+  },
+  {
+    "question": "Who formulated the literary theory of 'the intentional fallacy' in 1946?",
+    "correct_answer": "W.K. Wimsatt",
+    "wrong_answer_1": "I.A. Richards",
+    "wrong_answer_2": "T.S. Eliot",
+    "wrong_answer_3": "Cleanth Brooks",
+    "difficulty": 8
+  },
+  {
+    "question": "Which enzyme is responsible for synthesizing the RNA primer during DNA replication in E. coli?",
+    "correct_answer": "Primase",
+    "wrong_answer_1": "Ligase",
+    "wrong_answer_2": "Helicase",
+    "wrong_answer_3": "Topoisomerase",
+    "difficulty": 9
+  },
+  {
+    "question": "Who sang the original 1967 hit 'A Whiter Shade of Pale'?",
+    "correct_answer": "Procol Harum",
+    "wrong_answer_1": "The Moody Blues",
+    "wrong_answer_2": "The Zombies",
+    "wrong_answer_3": "The Animals",
+    "difficulty": 9
+  },
+  {
+    "question": "Which film marked the first collaboration between director Werner Herzog and actor Klaus Kinski?",
+    "correct_answer": "Aguirre, the Wrath of God",
+    "wrong_answer_1": "Fitzcarraldo",
+    "wrong_answer_2": "Nosferatu the Vampyre",
+    "wrong_answer_3": "Woyzeck",
+    "difficulty": 9
+  },
+  {
+    "question": "Which 20th-century mathematician proved Fermat’s Last Theorem in 1994?",
+    "correct_answer": "Andrew Wiles",
+    "wrong_answer_1": "Grigori Perelman",
+    "wrong_answer_2": "Jean-Pierre Serre",
+    "wrong_answer_3": "Terence Tao",
+    "difficulty": 9
+  },
+  {
+    "question": "Which novel features the enigmatic character Dean Moriarty?",
+    "correct_answer": "On the Road",
+    "wrong_answer_1": "The Dharma Bums",
+    "wrong_answer_2": "Naked Lunch",
+    "wrong_answer_3": "Catcher in the Rye",
+    "difficulty": 9
+  },
+  {
+    "question": "What medical condition is also known as Lou Gehrig’s disease?",
+    "correct_answer": "Amyotrophic lateral sclerosis",
+    "wrong_answer_1": "Huntington’s disease",
+    "wrong_answer_2": "Multiple sclerosis",
+    "wrong_answer_3": "Parkinson’s disease",
+    "difficulty": 9
+  },
+  {
+    "question": "Which South American civilization constructed the city of Tiwanaku near Lake Titicaca?",
+    "correct_answer": "Tiwanaku",
+    "wrong_answer_1": "Chavin",
+    "wrong_answer_2": "Nazca",
+    "wrong_answer_3": "Wari",
+    "difficulty": 10
+  },
+  {
+    "question": "Who composed the full ballet 'Appalachian Spring'?",
+    "correct_answer": "Aaron Copland",
+    "wrong_answer_1": "Leonard Bernstein",
+    "wrong_answer_2": "Samuel Barber",
+    "wrong_answer_3": "George Gershwin",
+    "difficulty": 10
+  },
+  {
+    "question": "What was the first commercially available programmable general-purpose computer?",
+    "correct_answer": "UNIVAC I",
+    "wrong_answer_1": "ENIAC",
+    "wrong_answer_2": "IBM 701",
+    "wrong_answer_3": "Colossus Mark 2",
+    "difficulty": 10
+  },
+  {
+    "question": "Which mythological monster was slain by Bellerophon with the help of Pegasus?",
+    "correct_answer": "Chimera",
+    "wrong_answer_1": "Cerberus",
+    "wrong_answer_2": "Hydra",
+    "wrong_answer_3": "Minotaur",
+    "difficulty": 10
+  },
+  {
+    "question": "In the International Phonetic Alphabet, what does the symbol [ʃ] represent?",
+    "correct_answer": "Voiceless postalveolar fricative",
+    "wrong_answer_1": "Voiced alveolar fricative",
+    "wrong_answer_2": "Voiceless velar plosive",
+    "wrong_answer_3": "Voiced dental stop",
+    "difficulty": 10
+  },
+  {
+    "question": "Who is credited with inventing the Lie group in mathematics?",
+    "correct_answer": "Sophus Lie",
+    "wrong_answer_1": "Évariste Galois",
+    "wrong_answer_2": "Joseph Fourier",
+    "wrong_answer_3": "Henri Poincaré",
+    "difficulty": 10
+  },
+  {
+    "question": "Which physicist demonstrated the wave nature of electrons through experiments with nickel crystals in 1927?",
+    "correct_answer": "Clinton Davisson",
+    "wrong_answer_1": "Chien-Shiung Wu",
+    "wrong_answer_2": "Chadwick Rutherford",
+    "wrong_answer_3": "Ernest Lawrence",
+    "difficulty": 8
+  },
+  {
+    "question": "Who wrote the novel 'The Master and Margarita', which blends satire, fantasy, and biblical themes in Soviet Russia?",
+    "correct_answer": "Mikhail Bulgakov",
+    "wrong_answer_1": "Andrei Platonov",
+    "wrong_answer_2": "Boris Pasternak",
+    "wrong_answer_3": "Vasily Grossman",
+    "difficulty": 8
+  },
+  {
+    "question": "In the context of network protocols, what does the acronym OSPF stand for?",
+    "correct_answer": "Open Shortest Path First",
+    "wrong_answer_1": "Object Sharing Protocol Framework",
+    "wrong_answer_2": "Optimized Secure Packet Forwarding",
+    "wrong_answer_3": "Outer Service Path Function",
+    "difficulty": 8
+  },
+  {
+    "question": "Which German composer wrote the 1850 opera 'Lohengrin', featuring the 'Bridal Chorus'?",
+    "correct_answer": "Richard Wagner",
+    "wrong_answer_1": "Carl Maria von Weber",
+    "wrong_answer_2": "Gustav Mahler",
+    "wrong_answer_3": "Franz Schubert",
+    "difficulty": 8
+  },
+  {
+    "question": "What is the mathematical name for a solid with exactly ten faces?",
+    "correct_answer": "Decahedron",
+    "wrong_answer_1": "Hexahedron",
+    "wrong_answer_2": "Dodecahedron",
+    "wrong_answer_3": "Tetrahedron",
+    "difficulty": 8
+  },
+  {
+    "question": "Which South African athlete set a still-standing 800m men's world record at the 2012 London Olympics?",
+    "correct_answer": "David Rudisha",
+    "wrong_answer_1": "Caster Semenya",
+    "wrong_answer_2": "Wilson Kipketer",
+    "wrong_answer_3": "Nijel Amos",
+    "difficulty": 8
+  },
+  {
+    "question": "Which Norwegian painter created the work 'The Dance of Life' in 1899?",
+    "correct_answer": "Edvard Munch",
+    "wrong_answer_1": "Harald Sohlberg",
+    "wrong_answer_2": "Christian Krohg",
+    "wrong_answer_3": "Gustav Vigeland",
+    "difficulty": 9
+  },
+  {
+    "question": "Which Greek mythological figure solved the riddle of the Sphinx and became king of Thebes?",
+    "correct_answer": "Oedipus",
+    "wrong_answer_1": "Perseus",
+    "wrong_answer_2": "Theseus",
+    "wrong_answer_3": "Jason",
+    "difficulty": 9
+  },
+  {
+    "question": "Who is the author of the 1987 cyberpunk novel 'Count Zero', which is the second entry in the Sprawl trilogy?",
+    "correct_answer": "William Gibson",
+    "wrong_answer_1": "Neal Stephenson",
+    "wrong_answer_2": "Bruce Sterling",
+    "wrong_answer_3": "Pat Cadigan",
+    "difficulty": 9
+  },
+  {
+    "question": "What enzyme is responsible for converting fibrinogen to fibrin during blood coagulation?",
+    "correct_answer": "Thrombin",
+    "wrong_answer_1": "Renin",
+    "wrong_answer_2": "Pepsin",
+    "wrong_answer_3": "Trypsin",
+    "difficulty": 9
+  },
+  {
+    "question": "Which American artist painted the large mural 'Detroit Industry' in the 1930s?",
+    "correct_answer": "Diego Rivera",
+    "wrong_answer_1": "Jackson Pollock",
+    "wrong_answer_2": "Edward Hopper",
+    "wrong_answer_3": "Thomas Hart Benton",
+    "difficulty": 9
+  },
+  {
+    "question": "In formal logic, what is the name for a statement that is always true regardless of its variable values?",
+    "correct_answer": "Tautology",
+    "wrong_answer_1": "Contradiction",
+    "wrong_answer_2": "Paradox",
+    "wrong_answer_3": "Biconditional",
+    "difficulty": 9
+  },
+  {
+    "question": "Which novel by J. M. Coetzee features the character Magistrate during times of imperial expansion and tension?",
+    "correct_answer": "Waiting for the Barbarians",
+    "wrong_answer_1": "Disgrace",
+    "wrong_answer_2": "Life & Times of Michael K",
+    "wrong_answer_3": "The Childhood of Jesus",
+    "difficulty": 10
+  },
+  {
+    "question": "Which mathematician introduced the concept of the 'game tree' central to combinatorial game theory?",
+    "correct_answer": "Ernst Zermelo",
+    "wrong_answer_1": "John von Neumann",
+    "wrong_answer_2": "Emmy Noether",
+    "wrong_answer_3": "Alonzo Church",
+    "difficulty": 10
+  },
+  {
+    "question": "Who composed the 1948 orchestral suite 'The Young Person’s Guide to the Orchestra'?",
+    "correct_answer": "Benjamin Britten",
+    "wrong_answer_1": "Aaron Copland",
+    "wrong_answer_2": "Leonard Bernstein",
+    "wrong_answer_3": "Edward Elgar",
+    "difficulty": 10
+  },
+  {
+    "question": "Which Japanese film director made 'Ugetsu', a 1953 masterpiece of postwar cinema blending ghostly and historical elements?",
+    "correct_answer": "Kenji Mizoguchi",
+    "wrong_answer_1": "Yasujiro Ozu",
+    "wrong_answer_2": "Akira Kurosawa",
+    "wrong_answer_3": "Masaki Kobayashi",
+    "difficulty": 10
+  },
+  {
+    "question": "What is the term for the process by which plants convert nitrate to atmospheric nitrogen gas, releasing it from the soil?",
+    "correct_answer": "Denitrification",
+    "wrong_answer_1": "Nitrogen fixation",
+    "wrong_answer_2": "Ammonification",
+    "wrong_answer_3": "Nitrification",
+    "difficulty": 10
+  },
+  {
+    "question": "Which 20th-century chess grandmaster was World Champion from 1969 to 1972, known for their positional style?",
+    "correct_answer": "Boris Spassky",
+    "wrong_answer_1": "Tigran Petrosian",
+    "wrong_answer_2": "Viktor Korchnoi",
+    "wrong_answer_3": "Mikhail Tal",
+    "difficulty": 10
+  },
+  {
+    "question": "Which Roman emperor was responsible for constructing the massive defensive fortification known as the Antonine Wall in Scotland?",
+    "correct_answer": "Antoninus Pius",
+    "wrong_answer_1": "Hadrian",
+    "wrong_answer_2": "Marcus Aurelius",
+    "wrong_answer_3": "Trajan",
+    "difficulty": 8
+  },
+  {
+    "question": "Who authored the 1922 modernist novel 'Ulysses', widely regarded as a landmark in English-language literature?",
+    "correct_answer": "James Joyce",
+    "wrong_answer_1": "T. S. Eliot",
+    "wrong_answer_2": "Virginia Woolf",
+    "wrong_answer_3": "Ezra Pound",
+    "difficulty": 8
+  },
+  {
+    "question": "In the OSI reference model, which layer is primarily responsible for routing packets between networks?",
+    "correct_answer": "Network layer",
+    "wrong_answer_1": "Transport layer",
+    "wrong_answer_2": "Session layer",
+    "wrong_answer_3": "Data Link layer",
+    "difficulty": 8
+  },
+  {
+    "question": "Who won the men's singles title at the 1985 Wimbledon Championships, defeating Kevin Curren in the final?",
+    "correct_answer": "Boris Becker",
+    "wrong_answer_1": "Ivan Lendl",
+    "wrong_answer_2": "Stefan Edberg",
+    "wrong_answer_3": "Pat Cash",
+    "difficulty": 8
+  },
+  {
+    "question": "Which chemical element has the highest melting point of all pure elements?",
+    "correct_answer": "Tungsten",
+    "wrong_answer_1": "Osmium",
+    "wrong_answer_2": "Platinum",
+    "wrong_answer_3": "Molybdenum",
+    "difficulty": 8
+  },
+  {
+    "question": "Which painter is renowned for the work 'American Gothic', depicting a farmer and his daughter in front of a house?",
+    "correct_answer": "Grant Wood",
+    "wrong_answer_1": "Edward Hopper",
+    "wrong_answer_2": "Norman Rockwell",
+    "wrong_answer_3": "Georgia O’Keeffe",
+    "difficulty": 8
+  },
+  {
+    "question": "Which scientist discovered the first antibiotic, penicillin, in 1928?",
+    "correct_answer": "Alexander Fleming",
+    "wrong_answer_1": "Louis Pasteur",
+    "wrong_answer_2": "Joseph Lister",
+    "wrong_answer_3": "Paul Ehrlich",
+    "difficulty": 9
+  },
+  {
+    "question": "What is the culinary term for the outer, colored part of citrus fruit peel, often used as flavoring?",
+    "correct_answer": "Zest",
+    "wrong_answer_1": "Pith",
+    "wrong_answer_2": "Pulp",
+    "wrong_answer_3": "Rind",
+    "difficulty": 9
+  },
+  {
+    "question": "Who directed the 1963 historical epic film 'Cleopatra' starring Elizabeth Taylor and Richard Burton?",
+    "correct_answer": "Joseph L. Mankiewicz",
+    "wrong_answer_1": "William Wyler",
+    "wrong_answer_2": "David Lean",
+    "wrong_answer_3": "George Stevens",
+    "difficulty": 9
+  },
+  {
+    "question": "Which protease enzyme initiates protein digestion in the human stomach?",
+    "correct_answer": "Pepsin",
+    "wrong_answer_1": "Trypsin",
+    "wrong_answer_2": "Chymotrypsin",
+    "wrong_answer_3": "Amylase",
+    "difficulty": 9
+  },
+  {
+    "question": "Which 20th-century composer created 'Music for 18 Musicians', a seminal minimalist work?",
+    "correct_answer": "Steve Reich",
+    "wrong_answer_1": "Philip Glass",
+    "wrong_answer_2": "John Adams",
+    "wrong_answer_3": "Terry Riley",
+    "difficulty": 9
+  },
+  {
+    "question": "Who is the mythical Greek figure punished by being forced to roll a boulder up a hill for eternity?",
+    "correct_answer": "Sisyphus",
+    "wrong_answer_1": "Tantalus",
+    "wrong_answer_2": "Prometheus",
+    "wrong_answer_3": "Ixion",
+    "difficulty": 9
+  },
+  {
+    "question": "Which number is the only even prime number in the set of all natural numbers?",
+    "correct_answer": "Two",
+    "wrong_answer_1": "Three",
+    "wrong_answer_2": "Five",
+    "wrong_answer_3": "Seven",
+    "difficulty": 10
+  },
+  {
+    "question": "Who developed the first successful polio vaccine in the 1950s, which was introduced for widespread use in 1955?",
+    "correct_answer": "Jonas Salk",
+    "wrong_answer_1": "Albert Sabin",
+    "wrong_answer_2": "Louis Pasteur",
+    "wrong_answer_3": "Edward Jenner",
+    "difficulty": 10
+  },
+  {
+    "question": "What is the term for a corporate acquisition in which a smaller firm purchases a larger one?",
+    "correct_answer": "Reverse takeover",
+    "wrong_answer_1": "Hostile merger",
+    "wrong_answer_2": "Tender offer",
+    "wrong_answer_3": "Joint venture",
+    "difficulty": 10
+  },
+  {
+    "question": "Who is credited as the founder of probability theory, having corresponded with Fermat on the subject in the 17th century?",
+    "correct_answer": "Blaise Pascal",
+    "wrong_answer_1": "Pierre Laplace",
+    "wrong_answer_2": "Jacques Bernoulli",
+    "wrong_answer_3": "René Descartes",
+    "difficulty": 10
+  },
+  {
+    "question": "Which enzyme catalyzes the conversion of pyruvate to acetyl-CoA in cellular respiration?",
+    "correct_answer": "Pyruvate dehydrogenase",
+    "wrong_answer_1": "Lactate dehydrogenase",
+    "wrong_answer_2": "Citrate synthase",
+    "wrong_answer_3": "Succinate dehydrogenase",
+    "difficulty": 10
+  },
+  {
+    "question": "Which novel by Gabriel García Márquez chronicles the rise and fall of the Buendía family over seven generations?",
+    "correct_answer": "One Hundred Years of Solitude",
+    "wrong_answer_1": "Love in the Time of Cholera",
+    "wrong_answer_2": "The Autumn of the Patriarch",
+    "wrong_answer_3": "Chronicle of a Death Foretold",
+    "difficulty": 10
+  },
+  {
+    "question": "Which British monarch signed the Magna Carta in 1215?",
+    "correct_answer": "King John of England",
+    "wrong_answer_1": "Henry VII of England",
+    "wrong_answer_2": "Edward I of England",
+    "wrong_answer_3": "Richard II of England",
+    "difficulty": 8
+  },
+  {
+    "question": "Who painted the series 'Water Lilies' inspired by his garden in Giverny?",
+    "correct_answer": "Claude Monet",
+    "wrong_answer_1": "Pierre Renoir",
+    "wrong_answer_2": "Edgar Degas",
+    "wrong_answer_3": "Édouard Manet",
+    "difficulty": 8
+  },
+  {
+    "question": "What chemical element is primarily obtained from the ore cassiterite?",
+    "correct_answer": "Tin",
+    "wrong_answer_1": "Lead",
+    "wrong_answer_2": "Zinc",
+    "wrong_answer_3": "Nickel",
+    "difficulty": 8
+  },
+  {
+    "question": "In classical mechanics, what is the SI unit for angular momentum?",
+    "correct_answer": "Kilogram meter squared per second",
+    "wrong_answer_1": "Newton meter per second",
+    "wrong_answer_2": "Joule per second squared",
+    "wrong_answer_3": "Watt per meter second",
+    "difficulty": 8
+  },
+  {
+    "question": "Who wrote the 1877 Russian novel 'Anna Karenina'?",
+    "correct_answer": "Leo Tolstoy",
+    "wrong_answer_1": "Fyodor Dostoevsky",
+    "wrong_answer_2": "Alexander Pushkin",
+    "wrong_answer_3": "Anton Chekhov",
+    "difficulty": 8
+  },
+  {
+    "question": "Which mathematical constant is approximately equal to 2.71828?",
+    "correct_answer": "Euler's number",
+    "wrong_answer_1": "The golden ratio",
+    "wrong_answer_2": "Euler-Mascheroni constant",
+    "wrong_answer_3": "Planck's constant",
+    "difficulty": 8
+  },
+  {
+    "question": "Which protein is the primary component of hair, nails, and feathers?",
+    "correct_answer": "Keratin",
+    "wrong_answer_1": "Collagen",
+    "wrong_answer_2": "Elastin",
+    "wrong_answer_3": "Myosin",
+    "difficulty": 9
+  },
+  {
+    "question": "Who directed the surrealist film 'Un Chien Andalou' in 1929 with Salvador Dalí?",
+    "correct_answer": "Luis Buñuel",
+    "wrong_answer_1": "Federico Fellini",
+    "wrong_answer_2": "Jean Vigo",
+    "wrong_answer_3": "Jean Cocteau",
+    "difficulty": 9
+  },
+  {
+    "question": "What is the term for a word that is spelled the same backwards as forwards?",
+    "correct_answer": "Palindrome",
+    "wrong_answer_1": "Spoonerism",
+    "wrong_answer_2": "Homograph",
+    "wrong_answer_3": "Anagram",
+    "difficulty": 9
+  },
+  {
+    "question": "In electronics, what does the abbreviation 'LED' stand for?",
+    "correct_answer": "Light Emitting Diode",
+    "wrong_answer_1": "Laser Enhanced Display",
+    "wrong_answer_2": "Low Energy Device",
+    "wrong_answer_3": "Linear Electric Detector",
+    "difficulty": 9
+  },
+  {
+    "question": "Who was the first African to win the Nobel Peace Prize, in 1960?",
+    "correct_answer": "Albert Lutuli",
+    "wrong_answer_1": "Kofi Annan",
+    "wrong_answer_2": "Desmond Tutu",
+    "wrong_answer_3": "Wangari Maathai",
+    "difficulty": 9
+  },
+  {
+    "question": "Which 20th-century British composer wrote the 'Enigma Variations'?",
+    "correct_answer": "Edward Elgar",
+    "wrong_answer_1": "Gustav Holst",
+    "wrong_answer_2": "Benjamin Britten",
+    "wrong_answer_3": "Michael Tippett",
+    "difficulty": 9
+  },
+  {
+    "question": "Who invented the process for creating stainless steel in the early 20th century?",
+    "correct_answer": "Harry Brearley",
+    "wrong_answer_1": "Charles Hall",
+    "wrong_answer_2": "H.C. Sorby",
+    "wrong_answer_3": "Leo Baekeland",
+    "difficulty": 10
+  },
+  {
+    "question": "Which ancient Indian text is considered the earliest treatise on statecraft and economic policy?",
+    "correct_answer": "Arthashastra",
+    "wrong_answer_1": "Mahabharata",
+    "wrong_answer_2": "Bhagavad Gita",
+    "wrong_answer_3": "Rigveda",
+    "difficulty": 10
+  },
+  {
+    "question": "Which American author wrote the play 'Death of a Salesman' in 1949?",
+    "correct_answer": "Arthur Miller",
+    "wrong_answer_1": "Eugene O'Neill",
+    "wrong_answer_2": "Tennessee Williams",
+    "wrong_answer_3": "Edward Albee",
+    "difficulty": 10
+  },
+  {
+    "question": "What is the term for the range of frequencies that a radio receiver can process?",
+    "correct_answer": "Bandwidth",
+    "wrong_answer_1": "Latency",
+    "wrong_answer_2": "Resonance",
+    "wrong_answer_3": "Impedance",
+    "difficulty": 10
+  },
+  {
+    "question": "Who was the Brazilian architect credited with designing much of Brasília’s modernist structures?",
+    "correct_answer": "Oscar Niemeyer",
+    "wrong_answer_1": "Roberto Burle Marx",
+    "wrong_answer_2": "Lina Bo Bardi",
+    "wrong_answer_3": "Paulo Mendes da Rocha",
+    "difficulty": 10
+  },
+  {
+    "question": "Which enzyme catalyzes the hydrolysis of lactose into glucose and galactose?",
+    "correct_answer": "Lactase",
+    "wrong_answer_1": "Amylase",
+    "wrong_answer_2": "Maltase",
+    "wrong_answer_3": "Pepsin",
+    "difficulty": 10
+  }
+]

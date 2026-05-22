@@ -1,0 +1,2482 @@
+[
+  {
+    "question": "What is the capital city of Argentina?",
+    "correct_answer": "Buenos Aires",
+    "wrong_answer_1": "Santiago",
+    "wrong_answer_2": "Lima",
+    "wrong_answer_3": "Caracas",
+    "difficulty": 2
+  },
+  {
+    "question": "Who wrote the novel 'Moby-Dick'?",
+    "correct_answer": "Herman Melville",
+    "wrong_answer_1": "Mark Twain",
+    "wrong_answer_2": "Jules Verne",
+    "wrong_answer_3": "Charles Dickens",
+    "difficulty": 4
+  },
+  {
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "correct_answer": "Iron",
+    "wrong_answer_1": "Lead",
+    "wrong_answer_2": "Silver",
+    "wrong_answer_3": "Gold",
+    "difficulty": 2
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "correct_answer": "1989",
+    "wrong_answer_1": "1991",
+    "wrong_answer_2": "1975",
+    "wrong_answer_3": "1983",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "correct_answer": "Jupiter",
+    "wrong_answer_1": "Saturn",
+    "wrong_answer_2": "Earth",
+    "wrong_answer_3": "Neptune",
+    "difficulty": 2
+  },
+  {
+    "question": "Which artist painted the 'Mona Lisa'?",
+    "correct_answer": "Leonardo da Vinci",
+    "wrong_answer_1": "Pablo Picasso",
+    "wrong_answer_2": "Vincent van Gogh",
+    "wrong_answer_3": "Claude Monet",
+    "difficulty": 2
+  },
+  {
+    "question": "Who is known as the 'Father of Computers'?",
+    "correct_answer": "Charles Babbage",
+    "wrong_answer_1": "Alan Turing",
+    "wrong_answer_2": "Isaac Newton",
+    "wrong_answer_3": "Bill Gates",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "correct_answer": "2",
+    "wrong_answer_1": "1",
+    "wrong_answer_2": "3",
+    "wrong_answer_3": "5",
+    "difficulty": 1
+  },
+  {
+    "question": "Which country is known for inventing sushi?",
+    "correct_answer": "Japan",
+    "wrong_answer_1": "China",
+    "wrong_answer_2": "Korea",
+    "wrong_answer_3": "Vietnam",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "correct_answer": "Avocado",
+    "wrong_answer_1": "Tomato",
+    "wrong_answer_2": "Cucumber",
+    "wrong_answer_3": "Onion",
+    "difficulty": 1
+  },
+  {
+    "question": "Which king signed the Magna Carta in 1215?",
+    "correct_answer": "King John",
+    "wrong_answer_1": "King Henry",
+    "wrong_answer_2": "King Richard",
+    "wrong_answer_3": "King Edward",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the longest river in Africa?",
+    "correct_answer": "Nile River",
+    "wrong_answer_1": "Congo River",
+    "wrong_answer_2": "Zambezi River",
+    "wrong_answer_3": "Orange River",
+    "difficulty": 3
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "correct_answer": "Lizard",
+    "wrong_answer_1": "Snake",
+    "wrong_answer_2": "Frog",
+    "wrong_answer_3": "Turtle",
+    "difficulty": 2
+  },
+  {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "wrong_answer_1": "Ludwig van Beethoven",
+    "wrong_answer_2": "Johann Sebastian Bach",
+    "wrong_answer_3": "Giuseppe Verdi",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "correct_answer": "0 degrees",
+    "wrong_answer_1": "5 degrees",
+    "wrong_answer_2": "-5 degrees",
+    "wrong_answer_3": "10 degrees",
+    "difficulty": 1
+  },
+  {
+    "question": "Which U.S. president issued the Emancipation Proclamation?",
+    "correct_answer": "Abraham Lincoln",
+    "wrong_answer_1": "Andrew Johnson",
+    "wrong_answer_2": "Ulysses S. Grant",
+    "wrong_answer_3": "James Buchanan",
+    "difficulty": 3
+  },
+  {
+    "question": "What gas do plants absorb during photosynthesis?",
+    "correct_answer": "Carbon dioxide",
+    "wrong_answer_1": "Oxygen",
+    "wrong_answer_2": "Nitrogen",
+    "wrong_answer_3": "Methane",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the national sport of Canada?",
+    "correct_answer": "Lacrosse",
+    "wrong_answer_1": "Hockey",
+    "wrong_answer_2": "Basketball",
+    "wrong_answer_3": "Soccer",
+    "difficulty": 7
+  },
+  {
+    "question": "In which city is the famous Acropolis located?",
+    "correct_answer": "Athens",
+    "wrong_answer_1": "Rome",
+    "wrong_answer_2": "Istanbul",
+    "wrong_answer_3": "Cairo",
+    "difficulty": 3
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "correct_answer": "Saturn",
+    "wrong_answer_1": "Jupiter",
+    "wrong_answer_2": "Mars",
+    "wrong_answer_3": "Uranus",
+    "difficulty": 6
+  },
+  {
+    "question": "Who discovered penicillin in 1928?",
+    "correct_answer": "Alexander Fleming",
+    "wrong_answer_1": "Marie Curie",
+    "wrong_answer_2": "Louis Pasteur",
+    "wrong_answer_3": "Joseph Lister",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the currency of Sweden?",
+    "correct_answer": "Krona",
+    "wrong_answer_1": "Euro",
+    "wrong_answer_2": "Franc",
+    "wrong_answer_3": "Pound",
+    "difficulty": 5
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "correct_answer": "Portuguese",
+    "wrong_answer_1": "Spanish",
+    "wrong_answer_2": "French",
+    "wrong_answer_3": "Italian",
+    "difficulty": 2
+  },
+  {
+    "question": "The Great Barrier Reef is located off the coast of which country?",
+    "correct_answer": "Australia",
+    "wrong_answer_1": "India",
+    "wrong_answer_2": "South Africa",
+    "wrong_answer_3": "Mexico",
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the lead singer of Queen?",
+    "correct_answer": "Freddie Mercury",
+    "wrong_answer_1": "David Bowie",
+    "wrong_answer_2": "Mick Jagger",
+    "wrong_answer_3": "Robert Plant",
+    "difficulty": 3
+  },
+  {
+    "question": "Which country is home to the ancient city of Petra?",
+    "correct_answer": "Jordan",
+    "wrong_answer_1": "Egypt",
+    "wrong_answer_2": "Greece",
+    "wrong_answer_3": "Morocco",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "correct_answer": "Diamond",
+    "wrong_answer_1": "Quartz",
+    "wrong_answer_2": "Gold",
+    "wrong_answer_3": "Ruby",
+    "difficulty": 2
+  },
+  {
+    "question": "Who is the author of the fantasy series 'A Song of Ice and Fire'?",
+    "correct_answer": "George R.R. Martin",
+    "wrong_answer_1": "J.K. Rowling",
+    "wrong_answer_2": "Patrick Rothfuss",
+    "wrong_answer_3": "Terry Pratchett",
+    "difficulty": 3
+  },
+  {
+    "question": "Which Italian city is famous for its historical canals?",
+    "correct_answer": "Venice",
+    "wrong_answer_1": "Florence",
+    "wrong_answer_2": "Milan",
+    "wrong_answer_3": "Turin",
+    "difficulty": 2
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "correct_answer": "Michelangelo",
+    "wrong_answer_1": "Leonardo da Vinci",
+    "wrong_answer_2": "Raphael",
+    "wrong_answer_3": "Caravaggio",
+    "difficulty": 2
+  },
+  {
+    "question": "Which element has the atomic number 79?",
+    "correct_answer": "Gold",
+    "wrong_answer_1": "Iron",
+    "wrong_answer_2": "Copper",
+    "wrong_answer_3": "Zinc",
+    "difficulty": 5
+  },
+  {
+    "question": "In what year did Apollo 11 land on the Moon?",
+    "correct_answer": "1969",
+    "wrong_answer_1": "1959",
+    "wrong_answer_2": "1979",
+    "wrong_answer_3": "1989",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "correct_answer": "Margaret Thatcher",
+    "wrong_answer_1": "Angela Merkel",
+    "wrong_answer_2": "Indira Gandhi",
+    "wrong_answer_3": "Golda Meir",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the capital city of Norway?",
+    "correct_answer": "Oslo",
+    "wrong_answer_1": "Helsinki",
+    "wrong_answer_2": "Copenhagen",
+    "wrong_answer_3": "Stockholm",
+    "difficulty": 2
+  },
+  {
+    "question": "Which gas is commonly used to fill balloons for floating?",
+    "correct_answer": "Helium",
+    "wrong_answer_1": "Oxygen",
+    "wrong_answer_2": "Nitrogen",
+    "wrong_answer_3": "Hydrogen",
+    "difficulty": 3
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "correct_answer": "William Shakespeare",
+    "wrong_answer_1": "Christopher Marlowe",
+    "wrong_answer_2": "Oscar Wilde",
+    "wrong_answer_3": "Samuel Beckett",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is the largest living mammal?",
+    "correct_answer": "Blue whale",
+    "wrong_answer_1": "African elephant",
+    "wrong_answer_2": "Hippopotamus",
+    "wrong_answer_3": "White rhino",
+    "difficulty": 2
+  },
+  {
+    "question": "Which U.S. city is known as the 'City of Angels'?",
+    "correct_answer": "Los Angeles",
+    "wrong_answer_1": "San Francisco",
+    "wrong_answer_2": "New Orleans",
+    "wrong_answer_3": "Las Vegas",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "correct_answer": "NaCl",
+    "wrong_answer_1": "KCl",
+    "wrong_answer_2": "Na2CO3",
+    "wrong_answer_3": "CaCl2",
+    "difficulty": 3
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2014?",
+    "correct_answer": "Germany",
+    "wrong_answer_1": "Brazil",
+    "wrong_answer_2": "Spain",
+    "wrong_answer_3": "Argentina",
+    "difficulty": 3
+  },
+  {
+    "question": "Which mountain is the tallest in Africa?",
+    "correct_answer": "Kilimanjaro",
+    "wrong_answer_1": "Mount Kenya",
+    "wrong_answer_2": "Mount Elgon",
+    "wrong_answer_3": "Mount Meru",
+    "difficulty": 3
+  },
+  {
+    "question": "Ratatouille is a traditional dish from which country?",
+    "correct_answer": "France",
+    "wrong_answer_1": "Spain",
+    "wrong_answer_2": "Greece",
+    "wrong_answer_3": "Italy",
+    "difficulty": 4
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "correct_answer": "Steven Spielberg",
+    "wrong_answer_1": "James Cameron",
+    "wrong_answer_2": "George Lucas",
+    "wrong_answer_3": "Ridley Scott",
+    "difficulty": 2
+  },
+  {
+    "question": "Which composer wrote 'Clair de Lune'?",
+    "correct_answer": "Claude Debussy",
+    "wrong_answer_1": "Erik Satie",
+    "wrong_answer_2": "Maurice Ravel",
+    "wrong_answer_3": "Camille Saint-Saëns",
+    "difficulty": 4
+  },
+  {
+    "question": "Which bird is the fastest in the world when diving?",
+    "correct_answer": "Peregrine falcon",
+    "wrong_answer_1": "Golden eagle",
+    "wrong_answer_2": "Osprey",
+    "wrong_answer_3": "Albatross",
+    "difficulty": 5
+  },
+  {
+    "question": "Which language uses the most native speakers worldwide?",
+    "correct_answer": "Mandarin Chinese",
+    "wrong_answer_1": "English",
+    "wrong_answer_2": "Hindi",
+    "wrong_answer_3": "Spanish",
+    "difficulty": 4
+  },
+  {
+    "question": "What type of animal is a platypus?",
+    "correct_answer": "Mammal",
+    "wrong_answer_1": "Reptile",
+    "wrong_answer_2": "Bird",
+    "wrong_answer_3": "Amphibian",
+    "difficulty": 3
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "correct_answer": "Tim Berners-Lee",
+    "wrong_answer_1": "Bill Gates",
+    "wrong_answer_2": "Steve Jobs",
+    "wrong_answer_3": "Linus Torvalds",
+    "difficulty": 5
+  },
+  {
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "correct_answer": "Beijing",
+    "wrong_answer_1": "Athens",
+    "wrong_answer_2": "Sydney",
+    "wrong_answer_3": "London",
+    "difficulty": 2
+  },
+  {
+    "question": "Which ancient civilization built Machu Picchu?",
+    "correct_answer": "Inca Empire",
+    "wrong_answer_1": "Mayan Empire",
+    "wrong_answer_2": "Roman Empire",
+    "wrong_answer_3": "Persian Empire",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the main ingredient in the Middle Eastern dish falafel?",
+    "correct_answer": "Chickpeas",
+    "wrong_answer_1": "Lentils",
+    "wrong_answer_2": "Quinoa",
+    "wrong_answer_3": "Yellow peas",
+    "difficulty": 3
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "correct_answer": "Albert Einstein",
+    "wrong_answer_1": "Isaac Newton",
+    "wrong_answer_2": "Marie Curie",
+    "wrong_answer_3": "Nikola Tesla",
+    "difficulty": 3
+  },
+  {
+    "question": "Which U.S. state is the Grand Canyon located in?",
+    "correct_answer": "Arizona",
+    "wrong_answer_1": "Nevada",
+    "wrong_answer_2": "Utah",
+    "wrong_answer_3": "Colorado",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "correct_answer": "K",
+    "wrong_answer_1": "P",
+    "wrong_answer_2": "Pt",
+    "wrong_answer_3": "Po",
+    "difficulty": 2
+  },
+  {
+    "question": "Which artist is famous for his work 'The Starry Night'?",
+    "correct_answer": "Vincent van Gogh",
+    "wrong_answer_1": "Pablo Picasso",
+    "wrong_answer_2": "Claude Monet",
+    "wrong_answer_3": "Edvard Munch",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the national animal of India?",
+    "correct_answer": "Bengal Tiger",
+    "wrong_answer_1": "Asiatic Lion",
+    "wrong_answer_2": "Indian Elephant",
+    "wrong_answer_3": "Peacock",
+    "difficulty": 5
+  },
+  {
+    "question": "In basketball, how many points is a free throw worth?",
+    "correct_answer": "One point",
+    "wrong_answer_1": "Two points",
+    "wrong_answer_2": "Three points",
+    "wrong_answer_3": "Five points",
+    "difficulty": 1
+  },
+  {
+    "question": "Which country is Ibiza a part of?",
+    "correct_answer": "Spain",
+    "wrong_answer_1": "Italy",
+    "wrong_answer_2": "Greece",
+    "wrong_answer_3": "Portugal",
+    "difficulty": 2
+  },
+  {
+    "question": "Who was the first human to journey into outer space?",
+    "correct_answer": "Yuri Gagarin",
+    "wrong_answer_1": "Neil Armstrong",
+    "wrong_answer_2": "Buzz Aldrin",
+    "wrong_answer_3": "John Glenn",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the primary flavor of the Greek dip tzatziki?",
+    "correct_answer": "Cucumber",
+    "wrong_answer_1": "Tomato",
+    "wrong_answer_2": "Eggplant",
+    "wrong_answer_3": "Carrot",
+    "difficulty": 3
+  },
+  {
+    "question": "Which is the largest landlocked country in the world?",
+    "correct_answer": "Kazakhstan",
+    "wrong_answer_1": "Paraguay",
+    "wrong_answer_2": "Mongolia",
+    "wrong_answer_3": "Chad",
+    "difficulty": 6
+  },
+  {
+    "question": "Who is the author of 'One Hundred Years of Solitude'?",
+    "correct_answer": "Gabriel Garcia Marquez",
+    "wrong_answer_1": "Mario Vargas Llosa",
+    "wrong_answer_2": "Isabel Allende",
+    "wrong_answer_3": "Jorge Luis Borges",
+    "difficulty": 4
+  },
+  {
+    "question": "Which US president served the shortest term in office?",
+    "correct_answer": "William Henry Harrison",
+    "wrong_answer_1": "James A. Garfield",
+    "wrong_answer_2": "Zachary Taylor",
+    "wrong_answer_3": "Gerald Ford",
+    "difficulty": 7
+  },
+  {
+    "question": "What organ in the human body produces insulin?",
+    "correct_answer": "Pancreas",
+    "wrong_answer_1": "Liver",
+    "wrong_answer_2": "Kidney",
+    "wrong_answer_3": "Stomach",
+    "difficulty": 3
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "correct_answer": "Mercury",
+    "wrong_answer_1": "Lead",
+    "wrong_answer_2": "Copper",
+    "wrong_answer_3": "Iron",
+    "difficulty": 3
+  },
+  {
+    "question": "In what country did the bossa nova music genre originate?",
+    "correct_answer": "Brazil",
+    "wrong_answer_1": "Argentina",
+    "wrong_answer_2": "Cuba",
+    "wrong_answer_3": "Mexico",
+    "difficulty": 3
+  },
+  {
+    "question": "Which wild cat is native to the Americas and is known for its black fur?",
+    "correct_answer": "Black Jaguar",
+    "wrong_answer_1": "Snow Leopard",
+    "wrong_answer_2": "Siberian Tiger",
+    "wrong_answer_3": "Clouded Leopard",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the tallest breed of dog in the world?",
+    "correct_answer": "Irish Wolfhound",
+    "wrong_answer_1": "Great Pyrenees",
+    "wrong_answer_2": "Saint Bernard",
+    "wrong_answer_3": "Newfoundland",
+    "difficulty": 7
+  },
+  {
+    "question": "Who composed the ballet 'The Nutcracker'?",
+    "correct_answer": "Pyotr Tchaikovsky",
+    "wrong_answer_1": "Igor Stravinsky",
+    "wrong_answer_2": "Sergei Prokofiev",
+    "wrong_answer_3": "Dmitri Shostakovich",
+    "difficulty": 3
+  },
+  {
+    "question": "Which fictional detective lives at 221B Baker Street, London?",
+    "correct_answer": "Sherlock Holmes",
+    "wrong_answer_1": "Hercule Poirot",
+    "wrong_answer_2": "Miss Marple",
+    "wrong_answer_3": "Sam Spade",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the capital city of Thailand?",
+    "correct_answer": "Bangkok",
+    "wrong_answer_1": "Hanoi",
+    "wrong_answer_2": "Manila",
+    "wrong_answer_3": "Singapore",
+    "difficulty": 2
+  },
+  {
+    "question": "Which scientist is credited with formulating the three laws of motion?",
+    "correct_answer": "Isaac Newton",
+    "wrong_answer_1": "Albert Einstein",
+    "wrong_answer_2": "James Watt",
+    "wrong_answer_3": "Nikola Tesla",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the name of the naval battle in 1805 where Admiral Nelson defeated the French and Spanish fleets?",
+    "correct_answer": "Battle of Trafalgar",
+    "wrong_answer_1": "Battle of Midway",
+    "wrong_answer_2": "Battle of Waterloo",
+    "wrong_answer_3": "Battle of Hastings",
+    "difficulty": 4
+  },
+  {
+    "question": "Which city is famous for the Christ the Redeemer statue overlooking it?",
+    "correct_answer": "Rio de Janeiro",
+    "wrong_answer_1": "Mexico City",
+    "wrong_answer_2": "Buenos Aires",
+    "wrong_answer_3": "Santiago de Chile",
+    "difficulty": 2
+  },
+  {
+    "question": "Who wrote the dystopian novel '1984'?",
+    "correct_answer": "George Orwell",
+    "wrong_answer_1": "Aldous Huxley",
+    "wrong_answer_2": "Ray Bradbury",
+    "wrong_answer_3": "Jules Verne",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "correct_answer": "Ag",
+    "wrong_answer_1": "Si",
+    "wrong_answer_2": "Sr",
+    "wrong_answer_3": "Al",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Italian explorer completed the first recorded circumnavigation of the Earth?",
+    "correct_answer": "Ferdinand Magellan",
+    "wrong_answer_1": "Marco Polo",
+    "wrong_answer_2": "Christopher Columbus",
+    "wrong_answer_3": "Amerigo Vespucci",
+    "difficulty": 5
+  },
+  {
+    "question": "In Greek mythology, what is the name of the winged horse?",
+    "correct_answer": "Pegasus",
+    "wrong_answer_1": "Cerberus",
+    "wrong_answer_2": "Hydra",
+    "wrong_answer_3": "Minotaur",
+    "difficulty": 2
+  },
+  {
+    "question": "Which continent is the country of Bhutan located on?",
+    "correct_answer": "Asia",
+    "wrong_answer_1": "Africa",
+    "wrong_answer_2": "Europe",
+    "wrong_answer_3": "Oceania",
+    "difficulty": 1
+  },
+  {
+    "question": "What musical instrument did Ludwig van Beethoven mainly compose for?",
+    "correct_answer": "Piano",
+    "wrong_answer_1": "Violin",
+    "wrong_answer_2": "Guitar",
+    "wrong_answer_3": "Cello",
+    "difficulty": 3
+  },
+  {
+    "question": "Who starred as Indiana Jones in the film series?",
+    "correct_answer": "Harrison Ford",
+    "wrong_answer_1": "Tom Hanks",
+    "wrong_answer_2": "Bruce Willis",
+    "wrong_answer_3": "Mel Gibson",
+    "difficulty": 2
+  },
+  {
+    "question": "Which painter is known for the surrealist work 'The Persistence of Memory'?",
+    "correct_answer": "Salvador Dalí",
+    "wrong_answer_1": "Pablo Picasso",
+    "wrong_answer_2": "Henri Matisse",
+    "wrong_answer_3": "Edvard Munch",
+    "difficulty": 4
+  },
+  {
+    "question": "Which device uses a rotating magnet to generate electricity?",
+    "correct_answer": "Dynamo",
+    "wrong_answer_1": "Barometer",
+    "wrong_answer_2": "Thermocouple",
+    "wrong_answer_3": "Voltmeter",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the main alcoholic ingredient in a classic mojito cocktail?",
+    "correct_answer": "White rum",
+    "wrong_answer_1": "Dry gin",
+    "wrong_answer_2": "Tequila",
+    "wrong_answer_3": "Brandy",
+    "difficulty": 3
+  },
+  {
+    "question": "Which breed of cat is famous for its lack of a tail?",
+    "correct_answer": "Manx",
+    "wrong_answer_1": "Siamese",
+    "wrong_answer_2": "Bengal",
+    "wrong_answer_3": "Persian",
+    "difficulty": 5
+  },
+  {
+    "question": "Which African country is known for its pyramids in the ancient city of Meroë?",
+    "correct_answer": "Sudan",
+    "wrong_answer_1": "Egypt",
+    "wrong_answer_2": "Morocco",
+    "wrong_answer_3": "Ethiopia",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the highest civilian honor awarded in the United States?",
+    "correct_answer": "Presidential Medal of Freedom",
+    "wrong_answer_1": "Congressional Gold Medal",
+    "wrong_answer_2": "Medal of Honor",
+    "wrong_answer_3": "National Science Medal",
+    "difficulty": 5
+  },
+  {
+    "question": "Which chemical element is named after the planet Uranus?",
+    "correct_answer": "Uranium",
+    "wrong_answer_1": "Neptunium",
+    "wrong_answer_2": "Plutonium",
+    "wrong_answer_3": "Mercury",
+    "difficulty": 4
+  },
+  {
+    "question": "Who is the author of 'The Picture of Dorian Gray'?",
+    "correct_answer": "Oscar Wilde",
+    "wrong_answer_1": "Charles Dickens",
+    "wrong_answer_2": "Mary Shelley",
+    "wrong_answer_3": "Emily Brontë",
+    "difficulty": 3
+  },
+  {
+    "question": "Which team won the UEFA Euro 2016 football championship?",
+    "correct_answer": "Portugal",
+    "wrong_answer_1": "France",
+    "wrong_answer_2": "Italy",
+    "wrong_answer_3": "Germany",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the smallest country in South America by area?",
+    "correct_answer": "Suriname",
+    "wrong_answer_1": "Uruguay",
+    "wrong_answer_2": "Guyana",
+    "wrong_answer_3": "Ecuador",
+    "difficulty": 6
+  },
+  {
+    "question": "The Great Sphinx is located near which pyramid complex?",
+    "correct_answer": "Giza",
+    "wrong_answer_1": "Saqqara",
+    "wrong_answer_2": "Dashur",
+    "wrong_answer_3": "Abu Simbel",
+    "difficulty": 2
+  },
+  {
+    "question": "Who composed the symphony 'From the New World'?",
+    "correct_answer": "Antonín Dvořák",
+    "wrong_answer_1": "Franz Schubert",
+    "wrong_answer_2": "Gustav Mahler",
+    "wrong_answer_3": "Jean Sibelius",
+    "difficulty": 5
+  },
+  {
+    "question": "Which programming language is known for its logo featuring a blue gemstone?",
+    "correct_answer": "Ruby",
+    "wrong_answer_1": "Python",
+    "wrong_answer_2": "Java",
+    "wrong_answer_3": "Swift",
+    "difficulty": 5
+  },
+  {
+    "question": "The baguette is a traditional bread from which country?",
+    "correct_answer": "France",
+    "wrong_answer_1": "Italy",
+    "wrong_answer_2": "Germany",
+    "wrong_answer_3": "Belgium",
+    "difficulty": 1
+  },
+  {
+    "question": "What species is the world's largest reptile?",
+    "correct_answer": "Saltwater crocodile",
+    "wrong_answer_1": "Green anaconda",
+    "wrong_answer_2": "Leatherback turtle",
+    "wrong_answer_3": "Komodo dragon",
+    "difficulty": 6
+  },
+  {
+    "question": "Which river flows through the city of Budapest?",
+    "correct_answer": "Danube River",
+    "wrong_answer_1": "Nile River",
+    "wrong_answer_2": "Seine River",
+    "wrong_answer_3": "Ganges River",
+    "difficulty": 4
+  },
+  {
+    "question": "What vitamin is mainly produced in human skin when exposed to sunlight?",
+    "correct_answer": "Vitamin D",
+    "wrong_answer_1": "Vitamin A",
+    "wrong_answer_2": "Vitamin C",
+    "wrong_answer_3": "Vitamin K",
+    "difficulty": 3
+  },
+  {
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "correct_answer": "John Milton",
+    "wrong_answer_1": "John Keats",
+    "wrong_answer_2": "T.S. Eliot",
+    "wrong_answer_3": "Oscar Wilde",
+    "difficulty": 5
+  },
+  {
+    "question": "In tennis, what is the term for a score of zero?",
+    "correct_answer": "Love",
+    "wrong_answer_1": "Ace",
+    "wrong_answer_2": "Match",
+    "wrong_answer_3": "Set",
+    "difficulty": 2
+  },
+  {
+    "question": "Which chemical element has the symbol 'Cu'?",
+    "correct_answer": "Copper",
+    "wrong_answer_1": "Carbon",
+    "wrong_answer_2": "Cobalt",
+    "wrong_answer_3": "Calcium",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the currency of Turkey?",
+    "correct_answer": "Lira",
+    "wrong_answer_1": "Ruble",
+    "wrong_answer_2": "Peso",
+    "wrong_answer_3": "Baht",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the tallest type of grass in the world?",
+    "correct_answer": "Bamboo",
+    "wrong_answer_1": "Wheat",
+    "wrong_answer_2": "Rice",
+    "wrong_answer_3": "Rye",
+    "difficulty": 4
+  },
+  {
+    "question": "Which famous scientist developed the polio vaccine in 1955?",
+    "correct_answer": "Jonas Salk",
+    "wrong_answer_1": "Louis Pasteur",
+    "wrong_answer_2": "Albert Sabin",
+    "wrong_answer_3": "Alexander Fleming",
+    "difficulty": 5
+  },
+  {
+    "question": "Which country is Prague the capital of?",
+    "correct_answer": "Czech Republic",
+    "wrong_answer_1": "Poland",
+    "wrong_answer_2": "Austria",
+    "wrong_answer_3": "Hungary",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the main language spoken in Egypt?",
+    "correct_answer": "Arabic",
+    "wrong_answer_1": "French",
+    "wrong_answer_2": "Greek",
+    "wrong_answer_3": "Turkish",
+    "difficulty": 3
+  },
+  {
+    "question": "Which ocean borders the east coast of the United States?",
+    "correct_answer": "Atlantic Ocean",
+    "wrong_answer_1": "Indian Ocean",
+    "wrong_answer_2": "Arctic Ocean",
+    "wrong_answer_3": "Pacific Ocean",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the largest species of penguin?",
+    "correct_answer": "Emperor Penguin",
+    "wrong_answer_1": "King Penguin",
+    "wrong_answer_2": "Chinstrap Penguin",
+    "wrong_answer_3": "Rockhopper Penguin",
+    "difficulty": 4
+  },
+  {
+    "question": "What type of food is Roquefort?",
+    "correct_answer": "Cheese",
+    "wrong_answer_1": "Bread",
+    "wrong_answer_2": "Sausage",
+    "wrong_answer_3": "Soup",
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the Greek goddess of wisdom?",
+    "correct_answer": "Athena",
+    "wrong_answer_1": "Aphrodite",
+    "wrong_answer_2": "Hera",
+    "wrong_answer_3": "Demeter",
+    "difficulty": 3
+  },
+  {
+    "question": "Which city is home to the famous museum The Louvre?",
+    "correct_answer": "Paris",
+    "wrong_answer_1": "Rome",
+    "wrong_answer_2": "London",
+    "wrong_answer_3": "Berlin",
+    "difficulty": 2
+  },
+  {
+    "question": "Who directed the film 'Inception' in 2010?",
+    "correct_answer": "Christopher Nolan",
+    "wrong_answer_1": "James Cameron",
+    "wrong_answer_2": "Steven Spielberg",
+    "wrong_answer_3": "Martin Scorsese",
+    "difficulty": 4
+  },
+  {
+    "question": "Which animal is known for building dams in rivers?",
+    "correct_answer": "Beaver",
+    "wrong_answer_1": "Otter",
+    "wrong_answer_2": "Mole",
+    "wrong_answer_3": "Badger",
+    "difficulty": 2
+  },
+  {
+    "question": "Which author created the detective Hercule Poirot?",
+    "correct_answer": "Agatha Christie",
+    "wrong_answer_1": "Arthur Conan Doyle",
+    "wrong_answer_2": "Raymond Chandler",
+    "wrong_answer_3": "Dorothy Sayers",
+    "difficulty": 4
+  },
+  {
+    "question": "Which country is known for the culinary dish paella?",
+    "correct_answer": "Spain",
+    "wrong_answer_1": "Portugal",
+    "wrong_answer_2": "France",
+    "wrong_answer_3": "Italy",
+    "difficulty": 2
+  },
+  {
+    "question": "The Taj Mahal was constructed as a mausoleum for which emperor's wife?",
+    "correct_answer": "Shah Jahan",
+    "wrong_answer_1": "Akbar",
+    "wrong_answer_2": "Babur",
+    "wrong_answer_3": "Aurangzeb",
+    "difficulty": 5
+  },
+  {
+    "question": "Which organ in the body is primarily responsible for filtering blood?",
+    "correct_answer": "Kidney",
+    "wrong_answer_1": "Liver",
+    "wrong_answer_2": "Heart",
+    "wrong_answer_3": "Lung",
+    "difficulty": 3
+  },
+  {
+    "question": "Which ancient civilization used cuneiform writing on clay tablets?",
+    "correct_answer": "Mesopotamians",
+    "wrong_answer_1": "Egyptians",
+    "wrong_answer_2": "Phoenicians",
+    "wrong_answer_3": "Romans",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the main ingredient in the Spanish dish gazpacho?",
+    "correct_answer": "Tomato",
+    "wrong_answer_1": "Potato",
+    "wrong_answer_2": "Chicken",
+    "wrong_answer_3": "Rice",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the artist famous for the mural 'Guernica'?",
+    "correct_answer": "Pablo Picasso",
+    "wrong_answer_1": "Diego Rivera",
+    "wrong_answer_2": "Marc Chagall",
+    "wrong_answer_3": "Henri Matisse",
+    "difficulty": 5
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "correct_answer": "Mercury",
+    "wrong_answer_1": "Venus",
+    "wrong_answer_2": "Mars",
+    "wrong_answer_3": "Saturn",
+    "difficulty": 2
+  },
+  {
+    "question": "In which city would you find the historic Kremlin complex?",
+    "correct_answer": "Moscow",
+    "wrong_answer_1": "Warsaw",
+    "wrong_answer_2": "Berlin",
+    "wrong_answer_3": "Kyiv",
+    "difficulty": 3
+  },
+  {
+    "question": "Which muscle is primarily responsible for human breathing?",
+    "correct_answer": "Diaphragm",
+    "wrong_answer_1": "Biceps",
+    "wrong_answer_2": "Quadriceps",
+    "wrong_answer_3": "Trapezius",
+    "difficulty": 4
+  },
+  {
+    "question": "What instrument is Yo-Yo Ma famous for playing?",
+    "correct_answer": "Cello",
+    "wrong_answer_1": "Violin",
+    "wrong_answer_2": "Piano",
+    "wrong_answer_3": "Flute",
+    "difficulty": 3
+  },
+  {
+    "question": "Which country is renowned for creating the martial art Taekwondo?",
+    "correct_answer": "South Korea",
+    "wrong_answer_1": "Japan",
+    "wrong_answer_2": "China",
+    "wrong_answer_3": "Thailand",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest moon of Saturn called?",
+    "correct_answer": "Titan",
+    "wrong_answer_1": "Europa",
+    "wrong_answer_2": "Ganymede",
+    "wrong_answer_3": "Io",
+    "difficulty": 7
+  },
+  {
+    "question": "Chlorophyll in plants primarily absorbs which color of light?",
+    "correct_answer": "Red",
+    "wrong_answer_1": "Blue",
+    "wrong_answer_2": "Green",
+    "wrong_answer_3": "Yellow",
+    "difficulty": 6
+  },
+  {
+    "question": "Which English author wrote 'Pride and Prejudice'?",
+    "correct_answer": "Jane Austen",
+    "wrong_answer_1": "Emily Brontë",
+    "wrong_answer_2": "Mary Shelley",
+    "wrong_answer_3": "Charlotte Brontë",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the capital city of Kenya?",
+    "correct_answer": "Nairobi",
+    "wrong_answer_1": "Kampala",
+    "wrong_answer_2": "Addis Ababa",
+    "wrong_answer_3": "Lusaka",
+    "difficulty": 4
+  },
+  {
+    "question": "Which bird lays the largest eggs in the world?",
+    "correct_answer": "Ostrich",
+    "wrong_answer_1": "Swan",
+    "wrong_answer_2": "Eagle",
+    "wrong_answer_3": "Emu",
+    "difficulty": 2
+  },
+  {
+    "question": "Who is the director of the 1972 film 'The Godfather'?",
+    "correct_answer": "Francis Coppola",
+    "wrong_answer_1": "Martin Scorsese",
+    "wrong_answer_2": "Stanley Kubrick",
+    "wrong_answer_3": "Steven Spielberg",
+    "difficulty": 4
+  },
+  {
+    "question": "In which U.S. state is the city of Nashville located?",
+    "correct_answer": "Tennessee",
+    "wrong_answer_1": "Kentucky",
+    "wrong_answer_2": "Georgia",
+    "wrong_answer_3": "Texas",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the standard unit of electric resistance?",
+    "correct_answer": "Ohm",
+    "wrong_answer_1": "Watt",
+    "wrong_answer_2": "Volt",
+    "wrong_answer_3": "Ampere",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Chinese dynasty is known for the Terracotta Army?",
+    "correct_answer": "Qin Dynasty",
+    "wrong_answer_1": "Han Dynasty",
+    "wrong_answer_2": "Tang Dynasty",
+    "wrong_answer_3": "Yuan Dynasty",
+    "difficulty": 5
+  },
+  {
+    "question": "What sport features a scrum and a line-out?",
+    "correct_answer": "Rugby",
+    "wrong_answer_1": "Soccer",
+    "wrong_answer_2": "Cricket",
+    "wrong_answer_3": "Baseball",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal is native only to the island of Madagascar?",
+    "correct_answer": "Lemur",
+    "wrong_answer_1": "Koala",
+    "wrong_answer_2": "Panda",
+    "wrong_answer_3": "Sloth",
+    "difficulty": 4
+  },
+  {
+    "question": "Who invented the telephone in 1876?",
+    "correct_answer": "Alexander Bell",
+    "wrong_answer_1": "Thomas Edison",
+    "wrong_answer_2": "Nikola Tesla",
+    "wrong_answer_3": "Samuel Morse",
+    "difficulty": 2
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "correct_answer": "Ural Mountains",
+    "wrong_answer_1": "Alps Mountains",
+    "wrong_answer_2": "Andes Mountains",
+    "wrong_answer_3": "Caucasus Mountains",
+    "difficulty": 5
+  },
+  {
+    "question": "Who painted the 'Girl with a Pearl Earring'?",
+    "correct_answer": "Johannes Vermeer",
+    "wrong_answer_1": "Rembrandt van Rijn",
+    "wrong_answer_2": "Jan van Eyck",
+    "wrong_answer_3": "Peter Paul Rubens",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "correct_answer": "Liver",
+    "wrong_answer_1": "Lung",
+    "wrong_answer_2": "Kidney",
+    "wrong_answer_3": "Spleen",
+    "difficulty": 2
+  },
+  {
+    "question": "Who wrote the novel 'Great Expectations'?",
+    "correct_answer": "Charles Dickens",
+    "wrong_answer_1": "Thomas Hardy",
+    "wrong_answer_2": "Jane Austen",
+    "wrong_answer_3": "Emily Brontë",
+    "difficulty": 3
+  },
+  {
+    "question": "Which instrument uses a bow to produce sound from strings?",
+    "correct_answer": "Violin",
+    "wrong_answer_1": "Flute",
+    "wrong_answer_2": "Piano",
+    "wrong_answer_3": "Trumpet",
+    "difficulty": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "wrong_answer_1": "Venus",
+    "wrong_answer_2": "Jupiter",
+    "wrong_answer_3": "Mercury",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "correct_answer": "Fermented soybean paste",
+    "wrong_answer_1": "Seaweed extract",
+    "wrong_answer_2": "Rice flour broth",
+    "wrong_answer_3": "Fish stock only",
+    "difficulty": 3
+  },
+  {
+    "question": "Which element is essential for making computer chips and semiconductors?",
+    "correct_answer": "Silicon",
+    "wrong_answer_1": "Aluminum",
+    "wrong_answer_2": "Iron",
+    "wrong_answer_3": "Copper",
+    "difficulty": 4
+  },
+  {
+    "question": "In what city can you visit the historic Alhambra Palace?",
+    "correct_answer": "Granada",
+    "wrong_answer_1": "Seville",
+    "wrong_answer_2": "Toledo",
+    "wrong_answer_3": "Madrid",
+    "difficulty": 6
+  },
+  {
+    "question": "Which two countries share the longest international land border?",
+    "correct_answer": "Canada and USA",
+    "wrong_answer_1": "India and China",
+    "wrong_answer_2": "Russia and Kazakhstan",
+    "wrong_answer_3": "Brazil and Argentina",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the currency used in South Korea?",
+    "correct_answer": "Won",
+    "wrong_answer_1": "Yen",
+    "wrong_answer_2": "Baht",
+    "wrong_answer_3": "Ringgit",
+    "difficulty": 2
+  },
+  {
+    "question": "Which country is famous for originating the tango dance?",
+    "correct_answer": "Argentina",
+    "wrong_answer_1": "Brazil",
+    "wrong_answer_2": "Spain",
+    "wrong_answer_3": "Portugal",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "correct_answer": "Stapes",
+    "wrong_answer_1": "Ulna",
+    "wrong_answer_2": "Femur",
+    "wrong_answer_3": "Tibia",
+    "difficulty": 6
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "correct_answer": "Poseidon",
+    "wrong_answer_1": "Zeus",
+    "wrong_answer_2": "Hades",
+    "wrong_answer_3": "Hermes",
+    "difficulty": 1
+  },
+  {
+    "question": "Which African lake is the deepest?",
+    "correct_answer": "Lake Tanganyika",
+    "wrong_answer_1": "Lake Victoria",
+    "wrong_answer_2": "Lake Malawi",
+    "wrong_answer_3": "Lake Chad",
+    "difficulty": 5
+  },
+  {
+    "question": "Which composer wrote the 'Moonlight Sonata'?",
+    "correct_answer": "Ludwig van Beethoven",
+    "wrong_answer_1": "Wolfgang Amadeus Mozart",
+    "wrong_answer_2": "Johann Sebastian Bach",
+    "wrong_answer_3": "Frédéric Chopin",
+    "difficulty": 4
+  },
+  {
+    "question": "From which country does the cheese Manchego originate?",
+    "correct_answer": "Spain",
+    "wrong_answer_1": "France",
+    "wrong_answer_2": "Italy",
+    "wrong_answer_3": "Switzerland",
+    "difficulty": 5
+  },
+  {
+    "question": "Which mammal is capable of flight?",
+    "correct_answer": "Bat",
+    "wrong_answer_1": "Mole",
+    "wrong_answer_2": "Rat",
+    "wrong_answer_3": "Squirrel",
+    "difficulty": 1
+  },
+  {
+    "question": "Which technology company developed the Android operating system?",
+    "correct_answer": "Google",
+    "wrong_answer_1": "Apple",
+    "wrong_answer_2": "Samsung",
+    "wrong_answer_3": "Microsoft",
+    "difficulty": 2
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "correct_answer": "France",
+    "wrong_answer_1": "Brazil",
+    "wrong_answer_2": "Germany",
+    "wrong_answer_3": "Italy",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the capital city of Morocco?",
+    "correct_answer": "Rabat",
+    "wrong_answer_1": "Casablanca",
+    "wrong_answer_2": "Fes",
+    "wrong_answer_3": "Tangier",
+    "difficulty": 3
+  },
+  {
+    "question": "Who wrote the play 'Death of a Salesman'?",
+    "correct_answer": "Arthur Miller",
+    "wrong_answer_1": "Tennessee Williams",
+    "wrong_answer_2": "Eugene O'Neill",
+    "wrong_answer_3": "Sam Shepard",
+    "difficulty": 5
+  },
+  {
+    "question": "In which country is Lake Titicaca located?",
+    "correct_answer": "Peru",
+    "wrong_answer_1": "Chile",
+    "wrong_answer_2": "Colombia",
+    "wrong_answer_3": "Venezuela",
+    "difficulty": 4
+  },
+  {
+    "question": "Which artist painted 'The Night Watch'?",
+    "correct_answer": "Rembrandt",
+    "wrong_answer_1": "Vermeer",
+    "wrong_answer_2": "Rubens",
+    "wrong_answer_3": "Caravaggio",
+    "difficulty": 6
+  },
+  {
+    "question": "Which element has the atomic number 8?",
+    "correct_answer": "Oxygen",
+    "wrong_answer_1": "Carbon",
+    "wrong_answer_2": "Nitrogen",
+    "wrong_answer_3": "Fluorine",
+    "difficulty": 2
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "correct_answer": "Euclid",
+    "wrong_answer_1": "Pythagoras",
+    "wrong_answer_2": "Archimedes",
+    "wrong_answer_3": "Eratosthenes",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the world’s largest archipelago nation by area?",
+    "correct_answer": "Indonesia",
+    "wrong_answer_1": "Philippines",
+    "wrong_answer_2": "Japan",
+    "wrong_answer_3": "Greece",
+    "difficulty": 6
+  },
+  {
+    "question": "In which sport is the 'Triple Axel' a jump?",
+    "correct_answer": "Figure skating",
+    "wrong_answer_1": "Diving",
+    "wrong_answer_2": "Ski jumping",
+    "wrong_answer_3": "Snowboarding",
+    "difficulty": 3
+  },
+  {
+    "question": "Which famous building was completed in 1889 for the Paris Exposition?",
+    "correct_answer": "Eiffel Tower",
+    "wrong_answer_1": "Arc de Triomphe",
+    "wrong_answer_2": "Notre-Dame",
+    "wrong_answer_3": "Louvre Museum",
+    "difficulty": 2
+  },
+  {
+    "question": "Which chess piece can only move diagonally?",
+    "correct_answer": "Bishop",
+    "wrong_answer_1": "Rook",
+    "wrong_answer_2": "Queen",
+    "wrong_answer_3": "Knight",
+    "difficulty": 1
+  },
+  {
+    "question": "Which country gave the world the car brand Volvo?",
+    "correct_answer": "Sweden",
+    "wrong_answer_1": "France",
+    "wrong_answer_2": "Germany",
+    "wrong_answer_3": "Italy",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the longest river in Australia?",
+    "correct_answer": "Murray River",
+    "wrong_answer_1": "Darling River",
+    "wrong_answer_2": "Lachlan River",
+    "wrong_answer_3": "Murrumbidgee River",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the official language of Iran?",
+    "correct_answer": "Persian",
+    "wrong_answer_1": "Arabic",
+    "wrong_answer_2": "Pashto",
+    "wrong_answer_3": "Turkish",
+    "difficulty": 3
+  },
+  {
+    "question": "In math, what is the value of pi rounded to two decimal places?",
+    "correct_answer": "3.14",
+    "wrong_answer_1": "2.71",
+    "wrong_answer_2": "1.62",
+    "wrong_answer_3": "1.41",
+    "difficulty": 2
+  },
+  {
+    "question": "Which country is the traditional home of winemaking region Bordeaux?",
+    "correct_answer": "France",
+    "wrong_answer_1": "Italy",
+    "wrong_answer_2": "Spain",
+    "wrong_answer_3": "Portugal",
+    "difficulty": 2
+  },
+  {
+    "question": "Who painted 'The Last Supper'?",
+    "correct_answer": "Leonardo da Vinci",
+    "wrong_answer_1": "Raphael",
+    "wrong_answer_2": "Michelangelo",
+    "wrong_answer_3": "Botticelli",
+    "difficulty": 3
+  },
+  {
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "correct_answer": "Parrot",
+    "wrong_answer_1": "Owl",
+    "wrong_answer_2": "Eagle",
+    "wrong_answer_3": "Sparrow",
+    "difficulty": 2
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "correct_answer": "France",
+    "wrong_answer_1": "Italy",
+    "wrong_answer_2": "Canada",
+    "wrong_answer_3": "Spain",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the longest river in Europe?",
+    "correct_answer": "Volga",
+    "wrong_answer_1": "Danube",
+    "wrong_answer_2": "Rhine",
+    "wrong_answer_3": "Seine",
+    "difficulty": 5
+  },
+  {
+    "question": "Which vitamin is mainly found in citrus fruits?",
+    "correct_answer": "Vitamin C",
+    "wrong_answer_1": "Vitamin D",
+    "wrong_answer_2": "Vitamin K",
+    "wrong_answer_3": "Vitamin A",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the capital city of Finland?",
+    "correct_answer": "Helsinki",
+    "wrong_answer_1": "Oslo",
+    "wrong_answer_2": "Stockholm",
+    "wrong_answer_3": "Copenhagen",
+    "difficulty": 3
+  },
+  {
+    "question": "Which planet is named after the Roman god of war?",
+    "correct_answer": "Mars",
+    "wrong_answer_1": "Venus",
+    "wrong_answer_2": "Jupiter",
+    "wrong_answer_3": "Mercury",
+    "difficulty": 2
+  },
+  {
+    "question": "In which city would you find the Colosseum?",
+    "correct_answer": "Rome",
+    "wrong_answer_1": "Athens",
+    "wrong_answer_2": "Istanbul",
+    "wrong_answer_3": "Florence",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the basic unit of currency in Japan?",
+    "correct_answer": "Yen",
+    "wrong_answer_1": "Won",
+    "wrong_answer_2": "Yuan",
+    "wrong_answer_3": "Ringgit",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the largest continent by area?",
+    "correct_answer": "Asia",
+    "wrong_answer_1": "Africa",
+    "wrong_answer_2": "Europe",
+    "wrong_answer_3": "Australia",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the main alcoholic ingredient in a margarita?",
+    "correct_answer": "Tequila",
+    "wrong_answer_1": "Rum",
+    "wrong_answer_2": "Vodka",
+    "wrong_answer_3": "Gin",
+    "difficulty": 2
+  },
+  {
+    "question": "Which bird is known for delivering babies in folklore?",
+    "correct_answer": "Stork",
+    "wrong_answer_1": "Crane",
+    "wrong_answer_2": "Swan",
+    "wrong_answer_3": "Goose",
+    "difficulty": 3
+  },
+  {
+    "question": "Who is credited with developing the first practical light bulb?",
+    "correct_answer": "Thomas Edison",
+    "wrong_answer_1": "Nikola Tesla",
+    "wrong_answer_2": "Michael Faraday",
+    "wrong_answer_3": "James Watt",
+    "difficulty": 2
+  },
+  {
+    "question": "What kind of animal is a pufferfish?",
+    "correct_answer": "Fish",
+    "wrong_answer_1": "Mammal",
+    "wrong_answer_2": "Reptile",
+    "wrong_answer_3": "Bird",
+    "difficulty": 2
+  },
+  {
+    "question": "Who composed the opera 'Carmen'?",
+    "correct_answer": "Georges Bizet",
+    "wrong_answer_1": "Richard Wagner",
+    "wrong_answer_2": "Giuseppe Verdi",
+    "wrong_answer_3": "Gioachino Rossini",
+    "difficulty": 5
+  },
+  {
+    "question": "The Prado Museum is located in which European city?",
+    "correct_answer": "Madrid",
+    "wrong_answer_1": "Barcelona",
+    "wrong_answer_2": "Rome",
+    "wrong_answer_3": "Paris",
+    "difficulty": 3
+  },
+  {
+    "question": "What type of animal is a lynx?",
+    "correct_answer": "Wild cat",
+    "wrong_answer_1": "Sea otter",
+    "wrong_answer_2": "Desert fox",
+    "wrong_answer_3": "Mountain goat",
+    "difficulty": 2
+  },
+  {
+    "question": "Which novel features the fictional island of Lilliput?",
+    "correct_answer": "Gulliver's Travels",
+    "wrong_answer_1": "Treasure Island",
+    "wrong_answer_2": "Robinson Crusoe",
+    "wrong_answer_3": "Lord of the Flies",
+    "difficulty": 5
+  },
+  {
+    "question": "Which African country is known for Victoria Falls?",
+    "correct_answer": "Zimbabwe",
+    "wrong_answer_1": "Kenya",
+    "wrong_answer_2": "Zambia",
+    "wrong_answer_3": "Uganda",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first President of the United States of America?",
+    "correct_answer": "George Washington",
+    "wrong_answer_1": "John Adams",
+    "wrong_answer_2": "Thomas Jefferson",
+    "wrong_answer_3": "James Madison",
+    "difficulty": 2
+  },
+  {
+    "question": "Which instrument does a flautist play?",
+    "correct_answer": "Flute",
+    "wrong_answer_1": "Clarinet",
+    "wrong_answer_2": "Violin",
+    "wrong_answer_3": "Oboe",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Asian country is known as the Land of the White Elephant?",
+    "correct_answer": "Thailand",
+    "wrong_answer_1": "Vietnam",
+    "wrong_answer_2": "Cambodia",
+    "wrong_answer_3": "Myanmar",
+    "difficulty": 5
+  },
+  {
+    "question": "Which English king had six wives?",
+    "correct_answer": "Henry VIII",
+    "wrong_answer_1": "Edward VI",
+    "wrong_answer_2": "Richard III",
+    "wrong_answer_3": "Henry VII",
+    "difficulty": 4
+  },
+  {
+    "question": "What type of tree produces acorns?",
+    "correct_answer": "Oak",
+    "wrong_answer_1": "Pine",
+    "wrong_answer_2": "Maple",
+    "wrong_answer_3": "Elm",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the culinary term for a dish cooked in paper?",
+    "correct_answer": "En papillote",
+    "wrong_answer_1": "Al dente",
+    "wrong_answer_2": "Au gratin",
+    "wrong_answer_3": "Sous vide",
+    "difficulty": 6
+  },
+  {
+    "question": "Which U.S. state is famous for the city of Las Vegas?",
+    "correct_answer": "Nevada",
+    "wrong_answer_1": "Arizona",
+    "wrong_answer_2": "California",
+    "wrong_answer_3": "Utah",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Greek island is famous for its volcanic caldera?",
+    "correct_answer": "Santorini",
+    "wrong_answer_1": "Crete",
+    "wrong_answer_2": "Mykonos",
+    "wrong_answer_3": "Rhodes",
+    "difficulty": 5
+  },
+  {
+    "question": "Which footballer is nicknamed 'El Pibe de Oro'?",
+    "correct_answer": "Diego Maradona",
+    "wrong_answer_1": "Lionel Messi",
+    "wrong_answer_2": "Pelé",
+    "wrong_answer_3": "Cristiano Ronaldo",
+    "difficulty": 7
+  },
+  {
+    "question": "What device measures atmospheric pressure?",
+    "correct_answer": "Barometer",
+    "wrong_answer_1": "Altimeter",
+    "wrong_answer_2": "Thermometer",
+    "wrong_answer_3": "Hygrometer",
+    "difficulty": 5
+  },
+  {
+    "question": "Who wrote the science fiction novel 'Fahrenheit 451'?",
+    "correct_answer": "Ray Bradbury",
+    "wrong_answer_1": "Isaac Asimov",
+    "wrong_answer_2": "Philip K. Dick",
+    "wrong_answer_3": "Arthur C. Clarke",
+    "difficulty": 3
+  },
+  {
+    "question": "Which Italian cheese is traditionally used on pizza?",
+    "correct_answer": "Mozzarella",
+    "wrong_answer_1": "Gorgonzola",
+    "wrong_answer_2": "Ricotta",
+    "wrong_answer_3": "Pecorino",
+    "difficulty": 2
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "correct_answer": "1912",
+    "wrong_answer_1": "1906",
+    "wrong_answer_2": "1921",
+    "wrong_answer_3": "1898",
+    "difficulty": 3
+  },
+  {
+    "question": "Which Renaissance artist painted 'The Birth of Venus'?",
+    "correct_answer": "Sandro Botticelli",
+    "wrong_answer_1": "Raphael Sanzio",
+    "wrong_answer_2": "Leonardo da Vinci",
+    "wrong_answer_3": "Michelangelo Buonarroti",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the capital city of Hungary?",
+    "correct_answer": "Budapest",
+    "wrong_answer_1": "Warsaw",
+    "wrong_answer_2": "Vienna",
+    "wrong_answer_3": "Prague",
+    "difficulty": 2
+  },
+  {
+    "question": "Which instrument is known for a slide and is prominent in blues music?",
+    "correct_answer": "Slide guitar",
+    "wrong_answer_1": "Alto saxophone",
+    "wrong_answer_2": "Tenor banjo",
+    "wrong_answer_3": "Upright bass",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the boiling point of water at sea level in degrees Celsius?",
+    "correct_answer": "100",
+    "wrong_answer_1": "90",
+    "wrong_answer_2": "80",
+    "wrong_answer_3": "120",
+    "difficulty": 1
+  },
+  {
+    "question": "The Ganges River flows primarily through which country?",
+    "correct_answer": "India",
+    "wrong_answer_1": "Nepal",
+    "wrong_answer_2": "Bangladesh",
+    "wrong_answer_3": "Pakistan",
+    "difficulty": 2
+  },
+  {
+    "question": "Which country is home to the annual Running of the Bulls festival?",
+    "correct_answer": "Spain",
+    "wrong_answer_1": "Portugal",
+    "wrong_answer_2": "Italy",
+    "wrong_answer_3": "France",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the largest organ on the exterior of the human body?",
+    "correct_answer": "Skin",
+    "wrong_answer_1": "Liver",
+    "wrong_answer_2": "Heart",
+    "wrong_answer_3": "Lung",
+    "difficulty": 2
+  },
+  {
+    "question": "Which gas makes up the majority of Earth’s atmosphere?",
+    "correct_answer": "Nitrogen",
+    "wrong_answer_1": "Oxygen",
+    "wrong_answer_2": "Carbon dioxide",
+    "wrong_answer_3": "Hydrogen",
+    "difficulty": 3
+  },
+  {
+    "question": "In soccer, what does FIFA stand for?",
+    "correct_answer": "Fédération Internationale de Football Association",
+    "wrong_answer_1": "Football International Federation Agency",
+    "wrong_answer_2": "Federation of Inter Football Associations",
+    "wrong_answer_3": "Federal International Football Administration",
+    "difficulty": 6
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "correct_answer": "Florida",
+    "wrong_answer_1": "California",
+    "wrong_answer_2": "Arizona",
+    "wrong_answer_3": "Texas",
+    "difficulty": 1
+  },
+  {
+    "question": "In the Harry Potter series, what magical sport is played on broomsticks?",
+    "correct_answer": "Quidditch",
+    "wrong_answer_1": "Bludgerball",
+    "wrong_answer_2": "Snitching",
+    "wrong_answer_3": "Wandball",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the currency of Switzerland?",
+    "correct_answer": "Swiss franc",
+    "wrong_answer_1": "Euro",
+    "wrong_answer_2": "Swiss mark",
+    "wrong_answer_3": "Krona",
+    "difficulty": 3
+  },
+  {
+    "question": "Who is known for writing the play 'Oedipus Rex'?",
+    "correct_answer": "Sophocles",
+    "wrong_answer_1": "Euripides",
+    "wrong_answer_2": "Aeschylus",
+    "wrong_answer_3": "Aristophanes",
+    "difficulty": 5
+  },
+  {
+    "question": "In which city is the United Nations headquarters located?",
+    "correct_answer": "New York City",
+    "wrong_answer_1": "Geneva",
+    "wrong_answer_2": "Brussels",
+    "wrong_answer_3": "Vienna",
+    "difficulty": 3
+  },
+  {
+    "question": "Which company is best known for producing the iPhone?",
+    "correct_answer": "Apple",
+    "wrong_answer_1": "Google",
+    "wrong_answer_2": "Samsung",
+    "wrong_answer_3": "Sony",
+    "difficulty": 1
+  },
+  {
+    "question": "Mount Kilimanjaro is found in which African country?",
+    "correct_answer": "Tanzania",
+    "wrong_answer_1": "Ethiopia",
+    "wrong_answer_2": "Kenya",
+    "wrong_answer_3": "Uganda",
+    "difficulty": 3
+  },
+  {
+    "question": "What type of animal is a guppy?",
+    "correct_answer": "Fish",
+    "wrong_answer_1": "Bird",
+    "wrong_answer_2": "Mammal",
+    "wrong_answer_3": "Reptile",
+    "difficulty": 2
+  },
+  {
+    "question": "Which artist designed the glass pyramid at the entrance to the Louvre Museum?",
+    "correct_answer": "I. M. Pei",
+    "wrong_answer_1": "Frank Gehry",
+    "wrong_answer_2": "Zaha Hadid",
+    "wrong_answer_3": "Renzo Piano",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the tallest mountain in North America?",
+    "correct_answer": "Denali",
+    "wrong_answer_1": "Elbrus",
+    "wrong_answer_2": "Aconcagua",
+    "wrong_answer_3": "Kilimanjaro",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "correct_answer": "Ottawa",
+    "wrong_answer_1": "Toronto",
+    "wrong_answer_2": "Vancouver",
+    "wrong_answer_3": "Montreal",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere after nitrogen?",
+    "correct_answer": "Oxygen",
+    "wrong_answer_1": "Argon",
+    "wrong_answer_2": "Carbon dioxide",
+    "wrong_answer_3": "Hydrogen",
+    "difficulty": 3
+  },
+  {
+    "question": "Which instrument is used to observe distant planets and stars?",
+    "correct_answer": "Telescope",
+    "wrong_answer_1": "Microscope",
+    "wrong_answer_2": "Periscope",
+    "wrong_answer_3": "Kaleidoscope",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "correct_answer": "Cherry blossom",
+    "wrong_answer_1": "Lotus flower",
+    "wrong_answer_2": "Sunflower",
+    "wrong_answer_3": "Rose blossom",
+    "difficulty": 4
+  },
+  {
+    "question": "Which musical term means to play softly?",
+    "correct_answer": "Piano",
+    "wrong_answer_1": "Forte",
+    "wrong_answer_2": "Allegro",
+    "wrong_answer_3": "Presto",
+    "difficulty": 5
+  },
+  {
+    "question": "Who won the FIFA Women's World Cup in 2015?",
+    "correct_answer": "United States",
+    "wrong_answer_1": "Germany",
+    "wrong_answer_2": "France",
+    "wrong_answer_3": "Japan",
+    "difficulty": 5
+  },
+  {
+    "question": "Who invented the phonograph?",
+    "correct_answer": "Thomas Edison",
+    "wrong_answer_1": "Nikola Tesla",
+    "wrong_answer_2": "Alexander Bell",
+    "wrong_answer_3": "Michael Faraday",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "correct_answer": "Mercury",
+    "wrong_answer_1": "Mars",
+    "wrong_answer_2": "Venus",
+    "wrong_answer_3": "Neptune",
+    "difficulty": 5
+  },
+  {
+    "question": "In which country did Impressionism as an art movement begin?",
+    "correct_answer": "France",
+    "wrong_answer_1": "Italy",
+    "wrong_answer_2": "Germany",
+    "wrong_answer_3": "Netherlands",
+    "difficulty": 3
+  },
+  {
+    "question": "Which device stores electrical energy for a short period?",
+    "correct_answer": "Capacitor",
+    "wrong_answer_1": "Transistor",
+    "wrong_answer_2": "Resistor",
+    "wrong_answer_3": "Relay",
+    "difficulty": 6
+  },
+  {
+    "question": "Which animal is classified as a marsupial?",
+    "correct_answer": "Kangaroo",
+    "wrong_answer_1": "Koala",
+    "wrong_answer_2": "Panda",
+    "wrong_answer_3": "Lemur",
+    "difficulty": 4
+  },
+  {
+    "question": "What does the Richter scale measure?",
+    "correct_answer": "Earthquake strength",
+    "wrong_answer_1": "Atmospheric pressure",
+    "wrong_answer_2": "Temperature changes",
+    "wrong_answer_3": "Rainfall amount",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Italian city is known for its leaning tower?",
+    "correct_answer": "Pisa",
+    "wrong_answer_1": "Milan",
+    "wrong_answer_2": "Verona",
+    "wrong_answer_3": "Naples",
+    "difficulty": 2
+  },
+  {
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "correct_answer": "J.D. Salinger",
+    "wrong_answer_1": "Mark Twain",
+    "wrong_answer_2": "F. Scott Fitzgerald",
+    "wrong_answer_3": "Ernest Hemingway",
+    "difficulty": 4
+  },
+  {
+    "question": "What is tofu primarily made from?",
+    "correct_answer": "Soybeans",
+    "wrong_answer_1": "Rice flour",
+    "wrong_answer_2": "Potatoes",
+    "wrong_answer_3": "Chickpeas",
+    "difficulty": 2
+  },
+  {
+    "question": "Which team sport is played on an ice rink with sticks and a puck?",
+    "correct_answer": "Ice hockey",
+    "wrong_answer_1": "Field hockey",
+    "wrong_answer_2": "Curling",
+    "wrong_answer_3": "Water polo",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the national sport of Japan?",
+    "correct_answer": "Sumo wrestling",
+    "wrong_answer_1": "Taekwondo",
+    "wrong_answer_2": "Muay Thai",
+    "wrong_answer_3": "Karate-do",
+    "difficulty": 3
+  },
+  {
+    "question": "Which country hosts the city of Marrakech?",
+    "correct_answer": "Morocco",
+    "wrong_answer_1": "Egypt",
+    "wrong_answer_2": "Turkey",
+    "wrong_answer_3": "Tunisia",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "correct_answer": "Sicily",
+    "wrong_answer_1": "Crete",
+    "wrong_answer_2": "Cyprus",
+    "wrong_answer_3": "Sardinia",
+    "difficulty": 3
+  },
+  {
+    "question": "Who led South Africa through the end of apartheid?",
+    "correct_answer": "Nelson Mandela",
+    "wrong_answer_1": "Desmond Tutu",
+    "wrong_answer_2": "F. W. de Klerk",
+    "wrong_answer_3": "Oliver Tambo",
+    "difficulty": 4
+  },
+  {
+    "question": "Which part of the plant carries out photosynthesis?",
+    "correct_answer": "Leaf",
+    "wrong_answer_1": "Root",
+    "wrong_answer_2": "Stem",
+    "wrong_answer_3": "Seed",
+    "difficulty": 1
+  },
+  {
+    "question": "Which animal is famous for changing its skin color?",
+    "correct_answer": "Chameleon",
+    "wrong_answer_1": "Gecko",
+    "wrong_answer_2": "Iguana",
+    "wrong_answer_3": "Salamander",
+    "difficulty": 2
+  },
+  {
+    "question": "In computer science, what does 'RAM' stand for?",
+    "correct_answer": "Random Access Memory",
+    "wrong_answer_1": "Read And Memory",
+    "wrong_answer_2": "Remote Active Module",
+    "wrong_answer_3": "Rapid Access Machine",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the world’s deepest ocean trench?",
+    "correct_answer": "Mariana Trench",
+    "wrong_answer_1": "Tonga Trench",
+    "wrong_answer_2": "Kuril-Kamchatka",
+    "wrong_answer_3": "Java Trench",
+    "difficulty": 5
+  },
+  {
+    "question": "Which country is the origin of feta cheese?",
+    "correct_answer": "Greece",
+    "wrong_answer_1": "France",
+    "wrong_answer_2": "Italy",
+    "wrong_answer_3": "Spain",
+    "difficulty": 2
+  },
+  {
+    "question": "What sport is played at Wimbledon?",
+    "correct_answer": "Tennis",
+    "wrong_answer_1": "Badminton",
+    "wrong_answer_2": "Golf",
+    "wrong_answer_3": "Polo",
+    "difficulty": 1
+  },
+  {
+    "question": "Which country is known as the Land of the Long White Cloud?",
+    "correct_answer": "New Zealand",
+    "wrong_answer_1": "Iceland",
+    "wrong_answer_2": "Australia",
+    "wrong_answer_3": "Norway",
+    "difficulty": 5
+  },
+  {
+    "question": "Who is the author of 'Crime and Punishment'?",
+    "correct_answer": "Fyodor Dostoevsky",
+    "wrong_answer_1": "Leo Tolstoy",
+    "wrong_answer_2": "Anton Chekhov",
+    "wrong_answer_3": "Ivan Turgenev",
+    "difficulty": 4
+  },
+  {
+    "question": "Which African animal is known for its large, curved horn?",
+    "correct_answer": "Rhinoceros",
+    "wrong_answer_1": "Elephant",
+    "wrong_answer_2": "Wildebeest",
+    "wrong_answer_3": "Giraffe",
+    "difficulty": 2
+  },
+  {
+    "question": "In which country is Angkor Wat located?",
+    "correct_answer": "Cambodia",
+    "wrong_answer_1": "Laos",
+    "wrong_answer_2": "Nepal",
+    "wrong_answer_3": "Thailand",
+    "difficulty": 3
+  },
+  {
+    "question": "Who wrote the epic poem 'The Odyssey'?",
+    "correct_answer": "Homer",
+    "wrong_answer_1": "Virgil",
+    "wrong_answer_2": "Ovid",
+    "wrong_answer_3": "Sappho",
+    "difficulty": 4
+  },
+  {
+    "question": "What currency is used in South Africa?",
+    "correct_answer": "Rand",
+    "wrong_answer_1": "Lira",
+    "wrong_answer_2": "Peso",
+    "wrong_answer_3": "Baht",
+    "difficulty": 4
+  },
+  {
+    "question": "Which author wrote 'The Adventures of Tom Sawyer'?",
+    "correct_answer": "Mark Twain",
+    "wrong_answer_1": "Jack London",
+    "wrong_answer_2": "Lewis Carroll",
+    "wrong_answer_3": "Charles Dickens",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "correct_answer": "Marie Curie",
+    "wrong_answer_1": "Jane Goodall",
+    "wrong_answer_2": "Ada Lovelace",
+    "wrong_answer_3": "Rosalind Franklin",
+    "difficulty": 5
+  },
+  {
+    "question": "What year did World War II end?",
+    "correct_answer": "1945",
+    "wrong_answer_1": "1940",
+    "wrong_answer_2": "1939",
+    "wrong_answer_3": "1950",
+    "difficulty": 4
+  },
+  {
+    "question": "Which Shakespeare character utters 'To be, or not to be'?",
+    "correct_answer": "Hamlet",
+    "wrong_answer_1": "Macbeth",
+    "wrong_answer_2": "Othello",
+    "wrong_answer_3": "Lear",
+    "difficulty": 3
+  },
+  {
+    "question": "Which Asian country is famous for the dish pho?",
+    "correct_answer": "Vietnam",
+    "wrong_answer_1": "Korea",
+    "wrong_answer_2": "Taiwan",
+    "wrong_answer_3": "Thailand",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the name of the longest river in South America?",
+    "correct_answer": "Amazon",
+    "wrong_answer_1": "Congo",
+    "wrong_answer_2": "Nile",
+    "wrong_answer_3": "Yangtze",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the world's largest land mammal?",
+    "correct_answer": "African elephant",
+    "wrong_answer_1": "White rhino",
+    "wrong_answer_2": "Hippopotamus",
+    "wrong_answer_3": "Giraffe",
+    "difficulty": 4
+  },
+  {
+    "question": "Who directed the film 'Jaws'?",
+    "correct_answer": "Steven Spielberg",
+    "wrong_answer_1": "James Cameron",
+    "wrong_answer_2": "George Lucas",
+    "wrong_answer_3": "Stanley Kubrick",
+    "difficulty": 3
+  },
+  {
+    "question": "Which classic novel features the character Jay Gatsby?",
+    "correct_answer": "The Great Gatsby",
+    "wrong_answer_1": "Brave New World",
+    "wrong_answer_2": "1984",
+    "wrong_answer_3": "Lolita",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the name of the world's smallest bird species?",
+    "correct_answer": "Bee hummingbird",
+    "wrong_answer_1": "Elf owl",
+    "wrong_answer_2": "Fairy wren",
+    "wrong_answer_3": "Zebra finch",
+    "difficulty": 6
+  },
+  {
+    "question": "In computing, what does the acronym 'HTML' stand for?",
+    "correct_answer": "HyperText Markup Language",
+    "wrong_answer_1": "High Transfer Mail Line",
+    "wrong_answer_2": "Hyper Tool Markup List",
+    "wrong_answer_3": "Host Transfer Machine Logic",
+    "difficulty": 5
+  },
+  {
+    "question": "Which ancient city was destroyed by the eruption of Mount Vesuvius in 79 AD?",
+    "correct_answer": "Pompeii",
+    "wrong_answer_1": "Athens",
+    "wrong_answer_2": "Troy",
+    "wrong_answer_3": "Babylon",
+    "difficulty": 3
+  },
+  {
+    "question": "Which river runs through the city of Paris?",
+    "correct_answer": "Seine River",
+    "wrong_answer_1": "Danube River",
+    "wrong_answer_2": "Thames River",
+    "wrong_answer_3": "Rhine River",
+    "difficulty": 3
+  },
+  {
+    "question": "Who created the fictional detective Sherlock Holmes?",
+    "correct_answer": "Arthur Conan Doyle",
+    "wrong_answer_1": "Charles Dickens",
+    "wrong_answer_2": "Agatha Christie",
+    "wrong_answer_3": "Jules Verne",
+    "difficulty": 3
+  },
+  {
+    "question": "Who is known as the King of Pop?",
+    "correct_answer": "Michael Jackson",
+    "wrong_answer_1": "Elton John",
+    "wrong_answer_2": "Prince",
+    "wrong_answer_3": "Freddie Mercury",
+    "difficulty": 2
+  },
+  {
+    "question": "What type of painting technique uses wet plaster?",
+    "correct_answer": "Fresco",
+    "wrong_answer_1": "Impasto",
+    "wrong_answer_2": "Glazing",
+    "wrong_answer_3": "Pointillism",
+    "difficulty": 5
+  },
+  {
+    "question": "Which grain is most commonly used to make couscous?",
+    "correct_answer": "Semolina wheat",
+    "wrong_answer_1": "Barley grain",
+    "wrong_answer_2": "Brown rice",
+    "wrong_answer_3": "Corn meal",
+    "difficulty": 5
+  },
+  {
+    "question": "The bumblebee bat is native to which continent?",
+    "correct_answer": "Asia",
+    "wrong_answer_1": "Africa",
+    "wrong_answer_2": "Europe",
+    "wrong_answer_3": "Australia",
+    "difficulty": 6
+  },
+  {
+    "question": "The Komodo dragon is native to which country?",
+    "correct_answer": "Indonesia",
+    "wrong_answer_1": "Madagascar",
+    "wrong_answer_2": "Cambodia",
+    "wrong_answer_3": "Thailand",
+    "difficulty": 5
+  },
+  {
+    "question": "Which painting technique uses small dots to create images?",
+    "correct_answer": "Pointillism",
+    "wrong_answer_1": "Cubism",
+    "wrong_answer_2": "Sfumato",
+    "wrong_answer_3": "Encaustic",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the longest bone in the human body?",
+    "correct_answer": "Femur",
+    "wrong_answer_1": "Tibia",
+    "wrong_answer_2": "Radius",
+    "wrong_answer_3": "Ulna",
+    "difficulty": 3
+  },
+  {
+    "question": "Which country produces the most olives in the world?",
+    "correct_answer": "Spain",
+    "wrong_answer_1": "Italy",
+    "wrong_answer_2": "Greece",
+    "wrong_answer_3": "Turkey",
+    "difficulty": 4
+  },
+  {
+    "question": "Which bird is the national emblem of the United States?",
+    "correct_answer": "Bald eagle",
+    "wrong_answer_1": "Golden eagle",
+    "wrong_answer_2": "Peregrine falcon",
+    "wrong_answer_3": "Red-tailed hawk",
+    "difficulty": 3
+  },
+  {
+    "question": "Which country is famous for inventing paper?",
+    "correct_answer": "China",
+    "wrong_answer_1": "Greece",
+    "wrong_answer_2": "Egypt",
+    "wrong_answer_3": "India",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the capital city of Egypt?",
+    "correct_answer": "Cairo City",
+    "wrong_answer_1": "Lagos City",
+    "wrong_answer_2": "Tunis City",
+    "wrong_answer_3": "Tripoli City",
+    "difficulty": 2
+  },
+  {
+    "question": "What element does the chemical symbol 'Na' represent?",
+    "correct_answer": "Sodium",
+    "wrong_answer_1": "Nitrogen",
+    "wrong_answer_2": "Neon",
+    "wrong_answer_3": "Nickel",
+    "difficulty": 3
+  },
+  {
+    "question": "Which is the largest desert in the world by area?",
+    "correct_answer": "Antarctic Desert",
+    "wrong_answer_1": "Sahara Desert",
+    "wrong_answer_2": "Gobi Desert",
+    "wrong_answer_3": "Arabian Desert",
+    "difficulty": 6
+  },
+  {
+    "question": "Which Italian dish features layers of pasta, cheese, and meat sauce?",
+    "correct_answer": "Lasagna",
+    "wrong_answer_1": "Ravioli",
+    "wrong_answer_2": "Risotto",
+    "wrong_answer_3": "Gnocchi",
+    "difficulty": 2
+  },
+  {
+    "question": "Which American author wrote 'The Old Man and the Sea'?",
+    "correct_answer": "Ernest Hemingway",
+    "wrong_answer_1": "F. Scott Fitzgerald",
+    "wrong_answer_2": "John Steinbeck",
+    "wrong_answer_3": "Mark Twain",
+    "difficulty": 4
+  },
+  {
+    "question": "The Taj Mahal was built in which century?",
+    "correct_answer": "17th Century",
+    "wrong_answer_1": "16th Century",
+    "wrong_answer_2": "18th Century",
+    "wrong_answer_3": "15th Century",
+    "difficulty": 5
+  },
+  {
+    "question": "Which tennis player has the most men's Grand Slam singles titles?",
+    "correct_answer": "Novak Djokovic",
+    "wrong_answer_1": "Roger Federer",
+    "wrong_answer_2": "Rafael Nadal",
+    "wrong_answer_3": "Pete Sampras",
+    "difficulty": 6
+  },
+  {
+    "question": "Which sport uses a racket and a shuttlecock?",
+    "correct_answer": "Badminton",
+    "wrong_answer_1": "Squash",
+    "wrong_answer_2": "Tennis",
+    "wrong_answer_3": "Table tennis",
+    "difficulty": 2
+  },
+  {
+    "question": "Which river is the second-longest in the world?",
+    "correct_answer": "Amazon",
+    "wrong_answer_1": "Yangtze",
+    "wrong_answer_2": "Mississippi",
+    "wrong_answer_3": "Nile",
+    "difficulty": 4
+  },
+  {
+    "question": "Who is the artist of the sculpture 'David'?",
+    "correct_answer": "Michelangelo",
+    "wrong_answer_1": "Donatello",
+    "wrong_answer_2": "Bernini",
+    "wrong_answer_3": "Rodin",
+    "difficulty": 4
+  },
+  {
+    "question": "Which ancient wonder was located in Babylon?",
+    "correct_answer": "Hanging Gardens",
+    "wrong_answer_1": "Great Pyramid",
+    "wrong_answer_2": "Colossus of Rhodes",
+    "wrong_answer_3": "Mausoleum at Halicarnassus",
+    "difficulty": 4
+  },
+  {
+    "question": "Which chemical element is a noble gas?",
+    "correct_answer": "Neon",
+    "wrong_answer_1": "Sulfur",
+    "wrong_answer_2": "Nickel",
+    "wrong_answer_3": "Magnesium",
+    "difficulty": 3
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "correct_answer": "Athens",
+    "wrong_answer_1": "Paris",
+    "wrong_answer_2": "London",
+    "wrong_answer_3": "Rome",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the technical term for animals that eat both plants and meat?",
+    "correct_answer": "Omnivores",
+    "wrong_answer_1": "Herbivores",
+    "wrong_answer_2": "Carnivores",
+    "wrong_answer_3": "Detritivores",
+    "difficulty": 2
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "correct_answer": "Africa",
+    "wrong_answer_1": "Asia",
+    "wrong_answer_2": "Europe",
+    "wrong_answer_3": "North America",
+    "difficulty": 3
+  },
+  {
+    "question": "Which famous movie features the DeLorean time machine?",
+    "correct_answer": "Back to the Future",
+    "wrong_answer_1": "The Matrix",
+    "wrong_answer_2": "Jurassic Park",
+    "wrong_answer_3": "Star Wars",
+    "difficulty": 2
+  },
+  {
+    "question": "Which artist is known for the painting 'Water Lilies'?",
+    "correct_answer": "Claude Monet",
+    "wrong_answer_1": "Edouard Manet",
+    "wrong_answer_2": "Henri Matisse",
+    "wrong_answer_3": "Paul Cezanne",
+    "difficulty": 5
+  },
+  {
+    "question": "Who is the Greek goddess of love and beauty?",
+    "correct_answer": "Aphrodite",
+    "wrong_answer_1": "Demeter",
+    "wrong_answer_2": "Athena",
+    "wrong_answer_3": "Artemis",
+    "difficulty": 2
+  },
+  {
+    "question": "Sitar and tabla are traditional instruments from which country?",
+    "correct_answer": "India",
+    "wrong_answer_1": "China",
+    "wrong_answer_2": "Turkey",
+    "wrong_answer_3": "Brazil",
+    "difficulty": 3
+  },
+  {
+    "question": "Which molecule carries oxygen in the blood?",
+    "correct_answer": "Hemoglobin",
+    "wrong_answer_1": "Insulin",
+    "wrong_answer_2": "Keratin",
+    "wrong_answer_3": "Collagen",
+    "difficulty": 4
+  },
+  {
+    "question": "What grain is traditional risotto made from?",
+    "correct_answer": "Arborio rice",
+    "wrong_answer_1": "Basmati rice",
+    "wrong_answer_2": "Jasmine rice",
+    "wrong_answer_3": "Wild rice",
+    "difficulty": 5
+  },
+  {
+    "question": "Which country is famous for the chocolate brand Toblerone?",
+    "correct_answer": "Switzerland",
+    "wrong_answer_1": "Belgium",
+    "wrong_answer_2": "Austria",
+    "wrong_answer_3": "France",
+    "difficulty": 2
+  },
+  {
+    "question": "Which planet is known for having the Great Red Spot?",
+    "correct_answer": "Jupiter",
+    "wrong_answer_1": "Saturn",
+    "wrong_answer_2": "Neptune",
+    "wrong_answer_3": "Mars",
+    "difficulty": 2
+  },
+  {
+    "question": "Who invented the process of pasteurization?",
+    "correct_answer": "Louis Pasteur",
+    "wrong_answer_1": "Marie Curie",
+    "wrong_answer_2": "Gregor Mendel",
+    "wrong_answer_3": "Joseph Lister",
+    "difficulty": 3
+  },
+  {
+    "question": "Which African nation has the highest population?",
+    "correct_answer": "Nigeria",
+    "wrong_answer_1": "Egypt",
+    "wrong_answer_2": "Ethiopia",
+    "wrong_answer_3": "South Africa",
+    "difficulty": 3
+  },
+  {
+    "question": "Which tennis Grand Slam is played on clay courts?",
+    "correct_answer": "French Open",
+    "wrong_answer_1": "Wimbledon",
+    "wrong_answer_2": "US Open",
+    "wrong_answer_3": "Australian Open",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "correct_answer": "Neil Armstrong",
+    "wrong_answer_1": "Buzz Aldrin",
+    "wrong_answer_2": "Yuri Gagarin",
+    "wrong_answer_3": "Alan Shepard",
+    "difficulty": 2
+  },
+  {
+    "question": "Which river flows through Baghdad?",
+    "correct_answer": "Tigris",
+    "wrong_answer_1": "Euphrates",
+    "wrong_answer_2": "Nile",
+    "wrong_answer_3": "Jordan",
+    "difficulty": 4
+  },
+  {
+    "question": "Which country hosts the annual Day of the Dead festival?",
+    "correct_answer": "Mexico",
+    "wrong_answer_1": "Spain",
+    "wrong_answer_2": "Peru",
+    "wrong_answer_3": "Chile",
+    "difficulty": 3
+  },
+  {
+    "question": "Which composer wrote 'Symphony No. 9' also known as 'Ode to Joy'?",
+    "correct_answer": "Beethoven",
+    "wrong_answer_1": "Mozart",
+    "wrong_answer_2": "Brahms",
+    "wrong_answer_3": "Schubert",
+    "difficulty": 4
+  },
+  {
+    "question": "Which continent is the Andes mountain range located on?",
+    "correct_answer": "South America",
+    "wrong_answer_1": "Africa",
+    "wrong_answer_2": "Asia",
+    "wrong_answer_3": "Europe",
+    "difficulty": 2
+  }
+]

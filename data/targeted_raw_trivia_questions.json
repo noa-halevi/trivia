@@ -1,0 +1,1362 @@
+[
+  {
+    "question": "Who developed the theory of relativity?",
+    "correct_answer": "Albert Einstein",
+    "wrong_answer_1": "Isaac Newton",
+    "wrong_answer_2": "Nikola Tesla",
+    "wrong_answer_3": "Marie Curie",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the civil rights leader who gave the 'I Have a Dream' speech?",
+    "correct_answer": "Martin Luther King Jr.",
+    "wrong_answer_1": "Malcolm X",
+    "wrong_answer_2": "Rosa Parks",
+    "wrong_answer_3": "Frederick Douglass",
+    "difficulty": 4
+  },
+  {
+    "question": "Which film features the quote 'Here's looking at you, kid'?",
+    "correct_answer": "Casablanca",
+    "wrong_answer_1": "Gone with the Wind",
+    "wrong_answer_2": "Citizen Kane",
+    "wrong_answer_3": "The Godfather",
+    "difficulty": 4
+  },
+  {
+    "question": "Who played the lead role in the TV series 'Breaking Bad'?",
+    "correct_answer": "Bryan Cranston",
+    "wrong_answer_1": "Aaron Paul",
+    "wrong_answer_2": "Bob Odenkirk",
+    "wrong_answer_3": "Dean Norris",
+    "difficulty": 3
+  },
+  {
+    "question": "What does the acronym 'CPU' stand for in computing?",
+    "correct_answer": "Central Processing Unit",
+    "wrong_answer_1": "Computer Power Unit",
+    "wrong_answer_2": "Circuit Programming Unit",
+    "wrong_answer_3": "Core Peripheral Unit",
+    "difficulty": 2
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "correct_answer": "Google",
+    "wrong_answer_1": "Microsoft",
+    "wrong_answer_2": "Apple",
+    "wrong_answer_3": "IBM",
+    "difficulty": 2
+  },
+  {
+    "question": "Which video game series features the fictional region of Hyrule?",
+    "correct_answer": "The Legend of Zelda",
+    "wrong_answer_1": "Final Fantasy",
+    "wrong_answer_2": "Kingdom Hearts",
+    "wrong_answer_3": "Fire Emblem",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the name of the plumber protagonist in Nintendo's famous platformer series?",
+    "correct_answer": "Mario",
+    "wrong_answer_1": "Luigi",
+    "wrong_answer_2": "Kirby",
+    "wrong_answer_3": "Sonic",
+    "difficulty": 2
+  },
+  {
+    "question": "What Italian dessert is made of coffee-soaked ladyfingers and mascarpone cheese?",
+    "correct_answer": "Tiramisu",
+    "wrong_answer_1": "Panna Cotta",
+    "wrong_answer_2": "Cannoli",
+    "wrong_answer_3": "Zabaglione",
+    "difficulty": 4
+  },
+  {
+    "question": "Which drink is traditionally made by fermenting apples?",
+    "correct_answer": "Cider",
+    "wrong_answer_1": "Sake",
+    "wrong_answer_2": "Mead",
+    "wrong_answer_3": "Kvass",
+    "difficulty": 4
+  },
+  {
+    "question": "Which sport features the terms 'birdie' and 'par'?",
+    "correct_answer": "Golf",
+    "wrong_answer_1": "Tennis",
+    "wrong_answer_2": "Cricket",
+    "wrong_answer_3": "Rugby",
+    "difficulty": 2
+  },
+  {
+    "question": "Which athlete set a 100m world record at the 2009 World Championships in Berlin?",
+    "correct_answer": "Usain Bolt",
+    "wrong_answer_1": "Tyson Gay",
+    "wrong_answer_2": "Asafa Powell",
+    "wrong_answer_3": "Justin Gatlin",
+    "difficulty": 3
+  },
+  {
+    "question": "Which group sang 'Bohemian Rhapsody'?",
+    "correct_answer": "Queen",
+    "wrong_answer_1": "The Beatles",
+    "wrong_answer_2": "Led Zeppelin",
+    "wrong_answer_3": "Pink Floyd",
+    "difficulty": 2
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "correct_answer": "Madonna",
+    "wrong_answer_1": "Beyoncé",
+    "wrong_answer_2": "Selena",
+    "wrong_answer_3": "Rihanna",
+    "difficulty": 3
+  },
+  {
+    "question": "Which artist cut off a part of his ear and sent it to a friend?",
+    "correct_answer": "Vincent van Gogh",
+    "wrong_answer_1": "Henri Matisse",
+    "wrong_answer_2": "Claude Monet",
+    "wrong_answer_3": "Paul Cézanne",
+    "difficulty": 4
+  },
+  {
+    "question": "Which company is known for the slogan 'Just Do It'?",
+    "correct_answer": "Nike",
+    "wrong_answer_1": "Adidas",
+    "wrong_answer_2": "Reebok",
+    "wrong_answer_3": "Puma",
+    "difficulty": 2
+  },
+  {
+    "question": "Which car manufacturer produces the Corolla?",
+    "correct_answer": "Toyota",
+    "wrong_answer_1": "Honda",
+    "wrong_answer_2": "Ford",
+    "wrong_answer_3": "Hyundai",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the term for a word that has the opposite meaning of another word?",
+    "correct_answer": "Antonym",
+    "wrong_answer_1": "Homonym",
+    "wrong_answer_2": "Synonym",
+    "wrong_answer_3": "Acronym",
+    "difficulty": 2
+  },
+  {
+    "question": "Which language uses the Cyrillic alphabet?",
+    "correct_answer": "Russian",
+    "wrong_answer_1": "Arabic",
+    "wrong_answer_2": "Greek",
+    "wrong_answer_3": "Turkish",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the value of pi rounded to two decimal places?",
+    "correct_answer": "3.14",
+    "wrong_answer_1": "3.16",
+    "wrong_answer_2": "3.12",
+    "wrong_answer_3": "3.18",
+    "difficulty": 2
+  },
+  {
+    "question": "If a train travels 80 kilometers in 2 hours, what is its average speed?",
+    "correct_answer": "40 kilometers per hour",
+    "wrong_answer_1": "50 kilometers per hour",
+    "wrong_answer_2": "30 kilometers per hour",
+    "wrong_answer_3": "60 kilometers per hour",
+    "difficulty": 3
+  },
+  {
+    "question": "Who co-founded Microsoft alongside Bill Gates?",
+    "correct_answer": "Paul Allen",
+    "wrong_answer_1": "Tim Cook",
+    "wrong_answer_2": "Larry Page",
+    "wrong_answer_3": "Sergey Brin",
+    "difficulty": 5
+  },
+  {
+    "question": "Who was known as the first female Prime Minister of the United Kingdom?",
+    "correct_answer": "Margaret Thatcher",
+    "wrong_answer_1": "Angela Merkel",
+    "wrong_answer_2": "Theresa May",
+    "wrong_answer_3": "Golda Meir",
+    "difficulty": 4
+  },
+  {
+    "question": "Which film won the Academy Award for Best Picture in 1994?",
+    "correct_answer": "Forrest Gump",
+    "wrong_answer_1": "Pulp Fiction",
+    "wrong_answer_2": "The Shawshank Redemption",
+    "wrong_answer_3": "The Lion King",
+    "difficulty": 3
+  },
+  {
+    "question": "Who played the character Eleven in the series 'Stranger Things'?",
+    "correct_answer": "Millie Bobby Brown",
+    "wrong_answer_1": "Natalia Dyer",
+    "wrong_answer_2": "Sadie Sink",
+    "wrong_answer_3": "Winona Ryder",
+    "difficulty": 4
+  },
+  {
+    "question": "Which company manufactured the first commercially available microprocessor?",
+    "correct_answer": "Intel",
+    "wrong_answer_1": "AMD",
+    "wrong_answer_2": "IBM",
+    "wrong_answer_3": "Texas Instruments",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the most widely used computer operating system in the world?",
+    "correct_answer": "Microsoft Windows",
+    "wrong_answer_1": "MacOS Monterey",
+    "wrong_answer_2": "Ubuntu Linux",
+    "wrong_answer_3": "Chrome OS",
+    "difficulty": 2
+  },
+  {
+    "question": "Which video game franchise features the character Master Chief?",
+    "correct_answer": "Halo",
+    "wrong_answer_1": "Gears of War",
+    "wrong_answer_2": "Call of Duty",
+    "wrong_answer_3": "Destiny",
+    "difficulty": 3
+  },
+  {
+    "question": "Which game is known for its block-based world and mining mechanics?",
+    "correct_answer": "Minecraft",
+    "wrong_answer_1": "Terraria",
+    "wrong_answer_2": "Roblox",
+    "wrong_answer_3": "Stardew Valley",
+    "difficulty": 2
+  },
+  {
+    "question": "What type of pasta is shaped like small rice grains and often used in soups?",
+    "correct_answer": "Orzo",
+    "wrong_answer_1": "Fusilli",
+    "wrong_answer_2": "Farfalle",
+    "wrong_answer_3": "Penne",
+    "difficulty": 4
+  },
+  {
+    "question": "Which fruit is traditionally used to make guacamole?",
+    "correct_answer": "Avocado",
+    "wrong_answer_1": "Tomato",
+    "wrong_answer_2": "Mango",
+    "wrong_answer_3": "Cucumber",
+    "difficulty": 2
+  },
+  {
+    "question": "Which athlete holds the record for the most goals scored in a single NHL season?",
+    "correct_answer": "Wayne Gretzky",
+    "wrong_answer_1": "Mario Lemieux",
+    "wrong_answer_2": "Gordie Howe",
+    "wrong_answer_3": "Alex Ovechkin",
+    "difficulty": 6
+  },
+  {
+    "question": "What sport is known for the Triple Crown event?",
+    "correct_answer": "Horse racing",
+    "wrong_answer_1": "Cricket",
+    "wrong_answer_2": "Golf",
+    "wrong_answer_3": "Tennis",
+    "difficulty": 3
+  },
+  {
+    "question": "Which band released the album 'Sgt. Pepper's Lonely Hearts Club Band'?",
+    "correct_answer": "The Beatles",
+    "wrong_answer_1": "The Rolling Stones",
+    "wrong_answer_2": "Pink Floyd",
+    "wrong_answer_3": "The Who",
+    "difficulty": 2
+  },
+  {
+    "question": "Which artist painted 'The Persistence of Memory'?",
+    "correct_answer": "Salvador Dalí",
+    "wrong_answer_1": "Pablo Picasso",
+    "wrong_answer_2": "Claude Monet",
+    "wrong_answer_3": "Paul Cézanne",
+    "difficulty": 4
+  },
+  {
+    "question": "Who is famous for the sculpture known as 'The Thinker'?",
+    "correct_answer": "Auguste Rodin",
+    "wrong_answer_1": "Michelangelo",
+    "wrong_answer_2": "Donatello",
+    "wrong_answer_3": "Constantin Brâncuși",
+    "difficulty": 5
+  },
+  {
+    "question": "Which brand's logo features a red and white ribbon-like script?",
+    "correct_answer": "Coca-Cola",
+    "wrong_answer_1": "Pepsi-Cola",
+    "wrong_answer_2": "Kellogg's",
+    "wrong_answer_3": "Campbell's",
+    "difficulty": 3
+  },
+  {
+    "question": "Who founded the online retail company Amazon?",
+    "correct_answer": "Jeff Bezos",
+    "wrong_answer_1": "Elon Musk",
+    "wrong_answer_2": "Mark Zuckerberg",
+    "wrong_answer_3": "Jack Ma",
+    "difficulty": 2
+  },
+  {
+    "question": "What is an example of a palindrome word?",
+    "correct_answer": "Racecar",
+    "wrong_answer_1": "Butter",
+    "wrong_answer_2": "Circle",
+    "wrong_answer_3": "Banana",
+    "difficulty": 2
+  },
+  {
+    "question": "Which punctuation mark is used at the end of a question?",
+    "correct_answer": "Question mark",
+    "wrong_answer_1": "Full stop",
+    "wrong_answer_2": "Comma sign",
+    "wrong_answer_3": "Colon mark",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the next prime number after 17?",
+    "correct_answer": "19",
+    "wrong_answer_1": "21",
+    "wrong_answer_2": "23",
+    "wrong_answer_3": "27",
+    "difficulty": 2
+  },
+  {
+    "question": "If a recipe requires 2/3 cup of sugar, how much is needed for double the recipe?",
+    "correct_answer": "1 1/3 cups",
+    "wrong_answer_1": "2/3 cups",
+    "wrong_answer_2": "1 cup",
+    "wrong_answer_3": "2 cups",
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the British scientist known for his contributions to the theory of evolution by natural selection?",
+    "correct_answer": "Charles Darwin",
+    "wrong_answer_1": "Isaac Newton",
+    "wrong_answer_2": "James Watt",
+    "wrong_answer_3": "Alan Turing",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first female astronaut from the United States to travel into space?",
+    "correct_answer": "Sally Ride",
+    "wrong_answer_1": "Mae Jemison",
+    "wrong_answer_2": "Valentina Tereshkova",
+    "wrong_answer_3": "Peggy Whitson",
+    "difficulty": 4
+  },
+  {
+    "question": "Which film trilogy is centered around a magical ring and characters like Frodo and Gandalf?",
+    "correct_answer": "The Lord of the Rings",
+    "wrong_answer_1": "The Chronicles of Narnia",
+    "wrong_answer_2": "Harry Potter Series",
+    "wrong_answer_3": "The Hobbit Trilogy",
+    "difficulty": 2
+  },
+  {
+    "question": "On which animated TV show would you find the character Homer Simpson?",
+    "correct_answer": "The Simpsons",
+    "wrong_answer_1": "Family Guy",
+    "wrong_answer_2": "Rick and Morty",
+    "wrong_answer_3": "King of the Hill",
+    "difficulty": 2
+  },
+  {
+    "question": "What does Wi-Fi primarily allow devices to do?",
+    "correct_answer": "Connect wirelessly to networks",
+    "wrong_answer_1": "Store backup power",
+    "wrong_answer_2": "Display high-resolution images",
+    "wrong_answer_3": "Monitor health data",
+    "difficulty": 2
+  },
+  {
+    "question": "Which company is known for producing the Galaxy line of smartphones?",
+    "correct_answer": "Samsung Electronics",
+    "wrong_answer_1": "Sony Corporation",
+    "wrong_answer_2": "Huawei Technologies",
+    "wrong_answer_3": "Apple Incorporated",
+    "difficulty": 3
+  },
+  {
+    "question": "Which video game features a battle royale mode called 'Warzone'?",
+    "correct_answer": "Call of Duty",
+    "wrong_answer_1": "Fortnite",
+    "wrong_answer_2": "Apex Legends",
+    "wrong_answer_3": "PUBG Mobile",
+    "difficulty": 4
+  },
+  {
+    "question": "In which video game do players control champions and try to destroy a Nexus?",
+    "correct_answer": "League of Legends",
+    "wrong_answer_1": "Heroes of the Storm",
+    "wrong_answer_2": "Overwatch 2",
+    "wrong_answer_3": "Dota Underlords",
+    "difficulty": 5
+  },
+  {
+    "question": "Which cheese is traditionally used in Greek salads?",
+    "correct_answer": "Feta Cheese",
+    "wrong_answer_1": "Gouda Cheese",
+    "wrong_answer_2": "Brie Cheese",
+    "wrong_answer_3": "Cheddar Cheese",
+    "difficulty": 2
+  },
+  {
+    "question": "Gnocchi is a type of dumpling primarily made from what ingredient?",
+    "correct_answer": "Potato",
+    "wrong_answer_1": "Rice",
+    "wrong_answer_2": "Lentil",
+    "wrong_answer_3": "Polenta",
+    "difficulty": 3
+  },
+  {
+    "question": "Which athlete famously won eight gold medals at a single Olympic Games?",
+    "correct_answer": "Michael Phelps",
+    "wrong_answer_1": "Usain Bolt",
+    "wrong_answer_2": "Simone Biles",
+    "wrong_answer_3": "Mark Spitz",
+    "difficulty": 4
+  },
+  {
+    "question": "The Stanley Cup is awarded annually in which sport?",
+    "correct_answer": "Ice Hockey",
+    "wrong_answer_1": "Basketball",
+    "wrong_answer_2": "Rugby Union",
+    "wrong_answer_3": "Cricket",
+    "difficulty": 3
+  },
+  {
+    "question": "Which singer released the album '1989' in 2014?",
+    "correct_answer": "Taylor Swift",
+    "wrong_answer_1": "Lady Gaga",
+    "wrong_answer_2": "Ariana Grande",
+    "wrong_answer_3": "Katy Perry",
+    "difficulty": 3
+  },
+  {
+    "question": "Who is the legendary reggae musician known for songs like 'One Love'?",
+    "correct_answer": "Bob Marley",
+    "wrong_answer_1": "Peter Tosh",
+    "wrong_answer_2": "Jimmy Cliff",
+    "wrong_answer_3": "Bunny Wailer",
+    "difficulty": 3
+  },
+  {
+    "question": "Who painted the famous mural 'Guernica'?",
+    "correct_answer": "Pablo Picasso",
+    "wrong_answer_1": "Joan Miró",
+    "wrong_answer_2": "Henri Matisse",
+    "wrong_answer_3": "Claude Monet",
+    "difficulty": 4
+  },
+  {
+    "question": "Which artist is associated with making mobile sculptures?",
+    "correct_answer": "Alexander Calder",
+    "wrong_answer_1": "Jackson Pollock",
+    "wrong_answer_2": "Andy Warhol",
+    "wrong_answer_3": "Georgia O'Keeffe",
+    "difficulty": 5
+  },
+  {
+    "question": "Which company is the primary parent of the brand Audi?",
+    "correct_answer": "Volkswagen Group",
+    "wrong_answer_1": "Daimler AG",
+    "wrong_answer_2": "Renault Group",
+    "wrong_answer_3": "BMW Group",
+    "difficulty": 4
+  },
+  {
+    "question": "Which search engine is owned by Microsoft?",
+    "correct_answer": "Bing",
+    "wrong_answer_1": "DuckDuckGo",
+    "wrong_answer_2": "Yahoo",
+    "wrong_answer_3": "Ask Jeeves",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the term for a word formed by rearranging the letters of another word?",
+    "correct_answer": "Anagram",
+    "wrong_answer_1": "Palindrome",
+    "wrong_answer_2": "Homonym",
+    "wrong_answer_3": "Antonym",
+    "difficulty": 4
+  },
+  {
+    "question": "Which language is most closely related to Italian?",
+    "correct_answer": "Spanish",
+    "wrong_answer_1": "Polish",
+    "wrong_answer_2": "German",
+    "wrong_answer_3": "Hungarian",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the sum of the angles in any triangle?",
+    "correct_answer": "180 degrees",
+    "wrong_answer_1": "360 degrees",
+    "wrong_answer_2": "90 degrees",
+    "wrong_answer_3": "120 degrees",
+    "difficulty": 2
+  },
+  {
+    "question": "If X = 3 and Y = X + 4, what is the value of Y?",
+    "correct_answer": "7",
+    "wrong_answer_1": "5",
+    "wrong_answer_2": "9",
+    "wrong_answer_3": "12",
+    "difficulty": 1
+  },
+  {
+    "question": "Who was the first person to win two Nobel Prizes in different sciences?",
+    "correct_answer": "Marie Curie",
+    "wrong_answer_1": "Linus Pauling",
+    "wrong_answer_2": "Albert Einstein",
+    "wrong_answer_3": "Niels Bohr",
+    "difficulty": 6
+  },
+  {
+    "question": "Which American inventor developed the phonograph in 1877?",
+    "correct_answer": "Thomas Edison",
+    "wrong_answer_1": "Alexander Bell",
+    "wrong_answer_2": "Nikola Tesla",
+    "wrong_answer_3": "Eli Whitney",
+    "difficulty": 2
+  },
+  {
+    "question": "Which film marked the debut of the character Indiana Jones?",
+    "correct_answer": "Raiders of the Lost Ark",
+    "wrong_answer_1": "Temple of Doom",
+    "wrong_answer_2": "Last Crusade",
+    "wrong_answer_3": "Kingdom of the Crystal Skull",
+    "difficulty": 4
+  },
+  {
+    "question": "Who played the role of Tony Stark in the Marvel Cinematic Universe?",
+    "correct_answer": "Robert Downey Jr.",
+    "wrong_answer_1": "Chris Hemsworth",
+    "wrong_answer_2": "Mark Ruffalo",
+    "wrong_answer_3": "Chris Evans",
+    "difficulty": 3
+  },
+  {
+    "question": "What technology is used to make phone calls over the internet?",
+    "correct_answer": "Voice over IP",
+    "wrong_answer_1": "Circuit Switching",
+    "wrong_answer_2": "Packet Radio",
+    "wrong_answer_3": "Analog Relay",
+    "difficulty": 5
+  },
+  {
+    "question": "What device is used to measure atmospheric pressure?",
+    "correct_answer": "Barometer",
+    "wrong_answer_1": "Hygrometer",
+    "wrong_answer_2": "Anemometer",
+    "wrong_answer_3": "Thermometer",
+    "difficulty": 3
+  },
+  {
+    "question": "Which video game is set in the fictional city of Rapture?",
+    "correct_answer": "BioShock",
+    "wrong_answer_1": "Half-Life",
+    "wrong_answer_2": "Deus Ex",
+    "wrong_answer_3": "Dishonored",
+    "difficulty": 6
+  },
+  {
+    "question": "In which series do players catch creatures called pocket monsters?",
+    "correct_answer": "Pokémon",
+    "wrong_answer_1": "Digimon",
+    "wrong_answer_2": "Yu-Gi-Oh",
+    "wrong_answer_3": "Monster Hunter",
+    "difficulty": 2
+  },
+  {
+    "question": "Which country is the origin of tempura, a dish of battered and fried foods?",
+    "correct_answer": "Japan",
+    "wrong_answer_1": "China",
+    "wrong_answer_2": "Thailand",
+    "wrong_answer_3": "Vietnam",
+    "difficulty": 2
+  },
+  {
+    "question": "What is paneer primarily made from?",
+    "correct_answer": "Cow's milk",
+    "wrong_answer_1": "Soybeans",
+    "wrong_answer_2": "Almonds",
+    "wrong_answer_3": "Rice flour",
+    "difficulty": 4
+  },
+  {
+    "question": "Who was the first woman to win an Olympic gold medal in gymnastics for the USA?",
+    "correct_answer": "Mary Lou Retton",
+    "wrong_answer_1": "Nadia Comaneci",
+    "wrong_answer_2": "Simone Biles",
+    "wrong_answer_3": "Shannon Miller",
+    "difficulty": 7
+  },
+  {
+    "question": "Which sport uses the term 'scrum'?",
+    "correct_answer": "Rugby",
+    "wrong_answer_1": "Cricket",
+    "wrong_answer_2": "Baseball",
+    "wrong_answer_3": "Volleyball",
+    "difficulty": 2
+  },
+  {
+    "question": "Which artist released the album 'Thriller' in 1982?",
+    "correct_answer": "Michael Jackson",
+    "wrong_answer_1": "Prince",
+    "wrong_answer_2": "Stevie Wonder",
+    "wrong_answer_3": "Lionel Richie",
+    "difficulty": 3
+  },
+  {
+    "question": "Ludwig van Beethoven composed which symphony known as the 'Choral Symphony'?",
+    "correct_answer": "Ninth Symphony",
+    "wrong_answer_1": "Fifth Symphony",
+    "wrong_answer_2": "Seventh Symphony",
+    "wrong_answer_3": "Sixth Symphony",
+    "difficulty": 5
+  },
+  {
+    "question": "Which artist is famous for the sculpture 'Bird in Space'?",
+    "correct_answer": "Constantin Brancusi",
+    "wrong_answer_1": "Henry Moore",
+    "wrong_answer_2": "Alberto Giacometti",
+    "wrong_answer_3": "Auguste Rodin",
+    "difficulty": 7
+  },
+  {
+    "question": "Which art style is associated with artists like Georges Braque and Pablo Picasso?",
+    "correct_answer": "Cubism",
+    "wrong_answer_1": "Surrealism",
+    "wrong_answer_2": "Impressionism",
+    "wrong_answer_3": "Romanticism",
+    "difficulty": 3
+  },
+  {
+    "question": "Which company is the parent of the brand Dove soap?",
+    "correct_answer": "Unilever",
+    "wrong_answer_1": "Procter & Gamble",
+    "wrong_answer_2": "Johnson & Johnson",
+    "wrong_answer_3": "Colgate-Palmolive",
+    "difficulty": 5
+  },
+  {
+    "question": "Which soft drink brand introduced the first diet soda called 'No-Cal' in the 1950s?",
+    "correct_answer": "Kirsch",
+    "wrong_answer_1": "Coca-Cola",
+    "wrong_answer_2": "Pepsi",
+    "wrong_answer_3": "Dr Pepper",
+    "difficulty": 8
+  },
+  {
+    "question": "Which English word means 'fear of confined spaces'?",
+    "correct_answer": "Claustrophobia",
+    "wrong_answer_1": "Xenophobia",
+    "wrong_answer_2": "Agoraphobia",
+    "wrong_answer_3": "Acrophobia",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the grammatical term for a word that modifies a verb, adjective, or another adverb?",
+    "correct_answer": "Adverb",
+    "wrong_answer_1": "Conjunction",
+    "wrong_answer_2": "Pronoun",
+    "wrong_answer_3": "Noun",
+    "difficulty": 3
+  },
+  {
+    "question": "If a number is divisible by 6 and by 9, it must be divisible by which smallest number?",
+    "correct_answer": "18",
+    "wrong_answer_1": "12",
+    "wrong_answer_2": "24",
+    "wrong_answer_3": "15",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the result when you subtract 19 from 47?",
+    "correct_answer": "28",
+    "wrong_answer_1": "26",
+    "wrong_answer_2": "32",
+    "wrong_answer_3": "24",
+    "difficulty": 1
+  },
+  {
+    "question": "Who was the first African American president of the United States?",
+    "correct_answer": "Barack Obama",
+    "wrong_answer_1": "Colin Powell",
+    "wrong_answer_2": "Jesse Jackson",
+    "wrong_answer_3": "Thurgood Marshall",
+    "difficulty": 2
+  },
+  {
+    "question": "Which scientist is best known for formulating the laws of motion?",
+    "correct_answer": "Isaac Newton",
+    "wrong_answer_1": "James Clerk Maxwell",
+    "wrong_answer_2": "Michael Faraday",
+    "wrong_answer_3": "Gregor Mendel",
+    "difficulty": 3
+  },
+  {
+    "question": "Which film won the Academy Award for Best Picture in 2021?",
+    "correct_answer": "Nomadland",
+    "wrong_answer_1": "Minari",
+    "wrong_answer_2": "The Father",
+    "wrong_answer_3": "Judas and the Black Messiah",
+    "difficulty": 6
+  },
+  {
+    "question": "Which animated TV series features the character Aang, a young Avatar?",
+    "correct_answer": "Avatar: The Last Airbender",
+    "wrong_answer_1": "The Dragon Prince",
+    "wrong_answer_2": "Gravity Falls",
+    "wrong_answer_3": "The Legend of Korra",
+    "difficulty": 4
+  },
+  {
+    "question": "What technology is used to store large amounts of data on optical discs?",
+    "correct_answer": "Blu-ray Disc",
+    "wrong_answer_1": "CompactFlash",
+    "wrong_answer_2": "Solid State Drive",
+    "wrong_answer_3": "Zip Disk",
+    "difficulty": 5
+  },
+  {
+    "question": "Which programming language was created by Guido van Rossum and named after a comedy group?",
+    "correct_answer": "Python",
+    "wrong_answer_1": "Java",
+    "wrong_answer_2": "Ruby",
+    "wrong_answer_3": "Perl",
+    "difficulty": 3
+  },
+  {
+    "question": "Which game company created the series 'Uncharted'?",
+    "correct_answer": "Naughty Dog",
+    "wrong_answer_1": "Ubisoft",
+    "wrong_answer_2": "Capcom",
+    "wrong_answer_3": "Bungie",
+    "difficulty": 4
+  },
+  {
+    "question": "In which game is the main objective to build civilizations and achieve victory through science or domination?",
+    "correct_answer": "Civilization VI",
+    "wrong_answer_1": "Age of Empires IV",
+    "wrong_answer_2": "StarCraft II",
+    "wrong_answer_3": "Europa Universalis IV",
+    "difficulty": 5
+  },
+  {
+    "question": "Which French soup is traditionally made with onions and topped with melted cheese?",
+    "correct_answer": "French onion soup",
+    "wrong_answer_1": "Bouillabaisse",
+    "wrong_answer_2": "Vichyssoise",
+    "wrong_answer_3": "Pot-au-feu",
+    "difficulty": 3
+  },
+  {
+    "question": "Which type of pasta looks like small tubes and is often used in baked dishes?",
+    "correct_answer": "Ziti",
+    "wrong_answer_1": "Tagliatelle",
+    "wrong_answer_2": "Farfalle",
+    "wrong_answer_3": "Conchiglie",
+    "difficulty": 4
+  },
+  {
+    "question": "What term is used when a batter hits a home run with the bases loaded in baseball?",
+    "correct_answer": "Grand slam",
+    "wrong_answer_1": "Triple play",
+    "wrong_answer_2": "Double steal",
+    "wrong_answer_3": "Sacrifice fly",
+    "difficulty": 3
+  },
+  {
+    "question": "Which country won the FIFA Women's World Cup in 2019?",
+    "correct_answer": "United States",
+    "wrong_answer_1": "Germany",
+    "wrong_answer_2": "Netherlands",
+    "wrong_answer_3": "Japan",
+    "difficulty": 3
+  },
+  {
+    "question": "Who composed the classical piece 'The Four Seasons'?",
+    "correct_answer": "Antonio Vivaldi",
+    "wrong_answer_1": "Johann Pachelbel",
+    "wrong_answer_2": "Franz Liszt",
+    "wrong_answer_3": "Felix Mendelssohn",
+    "difficulty": 3
+  },
+  {
+    "question": "Which band released the song 'Hotel California' in 1976?",
+    "correct_answer": "Eagles",
+    "wrong_answer_1": "Journey",
+    "wrong_answer_2": "Fleetwood Mac",
+    "wrong_answer_3": "The Doors",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Dutch artist is known for night scenes and the painting 'The Night Watch'?",
+    "correct_answer": "Rembrandt",
+    "wrong_answer_1": "Vermeer",
+    "wrong_answer_2": "Mondrian",
+    "wrong_answer_3": "Rubens",
+    "difficulty": 4
+  },
+  {
+    "question": "Which modern art movement is closely linked with Salvador Dalí?",
+    "correct_answer": "Surrealism",
+    "wrong_answer_1": "Fauvism",
+    "wrong_answer_2": "Cubism",
+    "wrong_answer_3": "Impressionism",
+    "difficulty": 4
+  },
+  {
+    "question": "Which company is famous for its sportswear logo resembling a blue trefoil?",
+    "correct_answer": "Adidas",
+    "wrong_answer_1": "Reebok",
+    "wrong_answer_2": "Fila",
+    "wrong_answer_3": "Puma",
+    "difficulty": 2
+  },
+  {
+    "question": "What coffee brand is known for its green siren logo?",
+    "correct_answer": "Starbucks",
+    "wrong_answer_1": "Peet's Coffee",
+    "wrong_answer_2": "Costa Coffee",
+    "wrong_answer_3": "Caribou Coffee",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the term for a word that has the same spelling but different meanings?",
+    "correct_answer": "Homograph",
+    "wrong_answer_1": "Homophone",
+    "wrong_answer_2": "Antonym",
+    "wrong_answer_3": "Synonym",
+    "difficulty": 5
+  },
+  {
+    "question": "Which official language uses the most characters in its writing system?",
+    "correct_answer": "Chinese",
+    "wrong_answer_1": "Greek",
+    "wrong_answer_2": "Hebrew",
+    "wrong_answer_3": "Cyrillic",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the square root of 121?",
+    "correct_answer": "11",
+    "wrong_answer_1": "12",
+    "wrong_answer_2": "13",
+    "wrong_answer_3": "14",
+    "difficulty": 3
+  },
+  {
+    "question": "If a triangle has side lengths of 3, 4, and 5, what is its area?",
+    "correct_answer": "6",
+    "wrong_answer_1": "9",
+    "wrong_answer_2": "8",
+    "wrong_answer_3": "10",
+    "difficulty": 6
+  },
+  {
+    "question": "Who was the first person to win an Academy Award for Best Actor twice?",
+    "correct_answer": "Spencer Tracy",
+    "wrong_answer_1": "Clark Gable",
+    "wrong_answer_2": "Gary Cooper",
+    "wrong_answer_3": "James Stewart",
+    "difficulty": 5
+  },
+  {
+    "question": "Which philanthropist is known for founding the Carnegie libraries?",
+    "correct_answer": "Andrew Carnegie",
+    "wrong_answer_1": "John D. Rockefeller",
+    "wrong_answer_2": "J.P. Morgan",
+    "wrong_answer_3": "Cornelius Vanderbilt",
+    "difficulty": 4
+  },
+  {
+    "question": "Which 1999 film was directed by M. Night Shyamalan and features a boy who sees ghosts?",
+    "correct_answer": "The Sixth Sense",
+    "wrong_answer_1": "Unbreakable",
+    "wrong_answer_2": "The Others",
+    "wrong_answer_3": "Signs",
+    "difficulty": 4
+  },
+  {
+    "question": "Which TV series is set at the fictional Dunder Mifflin Paper Company?",
+    "correct_answer": "The Office",
+    "wrong_answer_1": "Parks and Recreation",
+    "wrong_answer_2": "Brooklyn Nine-Nine",
+    "wrong_answer_3": "Community",
+    "difficulty": 3
+  },
+  {
+    "question": "What does HTTP stand for in website addresses?",
+    "correct_answer": "HyperText Transfer Protocol",
+    "wrong_answer_1": "HyperTerminal Text Platform",
+    "wrong_answer_2": "High-Tech Transmission Process",
+    "wrong_answer_3": "Host Terminal Type Protocol",
+    "difficulty": 4
+  },
+  {
+    "question": "Which company developed the PlayStation gaming console?",
+    "correct_answer": "Sony Computer Entertainment",
+    "wrong_answer_1": "Nintendo Entertainment System",
+    "wrong_answer_2": "Sega Holdings Corporation",
+    "wrong_answer_3": "Microsoft Interactive Studios",
+    "difficulty": 4
+  },
+  {
+    "question": "Which video game features an archaeologist named Lara Croft?",
+    "correct_answer": "Tomb Raider",
+    "wrong_answer_1": "Uncharted",
+    "wrong_answer_2": "Assassin's Creed",
+    "wrong_answer_3": "Far Cry",
+    "difficulty": 3
+  },
+  {
+    "question": "The main character of 'Half-Life' is known by what name?",
+    "correct_answer": "Gordon Freeman",
+    "wrong_answer_1": "Jack Mitchell",
+    "wrong_answer_2": "Marcus Fenix",
+    "wrong_answer_3": "Sam Fisher",
+    "difficulty": 6
+  },
+  {
+    "question": "What Italian dish is made by baking thin layers of pasta with cheese and sauce?",
+    "correct_answer": "Lasagna",
+    "wrong_answer_1": "Parmigiana",
+    "wrong_answer_2": "Cannelloni",
+    "wrong_answer_3": "Gnocchi",
+    "difficulty": 2
+  },
+  {
+    "question": "Which beverage is made primarily from fermented grapes?",
+    "correct_answer": "Wine",
+    "wrong_answer_1": "Mead",
+    "wrong_answer_2": "Cider",
+    "wrong_answer_3": "Beer",
+    "difficulty": 2
+  },
+  {
+    "question": "Which sport awards the Vince Lombardi Trophy?",
+    "correct_answer": "American Football",
+    "wrong_answer_1": "Baseball",
+    "wrong_answer_2": "Basketball",
+    "wrong_answer_3": "Ice Hockey",
+    "difficulty": 4
+  },
+  {
+    "question": "In tennis, what term is used for a score of zero?",
+    "correct_answer": "Love",
+    "wrong_answer_1": "Ace",
+    "wrong_answer_2": "Deuce",
+    "wrong_answer_3": "Serve",
+    "difficulty": 3
+  },
+  {
+    "question": "Who performed the 2016 hit song 'Can't Stop the Feeling!'?",
+    "correct_answer": "Justin Timberlake",
+    "wrong_answer_1": "Bruno Mars",
+    "wrong_answer_2": "Shawn Mendes",
+    "wrong_answer_3": "Ed Sheeran",
+    "difficulty": 3
+  },
+  {
+    "question": "Which musical instrument has 88 keys and is played by pressing them with the fingers?",
+    "correct_answer": "Piano",
+    "wrong_answer_1": "Harp",
+    "wrong_answer_2": "Organ",
+    "wrong_answer_3": "Cello",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Dutch artist is famous for his paintings of sunflowers and starry nights?",
+    "correct_answer": "Vincent van Gogh",
+    "wrong_answer_1": "Paul Cézanne",
+    "wrong_answer_2": "Claude Monet",
+    "wrong_answer_3": "Paul Gauguin",
+    "difficulty": 4
+  },
+  {
+    "question": "Who sculpted 'David', one of the most renowned statues from the Renaissance?",
+    "correct_answer": "Michelangelo",
+    "wrong_answer_1": "Donatello",
+    "wrong_answer_2": "Bernini",
+    "wrong_answer_3": "Ghiberti",
+    "difficulty": 4
+  },
+  {
+    "question": "Which company is known for its slogan 'Think Different'?",
+    "correct_answer": "Apple Inc.",
+    "wrong_answer_1": "IBM Corporation",
+    "wrong_answer_2": "Google LLC",
+    "wrong_answer_3": "Intel Corp.",
+    "difficulty": 3
+  },
+  {
+    "question": "What automobile brand manufactures the Civic model?",
+    "correct_answer": "Honda",
+    "wrong_answer_1": "Toyota",
+    "wrong_answer_2": "Nissan",
+    "wrong_answer_3": "Mazda",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the word for a word that has the same meaning as another?",
+    "correct_answer": "Synonym",
+    "wrong_answer_1": "Homograph",
+    "wrong_answer_2": "Antonym",
+    "wrong_answer_3": "Metaphor",
+    "difficulty": 3
+  },
+  {
+    "question": "Which language is primarily spoken in Brazil?",
+    "correct_answer": "Portuguese",
+    "wrong_answer_1": "Spanish",
+    "wrong_answer_2": "French",
+    "wrong_answer_3": "Italian",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the value of 7 squared?",
+    "correct_answer": "49",
+    "wrong_answer_1": "56",
+    "wrong_answer_2": "42",
+    "wrong_answer_3": "36",
+    "difficulty": 2
+  },
+  {
+    "question": "What is half of one-fifth?",
+    "correct_answer": "One-tenth",
+    "wrong_answer_1": "One-fifth",
+    "wrong_answer_2": "One-fourth",
+    "wrong_answer_3": "One-eighth",
+    "difficulty": 5
+  },
+  {
+    "question": "Who is the founder of SpaceX?",
+    "correct_answer": "Elon Musk",
+    "wrong_answer_1": "Jeff Bezos",
+    "wrong_answer_2": "Tim Cook",
+    "wrong_answer_3": "Sundar Pichai",
+    "difficulty": 2
+  },
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "correct_answer": "William Shakespeare",
+    "wrong_answer_1": "Charles Dickens",
+    "wrong_answer_2": "Jane Austen",
+    "wrong_answer_3": "Leo Tolstoy",
+    "difficulty": 3
+  },
+  {
+    "question": "Which film features a character named Neo battling agents in a digital world?",
+    "correct_answer": "The Matrix",
+    "wrong_answer_1": "Blade Runner",
+    "wrong_answer_2": "Inception",
+    "wrong_answer_3": "Minority Report",
+    "difficulty": 3
+  },
+  {
+    "question": "Who starred as the T-800 in the original 'Terminator' movie?",
+    "correct_answer": "Arnold Schwarzenegger",
+    "wrong_answer_1": "Sylvester Stallone",
+    "wrong_answer_2": "Bruce Willis",
+    "wrong_answer_3": "Jean-Claude Van Damme",
+    "difficulty": 3
+  },
+  {
+    "question": "What technology is primarily used for contactless payments by tapping a card?",
+    "correct_answer": "NFC",
+    "wrong_answer_1": "RFID",
+    "wrong_answer_2": "Bluetooth",
+    "wrong_answer_3": "Infrared",
+    "difficulty": 5
+  },
+  {
+    "question": "Which programming language is often associated with Android app development?",
+    "correct_answer": "Java",
+    "wrong_answer_1": "Swift",
+    "wrong_answer_2": "Kotlin",
+    "wrong_answer_3": "C#",
+    "difficulty": 6
+  },
+  {
+    "question": "Which video game franchise follows a hero named Link on quests in Hyrule?",
+    "correct_answer": "The Legend of Zelda",
+    "wrong_answer_1": "Final Fantasy",
+    "wrong_answer_2": "Castlevania",
+    "wrong_answer_3": "Mega Man",
+    "difficulty": 4
+  },
+  {
+    "question": "In which game do players guide a yellow character eating pellets and ghosts in a maze?",
+    "correct_answer": "Pac-Man",
+    "wrong_answer_1": "Tetris",
+    "wrong_answer_2": "Space Invaders",
+    "wrong_answer_3": "Frogger",
+    "difficulty": 2
+  },
+  {
+    "question": "Which type of nut is commonly used in making marzipan?",
+    "correct_answer": "Almond",
+    "wrong_answer_1": "Hazelnut",
+    "wrong_answer_2": "Walnut",
+    "wrong_answer_3": "Pistachio",
+    "difficulty": 5
+  },
+  {
+    "question": "How many players are there on a standard volleyball team on the court?",
+    "correct_answer": "Six",
+    "wrong_answer_1": "Five",
+    "wrong_answer_2": "Seven",
+    "wrong_answer_3": "Eight",
+    "difficulty": 2
+  },
+  {
+    "question": "Which Olympic event combines cross-country skiing and rifle shooting?",
+    "correct_answer": "Biathlon",
+    "wrong_answer_1": "Pentathlon",
+    "wrong_answer_2": "Decathlon",
+    "wrong_answer_3": "Triathlon",
+    "difficulty": 4
+  },
+  {
+    "question": "Which band is known for hits like 'With or Without You' and 'Beautiful Day'?",
+    "correct_answer": "U2",
+    "wrong_answer_1": "Coldplay",
+    "wrong_answer_2": "The Police",
+    "wrong_answer_3": "Oasis",
+    "difficulty": 3
+  },
+  {
+    "question": "Which artist is famous for the soft sculpture 'Soft Toilet'?",
+    "correct_answer": "Claes Oldenburg",
+    "wrong_answer_1": "Andy Warhol",
+    "wrong_answer_2": "Marcel Duchamp",
+    "wrong_answer_3": "Roy Lichtenstein",
+    "difficulty": 7
+  },
+  {
+    "question": "Which company produces the MacBook line of laptops?",
+    "correct_answer": "Apple",
+    "wrong_answer_1": "Dell",
+    "wrong_answer_2": "HP",
+    "wrong_answer_3": "Sony",
+    "difficulty": 2
+  },
+  {
+    "question": "Which multinational company is known for its blue oval logo and makes the Mustang?",
+    "correct_answer": "Ford",
+    "wrong_answer_1": "Honda",
+    "wrong_answer_2": "Fiat",
+    "wrong_answer_3": "Toyota",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the term for a word that sounds the same as another but has different meaning?",
+    "correct_answer": "Homophone",
+    "wrong_answer_1": "Homonym",
+    "wrong_answer_2": "Antonym",
+    "wrong_answer_3": "Synonym",
+    "difficulty": 4
+  },
+  {
+    "question": "Which language is primarily spoken in the Netherlands?",
+    "correct_answer": "Dutch",
+    "wrong_answer_1": "Danish",
+    "wrong_answer_2": "German",
+    "wrong_answer_3": "Swedish",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the result of multiplying 8 by 12?",
+    "correct_answer": "96",
+    "wrong_answer_1": "108",
+    "wrong_answer_2": "84",
+    "wrong_answer_3": "112",
+    "difficulty": 2
+  },
+  {
+    "question": "If a rectangle has a length of 10 and a width of 4, what is its area?",
+    "correct_answer": "40",
+    "wrong_answer_1": "14",
+    "wrong_answer_2": "36",
+    "wrong_answer_3": "44",
+    "difficulty": 3
+  },
+  {
+    "question": "Who was the first woman to win the Nobel Prize in Physics?",
+    "correct_answer": "Marie Curie",
+    "wrong_answer_1": "Lise Meitner",
+    "wrong_answer_2": "Rosalind Franklin",
+    "wrong_answer_3": "Chien-Shiung Wu",
+    "difficulty": 5
+  },
+  {
+    "question": "Who is credited as the creator of the modern Olympic Games?",
+    "correct_answer": "Pierre de Coubertin",
+    "wrong_answer_1": "Baron von Steuben",
+    "wrong_answer_2": "Thomas Bach",
+    "wrong_answer_3": "Avery Brundage",
+    "difficulty": 6
+  },
+  {
+    "question": "Which 1994 film features two hitmen named Vincent Vega and Jules Winnfield?",
+    "correct_answer": "Pulp Fiction",
+    "wrong_answer_1": "Heat Vision",
+    "wrong_answer_2": "Fight Club",
+    "wrong_answer_3": "Seven Seconds",
+    "difficulty": 4
+  },
+  {
+    "question": "Which animated TV show features a young genius named Dexter with a secret laboratory?",
+    "correct_answer": "Dexter's Laboratory",
+    "wrong_answer_1": "Jimmy Neutron",
+    "wrong_answer_2": "Courage the Cowardly Dog",
+    "wrong_answer_3": "Fairly OddParents",
+    "difficulty": 3
+  },
+  {
+    "question": "What does the acronym GPU stand for in computing?",
+    "correct_answer": "Graphics Processing Unit",
+    "wrong_answer_1": "Global Power Utility",
+    "wrong_answer_2": "General Program Usage",
+    "wrong_answer_3": "Giga Processor Unit",
+    "difficulty": 4
+  },
+  {
+    "question": "Which company developed the programming language Java?",
+    "correct_answer": "Sun Microsystems",
+    "wrong_answer_1": "IBM Corporation",
+    "wrong_answer_2": "Oracle Systems",
+    "wrong_answer_3": "Microsoft Corp",
+    "difficulty": 6
+  },
+  {
+    "question": "Which video game series features a protagonist named Samus Aran?",
+    "correct_answer": "Metroid",
+    "wrong_answer_1": "Halo",
+    "wrong_answer_2": "Mass Effect",
+    "wrong_answer_3": "Star Fox",
+    "difficulty": 4
+  },
+  {
+    "question": "Which 2015 game is set in the monster-filled region of The Continent and features Geralt?",
+    "correct_answer": "The Witcher 3",
+    "wrong_answer_1": "Bloodborne",
+    "wrong_answer_2": "Dragon Age",
+    "wrong_answer_3": "Dark Souls III",
+    "difficulty": 5
+  },
+  {
+    "question": "Which Italian cheese is used as a topping for traditional Margherita pizza?",
+    "correct_answer": "Mozzarella",
+    "wrong_answer_1": "Gruyère",
+    "wrong_answer_2": "Roquefort",
+    "wrong_answer_3": "Manchego",
+    "difficulty": 2
+  },
+  {
+    "question": "Which beverage is traditionally made by fermenting barley and flavored with hops?",
+    "correct_answer": "Beer",
+    "wrong_answer_1": "Brandy",
+    "wrong_answer_2": "Cider",
+    "wrong_answer_3": "Gin",
+    "difficulty": 2
+  },
+  {
+    "question": "In basketball, how many points is a shot from behind the arc worth?",
+    "correct_answer": "Three points",
+    "wrong_answer_1": "Two points",
+    "wrong_answer_2": "Four points",
+    "wrong_answer_3": "Six points",
+    "difficulty": 3
+  },
+  {
+    "question": "Which event involves hitting a ball with a racquet over a dividing net?",
+    "correct_answer": "Tennis",
+    "wrong_answer_1": "Golf",
+    "wrong_answer_2": "Hockey",
+    "wrong_answer_3": "Baseball",
+    "difficulty": 2
+  },
+  {
+    "question": "Which band released the album 'Abbey Road' in 1969?",
+    "correct_answer": "The Beatles",
+    "wrong_answer_1": "The Rolling Stones",
+    "wrong_answer_2": "Led Zeppelin",
+    "wrong_answer_3": "Pink Floyd",
+    "difficulty": 4
+  },
+  {
+    "question": "Which classical composer wrote 'Swan Lake'?",
+    "correct_answer": "Tchaikovsky",
+    "wrong_answer_1": "Mozart",
+    "wrong_answer_2": "Bach",
+    "wrong_answer_3": "Chopin",
+    "difficulty": 4
+  },
+  {
+    "question": "Which artist is famous for the painting 'Water Lilies'?",
+    "correct_answer": "Claude Monet",
+    "wrong_answer_1": "Edgar Degas",
+    "wrong_answer_2": "Gustav Klimt",
+    "wrong_answer_3": "Paul Cézanne",
+    "difficulty": 5
+  },
+  {
+    "question": "Who created the sculpture series 'The Burghers of Calais'?",
+    "correct_answer": "Auguste Rodin",
+    "wrong_answer_1": "Constantin Brancusi",
+    "wrong_answer_2": "Henry Moore",
+    "wrong_answer_3": "Barbara Hepworth",
+    "difficulty": 6
+  },
+  {
+    "question": "Which company owns the sports brand Reebok?",
+    "correct_answer": "Authentic Brands",
+    "wrong_answer_1": "Nike, Inc.",
+    "wrong_answer_2": "VF Corporation",
+    "wrong_answer_3": "Delta Apparel",
+    "difficulty": 7
+  },
+  {
+    "question": "What company is most associated with the Big Mac hamburger?",
+    "correct_answer": "McDonald's",
+    "wrong_answer_1": "Burger King",
+    "wrong_answer_2": "Wendy's",
+    "wrong_answer_3": "Carl's Jr.",
+    "difficulty": 2
+  },
+  {
+    "question": "Which word means a word with the opposite meaning of another?",
+    "correct_answer": "Antonym",
+    "wrong_answer_1": "Homonym",
+    "wrong_answer_2": "Synonym",
+    "wrong_answer_3": "Metonym",
+    "difficulty": 3
+  },
+  {
+    "question": "What Latin phrase means 'blank slate'?",
+    "correct_answer": "Tabula rasa",
+    "wrong_answer_1": "Terra firma",
+    "wrong_answer_2": "Aqua vitae",
+    "wrong_answer_3": "Prima facie",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ?",
+    "correct_answer": "32",
+    "wrong_answer_1": "24",
+    "wrong_answer_2": "20",
+    "wrong_answer_3": "18",
+    "difficulty": 2
+  }
+]

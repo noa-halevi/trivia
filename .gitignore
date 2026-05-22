@@ -40,3 +40,12 @@ htmlcov/
 
 # Logs
 *.log
+
+# SQLite temporary files
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Generated trivia CSV intermediates
+data/*.csv
+!data/final_with_hard_trivia_questions.csv

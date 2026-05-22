@@ -1,0 +1,137 @@
+[
+  {
+    "question_id": 1,
+    "keep": false,
+    "reason": "Fact is already covered by already kept question 52: 'Who developed the theory of general relativity? | Answer: Albert Einstein'. The candidate is a reworded duplicate."
+  },
+  {
+    "question_id": 6,
+    "keep": false,
+    "reason": "Fact is already in kept question 156: 'Which technology company developed the Android operating system? | Answer: Google'. Duplicate."
+  },
+  {
+    "question_id": 13,
+    "keep": false,
+    "reason": "Duplicate: Already kept question 25: 'Who was the lead singer of Queen? | Answer: Freddie Mercury' covers the main fact about the group Queen as the performer of 'Bohemian Rhapsody'. Same fact in subject matter."
+  },
+  {
+    "question_id": 20,
+    "keep": false,
+    "reason": "Already covered by kept question 171: 'In math, what is the value of pi rounded to two decimal places? | Answer: 3.14'. This is a duplicate fact."
+  },
+  {
+    "question_id": 23,
+    "keep": false,
+    "reason": "Already covered in kept question 33: 'Who was the first female Prime Minister of the UK? | Answer: Margaret Thatcher'. Duplicate fact."
+  },
+  {
+    "question_id": 31,
+    "keep": false,
+    "reason": "Fact is already in kept question 10: 'What is the main ingredient in guacamole? | Answer: Avocado'. Duplicate."
+  },
+  {
+    "question_id": 35,
+    "keep": false,
+    "reason": "Duplicate: The fact 'Which artist is known for the surrealist work 'The Persistence of Memory'?' is already in kept question 82. This question is a more direct version but repeats the unique fact."
+  },
+  {
+    "question_id": 51,
+    "keep": false,
+    "reason": "Rejected. The candidate duplicates kept question 248: 'Which country is the origin of feta cheese?' | Answer: Greece and references feta cheese, which covers the main Greek cheese used in traditional cuisine, including salads."
+  },
+  {
+    "question_id": 57,
+    "keep": false,
+    "reason": "Rejected. The mural 'Guernica' by Picasso is already covered in kept question 120."
+  },
+  {
+    "question_id": 66,
+    "keep": false,
+    "reason": "Rejected. Thomas Edison as inventor of the phonograph duplicates kept question 230."
+  },
+  {
+    "question_id": 70,
+    "keep": false,
+    "reason": "Rejected. Measuring atmospheric pressure with a barometer is already covered by kept question 201."
+  },
+  {
+    "question_id": 77,
+    "keep": false,
+    "reason": "Rejected. Michael Jackson and 'Thriller' are already referenced in kept question 270."
+  },
+  {
+    "question_id": 78,
+    "keep": false,
+    "reason": "Rejected. Beethoven and his Ninth Symphony ('Ode to Joy') are already covered in kept question 309."
+  },
+  {
+    "question_id": 88,
+    "keep": false,
+    "reason": "Rejected. Isaac Newton and the laws of motion are already included in kept question 72."
+  },
+  {
+    "question_id": 101,
+    "keep": false,
+    "reason": "Rejected: The fact that Rembrandt painted 'The Night Watch' is already contained in kept question 161."
+  },
+  {
+    "question_id": 117,
+    "keep": false,
+    "reason": "Rejected: The fact about lasagna (layers of pasta, cheese, and sauce) duplicates already kept question 283."
+  },
+  {
+    "question_id": 120,
+    "keep": false,
+    "reason": "Rejected: Already kept as question 100."
+  },
+  {
+    "question_id": 123,
+    "keep": false,
+    "reason": "Rejected: van Gogh as famous Dutch artist with sunflowers/starry nights overlaps kept question 55."
+  },
+  {
+    "question_id": 124,
+    "keep": false,
+    "reason": "Rejected: Michelangelo sculpted 'David' already in kept as question 289."
+  },
+  {
+    "question_id": 128,
+    "keep": false,
+    "reason": "Rejected: The primary language of Brazil is already addressed in kept question 23."
+  },
+  {
+    "question_id": 132,
+    "keep": false,
+    "reason": "Rejected: Shakespeare wrote 'Hamlet' is already in kept question 259."
+  },
+  {
+    "question_id": 137,
+    "keep": false,
+    "reason": "Rejected: Zelda/Hyrule pairing is already addressed in kept question 7."
+  },
+  {
+    "question_id": 158,
+    "keep": false,
+    "reason": "Rejected: The already kept question 203 (Which Italian cheese is traditionally used on pizza? | Mozzarella) covers the same fact in a broader context."
+  },
+  {
+    "question_id": 161,
+    "keep": false,
+    "reason": "Rejected: The fact (tennis uses a racquet and net) overlaps with already kept question 100 (tennis/love), 249 (tennis at Wimbledon - too similar/overlap), and question 140 (volleyball team members); also, the answer is too broad/ambiguous (could be badminton, table tennis, etc.)."
+  },
+  {
+    "question_id": 162,
+    "keep": false,
+    "reason": "Rejected: Substantial overlap with already kept question 34 (album 'Sgt. Pepper's...' by The Beatles) and is not unique factually within context."
+  },
+  {
+    "question_id": 164,
+    "keep": false,
+    "reason": "Rejected: Already kept question 296 covers the same fact ('Water Lilies' by Monet) verbatim."
+  },
+  {
+    "question_id": 168,
+    "keep": false,
+    "reason": "Rejected: Overlaps directly with already kept question 18 and candidate 18 (antonym definition)."
+  }
+]

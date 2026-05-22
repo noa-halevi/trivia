@@ -1,0 +1,89 @@
+[
+  {
+    "question_id": 127,
+    "question": "Chlorophyll in plants primarily absorbs which color of light?",
+    "correct_answer": "Red",
+    "correct_model_count": 0,
+    "model_results": [
+      {
+        "question_id": 127,
+        "model": "gpt-4.1-nano",
+        "selected_option": "C",
+        "correct_option": "D",
+        "is_correct": false
+      },
+      {
+        "question_id": 127,
+        "model": "gpt-4o-mini",
+        "selected_option": "A",
+        "correct_option": "D",
+        "is_correct": false
+      },
+      {
+        "question_id": 127,
+        "model": "gpt-4.1-mini",
+        "selected_option": "A",
+        "correct_option": "D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 377,
+    "question": "Which soft drink brand introduced the first diet soda called 'No-Cal' in the 1950s?",
+    "correct_answer": "Kirsch",
+    "correct_model_count": 0,
+    "model_results": [
+      {
+        "question_id": 377,
+        "model": "gpt-4.1-nano",
+        "selected_option": "A",
+        "correct_option": "B",
+        "is_correct": false
+      },
+      {
+        "question_id": 377,
+        "model": "gpt-4o-mini",
+        "selected_option": "D",
+        "correct_option": "B",
+        "is_correct": false
+      },
+      {
+        "question_id": 377,
+        "model": "gpt-4.1-mini",
+        "selected_option": "A",
+        "correct_option": "B",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 381,
+    "question": "What is the result when you subtract 19 from 47?",
+    "correct_answer": "28",
+    "correct_model_count": 0,
+    "model_results": [
+      {
+        "question_id": 381,
+        "model": "gpt-4.1-nano",
+        "selected_option": "A",
+        "correct_option": "B",
+        "is_correct": false
+      },
+      {
+        "question_id": 381,
+        "model": "gpt-4o-mini",
+        "selected_option": "A",
+        "correct_option": "B",
+        "is_correct": false
+      },
+      {
+        "question_id": 381,
+        "model": "gpt-4.1-mini",
+        "selected_option": "A",
+        "correct_option": "B",
+        "is_correct": false
+      }
+    ]
+  }
+]

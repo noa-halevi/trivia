@@ -1,0 +1,1682 @@
+[
+  {
+    "question_id": 1,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 2,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 3,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 4,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 5,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 6,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 7,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 8,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 9,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 10,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 11,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 12,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 13,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 14,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 15,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 16,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 17,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 18,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 19,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 20,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "B",
+    "is_correct": false
+  },
+  {
+    "question_id": 21,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 22,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 23,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 24,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 25,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 26,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 27,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 28,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 29,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 30,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 31,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 32,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 33,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 34,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 35,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 36,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 37,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 38,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 39,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 40,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 41,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 42,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 43,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 44,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 45,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 46,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 47,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 48,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 49,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "D",
+    "is_correct": false
+  },
+  {
+    "question_id": 50,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 51,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 52,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 53,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "A",
+    "is_correct": false
+  },
+  {
+    "question_id": 54,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 55,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 56,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "D",
+    "is_correct": false
+  },
+  {
+    "question_id": 57,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 58,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 59,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 60,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 61,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 62,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "C",
+    "is_correct": false
+  },
+  {
+    "question_id": 63,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 64,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 65,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 66,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 67,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 68,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 69,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 70,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 71,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 72,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 73,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 74,
+    "model": "gpt-4.1-nano",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 75,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 76,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 77,
+    "model": "gpt-4.1-nano",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 78,
+    "model": "gpt-4.1-nano",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 79,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 80,
+    "model": "gpt-4.1-nano",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 1,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 2,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 3,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 4,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 5,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 6,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 7,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 8,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 9,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 10,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 11,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 12,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 13,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 14,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 15,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 16,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 17,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 18,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 19,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 20,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 21,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 22,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 23,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 24,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 25,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 26,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 27,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 28,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 29,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 30,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 31,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 32,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "D",
+    "is_correct": false
+  },
+  {
+    "question_id": 33,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 34,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 35,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 36,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 37,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 38,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 39,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 40,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 41,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 42,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 43,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 44,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 45,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 46,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 47,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 48,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 49,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "D",
+    "is_correct": false
+  },
+  {
+    "question_id": 50,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 51,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 52,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 53,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 54,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 55,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 56,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 57,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 58,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 59,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 60,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 61,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 62,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 63,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 64,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 65,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 66,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 67,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 68,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 69,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 70,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 71,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 72,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 73,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 74,
+    "model": "gpt-4o-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 75,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 76,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 77,
+    "model": "gpt-4o-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 78,
+    "model": "gpt-4o-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 79,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 80,
+    "model": "gpt-4o-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 1,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 2,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 3,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 4,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 5,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 6,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 7,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 8,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 9,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 10,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 11,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 12,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 13,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 14,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 15,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 16,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 17,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 18,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 19,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 20,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 21,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 22,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 23,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 24,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 25,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 26,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 27,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 28,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 29,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 30,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 31,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 32,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "D",
+    "is_correct": false
+  },
+  {
+    "question_id": 33,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 34,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 35,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 36,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 37,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 38,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 39,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 40,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 41,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 42,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 43,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 44,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 45,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 46,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 47,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 48,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 49,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 50,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 51,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 52,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 53,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "A",
+    "is_correct": false
+  },
+  {
+    "question_id": 54,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 55,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 56,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 57,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 58,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 59,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 60,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 61,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 62,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 63,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 64,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 65,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 66,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 67,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 68,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 69,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 70,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 71,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 72,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 73,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 74,
+    "model": "gpt-4.1-mini",
+    "selected_option": "D",
+    "correct_option": "D",
+    "is_correct": true
+  },
+  {
+    "question_id": 75,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 76,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 77,
+    "model": "gpt-4.1-mini",
+    "selected_option": "B",
+    "correct_option": "B",
+    "is_correct": true
+  },
+  {
+    "question_id": 78,
+    "model": "gpt-4.1-mini",
+    "selected_option": "C",
+    "correct_option": "C",
+    "is_correct": true
+  },
+  {
+    "question_id": 79,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  },
+  {
+    "question_id": 80,
+    "model": "gpt-4.1-mini",
+    "selected_option": "A",
+    "correct_option": "A",
+    "is_correct": true
+  }
+]

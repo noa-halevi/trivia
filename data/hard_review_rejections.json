@@ -1,0 +1,52 @@
+[
+  {
+    "question_id": 10,
+    "keep": false,
+    "reason": "Already kept: 'What is the currency used in South Korea? | Answer: Won' (#147). This is a repeat."
+  },
+  {
+    "question_id": 56,
+    "keep": false,
+    "reason": "'Ulysses' by James Joyce is already asked (ID 56), but the specific status is not in the already kept questions; however, the novel is widely known and no other candidates duplicate this fact. However, looking up, there's no existing question with this, so KEEP. [Final: keep, reason: unique author/work, clear, multiple choice.]"
+  },
+  {
+    "question_id": 61,
+    "keep": false,
+    "reason": "Already kept question 21: 'Who discovered penicillin in 1928?' | Answer: Alexander Fleming. This is a direct duplicate."
+  },
+  {
+    "question_id": 67,
+    "keep": false,
+    "reason": "Already kept question 8: 'What is the smallest prime number? | Answer: 2'. The essential fact (2 is the only even prime) is already in the kept list."
+  },
+  {
+    "question_id": 68,
+    "keep": false,
+    "reason": "Already kept question 104: 'Which famous scientist developed the polio vaccine in 1955? | Answer: Jonas Salk'. This question covers the same fact."
+  },
+  {
+    "question_id": 72,
+    "keep": false,
+    "reason": "Already kept question 62: 'Who is the author of 'One Hundred Years of Solitude'? | Answer: Gabriel Garcia Marquez'. The candidate question is focused on the story, but the essential answer/purpose overlaps."
+  },
+  {
+    "question_id": 73,
+    "keep": false,
+    "reason": "Already kept question 11: 'Which king signed the Magna Carta in 1215? | Answer: King John'. This is a direct duplicate."
+  },
+  {
+    "question_id": 74,
+    "keep": false,
+    "reason": "Already kept question 294: 'Which artist is known for the painting 'Water Lilies'? | Answer: Claude Monet'. The fact is effectively duplicated."
+  },
+  {
+    "question_id": 81,
+    "keep": false,
+    "reason": "Already kept question 340: 'What is an example of a palindrome word? | Answer: Racecar', and 395: 'What is the term for a word that has the same spelling but different meanings? | Answer: Homograph'. While homograph is a different concept, palindrome is already present, specifically defined/asked. Reject for overlap."
+  },
+  {
+    "question_id": 87,
+    "keep": false,
+    "reason": "Already kept question 158: 'Who wrote the play 'Death of a Salesman'? | Answer: Arthur Miller'. Factual overlap."
+  }
+]
