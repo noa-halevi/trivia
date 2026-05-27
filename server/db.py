@@ -17,6 +17,50 @@ async def get_db() -> aiosqlite.Connection:
     return await aiosqlite.connect(DB_PATH)
 
 
+async def ensure_friend_advice_columns(db: aiosqlite.Connection) -> None:
+    db.row_factory = aiosqlite.Row
+    table_name = await get_questions_table_name(db)
+    cursor = await db.execute(f"PRAGMA table_info({table_name})")
+    rows = await cursor.fetchall()
+    await cursor.close()
+    column_names = {row_text(row, "name") for row in rows}
+    if "friend_advice" not in column_names:
+        _ = await db.execute(f"ALTER TABLE {table_name} ADD COLUMN friend_advice TEXT")
+    if "friend_confidence" not in column_names:
+        _ = await db.execute(f"ALTER TABLE {table_name} ADD COLUMN friend_confidence INTEGER")
+
+
+async def get_pregenerated_friend_advice(question_id: int) -> dict[str, str | int] | None:
+    db = await get_db()
+    try:
+        await ensure_friend_advice_columns(db)
+        table_name = await get_questions_table_name(db)
+        db.row_factory = aiosqlite.Row
+        cursor = await db.execute(
+            f"""
+            SELECT friend_advice, friend_confidence
+            FROM {table_name}
+            WHERE id = ?
+              AND friend_advice IS NOT NULL
+              AND TRIM(friend_advice) != ''
+            """,
+            (question_id,),
+        )
+        row = await cursor.fetchone()
+        await cursor.close()
+        if row is None:
+            return None
+        confidence_raw = row["friend_confidence"]  # pyright: ignore[reportAny]
+        if confidence_raw is None:
+            return None
+        return {
+            "advice": row_text(row, "friend_advice"),
+            "confidence": int(str(confidence_raw)),
+        }
+    finally:
+        await db.close()
+
+
 async def init_db() -> None:
     db = await get_db()
     try:
@@ -32,26 +76,46 @@ async def init_db() -> None:
             )
             """
         )
+        await ensure_friend_advice_columns(db)
         await db.commit()
     finally:
         await db.close()
 
 
-async def get_questions_by_difficulty(difficulty: int, n: int) -> list[QuestionRow]:
+async def get_questions_by_difficulty(
+    difficulty: int,
+    n: int,
+    exclude_ids: set[int] | frozenset[int] | None = None,
+) -> list[QuestionRow]:
     db = await get_db()
     try:
         db.row_factory = aiosqlite.Row
         table_name = await get_questions_table_name(db)
-        cursor = await db.execute(
-            f"""
-            SELECT *
-            FROM {table_name}
-            WHERE difficulty = ?
-            ORDER BY RANDOM()
-            LIMIT ?
-            """,
-            (difficulty, n),
-        )
+        excluded = exclude_ids or set()
+        if excluded:
+            placeholders = ",".join("?" * len(excluded))
+            cursor = await db.execute(
+                f"""
+                SELECT *
+                FROM {table_name}
+                WHERE difficulty = ?
+                  AND id NOT IN ({placeholders})
+                ORDER BY RANDOM()
+                LIMIT ?
+                """,
+                (difficulty, *excluded, n),
+            )
+        else:
+            cursor = await db.execute(
+                f"""
+                SELECT *
+                FROM {table_name}
+                WHERE difficulty = ?
+                ORDER BY RANDOM()
+                LIMIT ?
+                """,
+                (difficulty, n),
+            )
         rows = await cursor.fetchall()
         await cursor.close()
         return [
@@ -71,6 +135,7 @@ async def get_questions_by_difficulty(difficulty: int, n: int) -> list[QuestionR
 
 
 async def get_questions_table_name(db: aiosqlite.Connection) -> str:
+    db.row_factory = aiosqlite.Row
     cursor = await db.execute(
         """
         SELECT name

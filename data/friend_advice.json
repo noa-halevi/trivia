@@ -1,0 +1,2617 @@
+[
+  {
+    "question": "What is the capital city of Argentina?",
+    "friend_advice": "It's a city known for tango and being very European.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Who wrote the novel 'Moby-Dick'?",
+    "friend_advice": "The author shared a first name with \"The Munsters\" dad.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "friend_advice": "It's what the Eiffel Tower is partially made of.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "friend_advice": "It happened the same year as the Tiananmen Square protests.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "friend_advice": "It's named after the king of the Roman gods.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Which artist painted the 'Mona Lisa'?",
+    "friend_advice": "The artist was an Italian painter during the Renaissance.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Who is known as the 'Father of Computers'?",
+    "friend_advice": "He designed the first mechanical computer concept in the 1800s.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "friend_advice": "It's the only even prime number.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which country is known for inventing sushi?",
+    "friend_advice": "This country's cuisine heavily features rice and seafood.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "friend_advice": "The main fruit involved is creamy and green in color.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which king signed the Magna Carta in 1215?",
+    "friend_advice": "He was the brother of Richard the Lionheart.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What is the longest river in Africa?",
+    "friend_advice": "Consider the river closely linked to ancient Egyptian civilization.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "friend_advice": "It's a large reptile found on islands in Indonesia.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "friend_advice": "This composer is synonymous with classical music's Austrian prodigy.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "friend_advice": "The temperature at which ice forms from liquid water.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which U.S. president issued the Emancipation Proclamation?",
+    "friend_advice": "He delivered the Gettysburg Address and led during the Civil War.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "What gas do plants absorb during photosynthesis?",
+    "friend_advice": "It's exhaled by humans and utilized by plants.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "What is the national sport of Canada?",
+    "friend_advice": "Think of a game often associated with Native American origins.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "In which city is the famous Acropolis located?",
+    "friend_advice": "Think of the Parthenon and ancient Greek civilization.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "friend_advice": "Famous for its rings and a large number of moons.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Who discovered penicillin in 1928?",
+    "friend_advice": "The mold that kills bacteria was found by this Scot.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What is the currency of Sweden?",
+    "friend_advice": "It shares a name with a popular Scandinavian crown emblem.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "friend_advice": "Brazil was a colony of a European country known for cork.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "The Great Barrier Reef is located off the coast of which country?",
+    "friend_advice": "It's known for koalas and kangaroos as native animals.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Who was the lead singer of Queen?",
+    "friend_advice": "He had an iconic mustache and sang \"Bohemian Rhapsody.\"",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Which country is home to the ancient city of Petra?",
+    "friend_advice": "This Middle Eastern country also borders Israel and the Dead Sea.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "friend_advice": "It's known for its extraordinary hardness and brilliance.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who is the author of the fantasy series 'A Song of Ice and Fire'?",
+    "friend_advice": "He is also the executive producer of Game of Thrones.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which Italian city is famous for its historical canals?",
+    "friend_advice": "It's known for gondolas navigating through its waterways.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "friend_advice": "Famous Renaissance artist known for David and the Sistine Chapel.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which element has the atomic number 79?",
+    "friend_advice": "This element is often associated with wealth and jewelry.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "In what year did Apollo 11 land on the Moon?",
+    "friend_advice": "Neil Armstrong walked on the Moon in the late '60s.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "friend_advice": "She was known as the \"Iron Lady.\"",
+    "friend_confidence": 85
+  },
+  {
+    "question": "What is the capital city of Norway?",
+    "friend_advice": "It's known for the Nobel Peace Prize ceremony.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which gas is commonly used to fill balloons for floating?",
+    "friend_advice": "It's a noble gas, lighter and safer than hydrogen.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "friend_advice": "This playwright also created Hamlet and Macbeth.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which animal is the largest living mammal?",
+    "friend_advice": "This marine giant is found in oceans worldwide.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which U.S. city is known as the 'City of Angels'?",
+    "friend_advice": "Its name is Spanish for \"The Angels.\"",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "friend_advice": "It's composed of sodium and chlorine elements.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2014?",
+    "friend_advice": "They defeated Argentina in the final match.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which mountain is the tallest in Africa?",
+    "friend_advice": "Located in Tanzania, it's the highest free-standing mountain.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Ratatouille is a traditional dish from which country?",
+    "friend_advice": "Think of a country famous for wine and croissants.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "friend_advice": "He also directed E.T. and Indiana Jones series.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which composer wrote 'Clair de Lune'?",
+    "friend_advice": "He was a French composer known for his Impressionist music.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which bird is the fastest in the world when diving?",
+    "friend_advice": "It can reach speeds of over 200 mph when diving.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which language uses the most native speakers worldwide?",
+    "friend_advice": "It's the primary language spoken in the most populous country.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "What type of animal is a platypus?",
+    "friend_advice": "It's an egg-laying creature with a duck-bill, yet warm-blooded.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "friend_advice": "He is a British computer scientist working at CERN.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "friend_advice": "The event took place in China's capital.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which ancient civilization built Machu Picchu?",
+    "friend_advice": "Think South America, Andes mountains, sun worshippers.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What is the main ingredient in the Middle Eastern dish falafel?",
+    "friend_advice": "It's often paired with hummus and comes from legumes.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "friend_advice": "He proposed it in 1915, revolutionizing our understanding of gravity.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which U.S. state is the Grand Canyon located in?",
+    "friend_advice": "This state has Phoenix as its capital city.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "friend_advice": "It's derived from the Latin name 'kalium.'",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which artist is famous for his work 'The Starry Night'?",
+    "friend_advice": "The artist cut off his own ear.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "What is the national animal of India?",
+    "friend_advice": "This big cat is known for its stripes and majesty.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "In basketball, how many points is a free throw worth?",
+    "friend_advice": "It's half the points of a regular field goal.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which country is Ibiza a part of?",
+    "friend_advice": "Ibiza is an island in the Balearic archipelago.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Who was the first human to journey into outer space?",
+    "friend_advice": "This Soviet cosmonaut orbited Earth on April 12, 1961.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "What is the primary flavor of the Greek dip tzatziki?",
+    "friend_advice": "It's refreshing and often accompanies gyros and souvlaki.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which is the largest landlocked country in the world?",
+    "friend_advice": "It borders Russia to the north and China to the east.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Who is the author of 'One Hundred Years of Solitude'?",
+    "friend_advice": "He is a Colombian author associated with magical realism.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which US president served the shortest term in office?",
+    "friend_advice": "He died of pneumonia just 31 days into his term.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "What organ in the human body produces insulin?",
+    "friend_advice": "This organ is located behind the stomach and regulates blood sugar.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "friend_advice": "This element is symbolized by 'Hg' on the periodic table.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "In what country did the bossa nova music genre originate?",
+    "friend_advice": "It emerged in the late 1950s Rio de Janeiro scene.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which wild cat is native to the Americas and is known for its black fur?",
+    "friend_advice": "Its melanistic variant is commonly found in the Amazon.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "What is the tallest breed of dog in the world?",
+    "friend_advice": "This breed is known for being taller than Great Danes.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Who composed the ballet 'The Nutcracker'?",
+    "friend_advice": "This composer also created \"Swan Lake\" and \"Sleeping Beauty.\"",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Which fictional detective lives at 221B Baker Street, London?",
+    "friend_advice": "Created by Arthur Conan Doyle, associated with a magnifying glass.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "What is the capital city of Thailand?",
+    "friend_advice": "Known for bustling street life and the Grand Palace.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which scientist is credited with formulating the three laws of motion?",
+    "friend_advice": "He was hit on the head by an apple.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "What is the name of the naval battle in 1805 where Admiral Nelson defeated the French and Spanish fleets?",
+    "friend_advice": "This battle ensured British naval supremacy during the Napoleonic Wars.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which city is famous for the Christ the Redeemer statue overlooking it?",
+    "friend_advice": "Known for beautiful beaches and a massive Carnaval festival.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who wrote the dystopian novel '1984'?",
+    "friend_advice": "The author also wrote 'Animal Farm', a satirical novella.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "friend_advice": "Its symbol comes from the Latin word 'argentum.'",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which Italian explorer completed the first recorded circumnavigation of the Earth?",
+    "friend_advice": "He started the voyage for Spain and died en route.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "In Greek mythology, what is the name of the winged horse?",
+    "friend_advice": "The offspring of Poseidon and the Gorgon Medusa.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which continent is the country of Bhutan located on?",
+    "friend_advice": "Located near the Himalayas and bordered by India and China.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "What musical instrument did Ludwig van Beethoven mainly compose for?",
+    "friend_advice": "He famously composed \"Moonlight Sonata\" for this instrument.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who starred as Indiana Jones in the film series?",
+    "friend_advice": "This actor also piloted the Millennium Falcon in Star Wars.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which painter is known for the surrealist work 'The Persistence of Memory'?",
+    "friend_advice": "Famous for melting clocks and surreal dreamlike landscapes.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which device uses a rotating magnet to generate electricity?",
+    "friend_advice": "It's commonly found on bicycles to power lights.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "What is the main alcoholic ingredient in a classic mojito cocktail?",
+    "friend_advice": "Think Cuban spirit often used in tropical cocktails.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which breed of cat is famous for its lack of a tail?",
+    "friend_advice": "This breed hails from the Isle of Man.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which African country is known for its pyramids in the ancient city of Meroë?",
+    "friend_advice": "This country is south of Egypt and northeast of South Sudan.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "What is the highest civilian honor awarded in the United States?",
+    "friend_advice": "Awarded by the President for significant contributions to society.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which chemical element is named after the planet Uranus?",
+    "friend_advice": "It's the heaviest naturally occurring element and shares a name.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who is the author of 'The Picture of Dorian Gray'?",
+    "friend_advice": "Irish playwright known for his wit and flamboyant style.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which team won the UEFA Euro 2016 football championship?",
+    "friend_advice": "Cristiano Ronaldo captained this team to victory in 2016.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "What is the smallest country in South America by area?",
+    "friend_advice": "This country is known for its Dutch colonial architecture.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "The Great Sphinx is located near which pyramid complex?",
+    "friend_advice": "It's next to the three famous pyramids in Egypt's capital.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who composed the symphony 'From the New World'?",
+    "friend_advice": "He was inspired by his time in America for this piece.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which programming language is known for its logo featuring a blue gemstone?",
+    "friend_advice": "The logo symbolizes a precious red-colored gemstone's allure.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "The baguette is a traditional bread from which country?",
+    "friend_advice": "Famous for the Eiffel Tower and baguettes.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "What species is the world's largest reptile?",
+    "friend_advice": "This reptile is found in brackish and saltwater habitats.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which river flows through the city of Budapest?",
+    "friend_advice": "It's the second-longest river in Europe.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "What vitamin is mainly produced in human skin when exposed to sunlight?",
+    "friend_advice": "It helps maintain healthy bones and is sunlight-activated.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "friend_advice": "He was a 17th-century English poet known for blindness.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "In tennis, what is the term for a score of zero?",
+    "friend_advice": "It's a term of affection, unrelated to winning or losing.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which chemical element has the symbol 'Cu'?",
+    "friend_advice": "It's a reddish metal used historically for making coins.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "What is the currency of Turkey?",
+    "friend_advice": "This currency shares its name with a southern European country's currency.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "What is the tallest type of grass in the world?",
+    "friend_advice": "It's often mistaken for a tree because of its height.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which famous scientist developed the polio vaccine in 1955?",
+    "friend_advice": "He did not patent his vaccine, ensuring widespread use.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which country is Prague the capital of?",
+    "friend_advice": "It's known for its Bohemian lands and famous city squares.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "What is the main language spoken in Egypt?",
+    "friend_advice": "It's the official language of many countries in the MENA region.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Which ocean borders the east coast of the United States?",
+    "friend_advice": "It's the same ocean associated with the Bermuda Triangle.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "What is the largest species of penguin?",
+    "friend_advice": "This species is known for its distinctive tuxedo-like appearance.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What type of food is Roquefort?",
+    "friend_advice": "It's a blue-veined dairy product from France.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Who was the Greek goddess of wisdom?",
+    "friend_advice": "She was born fully armored from Zeus's head.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which city is home to the famous museum The Louvre?",
+    "friend_advice": "Famous for the Eiffel Tower and baguettes.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Who directed the film 'Inception' in 2010?",
+    "friend_advice": "He also directed 'The Dark Knight' trilogy and 'Interstellar.'",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which animal is known for building dams in rivers?",
+    "friend_advice": "This animal is famous for gnawing on trees and waterworks.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which author created the detective Hercule Poirot?",
+    "friend_advice": "Known for \"Murder on the Orient Express\" and \"The ABC Murders.\"",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which country is known for the culinary dish paella?",
+    "friend_advice": "This dish originates from the Valencia region.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "The Taj Mahal was constructed as a mausoleum for which emperor's wife?",
+    "friend_advice": "Her name was Mumtaz Mahal.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which organ in the body is primarily responsible for filtering blood?",
+    "friend_advice": "Think of the organ that produces urine.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which ancient civilization used cuneiform writing on clay tablets?",
+    "friend_advice": "Consider the civilization that thrived between the Tigris and Euphrates.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What is the main ingredient in the Spanish dish gazpacho?",
+    "friend_advice": "This refreshing cold soup is famous for its red color.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Who was the artist famous for the mural 'Guernica'?",
+    "friend_advice": "The artist was a leading figure in Cubist movement.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "friend_advice": "This planet has the fastest orbit around the Sun.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "In which city would you find the historic Kremlin complex?",
+    "friend_advice": "This Russian city is famous for Red Square and vodka.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which muscle is primarily responsible for human breathing?",
+    "friend_advice": "It's a dome-shaped muscle located below the lungs.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "What instrument is Yo-Yo Ma famous for playing?",
+    "friend_advice": "This instrument has four strings and is played with a bow.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which country is renowned for creating the martial art Taekwondo?",
+    "friend_advice": "This martial art originated from the Korean Peninsula.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "What is the largest moon of Saturn called?",
+    "friend_advice": "Named after a race of ancient Greek deities.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which English author wrote 'Pride and Prejudice'?",
+    "friend_advice": "She is known for her keen observation of middle-class manners.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "What is the capital city of Kenya?",
+    "friend_advice": "The city is also known for its National Park.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which bird lays the largest eggs in the world?",
+    "friend_advice": "This flightless bird is native to Africa and very tall.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Who is the director of the 1972 film 'The Godfather'?",
+    "friend_advice": "He also directed 'Apocalypse Now' and 'Bram Stoker's Dracula.'",
+    "friend_confidence": 72
+  },
+  {
+    "question": "In which U.S. state is the city of Nashville located?",
+    "friend_advice": "Known for its country music scene in the Volunteer State.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What is the standard unit of electric resistance?",
+    "friend_advice": "Named after a German physicist who studied electricity.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which Chinese dynasty is known for the Terracotta Army?",
+    "friend_advice": "This dynasty's first emperor unified China and built warriors.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What sport features a scrum and a line-out?",
+    "friend_advice": "It involves a lot of physical contact and tackling.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which animal is native only to the island of Madagascar?",
+    "friend_advice": "This primate exhibits a distinct long tail and playful nature.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Who invented the telephone in 1876?",
+    "friend_advice": "He made the first successful voice transmission in 1876.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "friend_advice": "This range is primarily located in western Russia.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Who painted the 'Girl with a Pearl Earring'?",
+    "friend_advice": "He was a Dutch painter from the Baroque period.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "friend_advice": "It's vital for detoxification and produces bile.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Who wrote the novel 'Great Expectations'?",
+    "friend_advice": "This author also wrote 'A Tale of Two Cities'.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which instrument uses a bow to produce sound from strings?",
+    "friend_advice": "It's held under the chin and played with a bow.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "friend_advice": "It's the fourth planet from the Sun, known for its reddish appearance.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "friend_advice": "This paste often forms the base of the flavorful soup.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which element is essential for making computer chips and semiconductors?",
+    "friend_advice": "It's a metalloid commonly found in sand and computer chips.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "In what city can you visit the historic Alhambra Palace?",
+    "friend_advice": "Located at the foot of the Sierra Nevada mountains.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which two countries share the longest international land border?",
+    "friend_advice": "This border stretches across North America from Pacific to Atlantic.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What is the currency used in South Korea?",
+    "friend_advice": "It shares its name with a prize awarded for excellence.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which country is famous for originating the tango dance?",
+    "friend_advice": "It's a South American country known for Buenos Aires.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "friend_advice": "It's located in the middle ear and aids in hearing.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "friend_advice": "He wields a trident and causes earthquakes.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which African lake is the deepest?",
+    "friend_advice": "It's the second largest freshwater lake by volume and depth.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which composer wrote the 'Moonlight Sonata'?",
+    "friend_advice": "Famous for his symphonies and went deaf later in life.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "From which country does the cheese Manchego originate?",
+    "friend_advice": "It's synonymous with Don Quixote's homeland.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which mammal is capable of flight?",
+    "friend_advice": "This nocturnal creature uses echolocation and sleeps upside down.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which technology company developed the Android operating system?",
+    "friend_advice": "Think of the company famous for the search engine.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "friend_advice": "The tournament was held in the same country.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "What is the capital city of Morocco?",
+    "friend_advice": "It's located on the Atlantic Ocean and Bouregreg River.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who wrote the play 'Death of a Salesman'?",
+    "friend_advice": "He was married to Marilyn Monroe.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "In which country is Lake Titicaca located?",
+    "friend_advice": "Found between Peru and Bolivia in South America.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which artist painted 'The Night Watch'?",
+    "friend_advice": "His 1642 masterpiece is housed in Amsterdam's Rijksmuseum.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which element has the atomic number 8?",
+    "friend_advice": "It's essential for respiration and found in water molecules.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "friend_advice": "His work 'Elements' is a fundamental text in mathematics.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What is the world’s largest archipelago nation by area?",
+    "friend_advice": "Located in Southeast Asia with over 17,000 islands.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "In which sport is the 'Triple Axel' a jump?",
+    "friend_advice": "Think ice, elegance, and graceful spins on skates.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which famous building was completed in 1889 for the Paris Exposition?",
+    "friend_advice": "It's an iconic iron structure known for its height.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which chess piece can only move diagonally?",
+    "friend_advice": "It's named after a clergy member and moves diagonally.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which country gave the world the car brand Volvo?",
+    "friend_advice": "This Scandinavian country is known for its innovation and design.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is the longest river in Australia?",
+    "friend_advice": "It's the second longest river on the continent after the Nile.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What is the official language of Iran?",
+    "friend_advice": "Think of the language also known as Farsi.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "In math, what is the value of pi rounded to two decimal places?",
+    "friend_advice": "This constant starts with a 3 and is crucial in circles.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which country is the traditional home of winemaking region Bordeaux?",
+    "friend_advice": "Known for its famous wine and culinary capital, Paris.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Who painted 'The Last Supper'?",
+    "friend_advice": "He painted it on a convent wall in Milan.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "friend_advice": "This colorful bird is often kept as a talkative pet.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "friend_advice": "The same country famous for the Eiffel Tower and baguettes.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "What is the longest river in Europe?",
+    "friend_advice": "It flows through Russia and is Europe's longest river.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which vitamin is mainly found in citrus fruits?",
+    "friend_advice": "It's known as the immune-boosting vitamin in oranges.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "What is the capital city of Finland?",
+    "friend_advice": "This city is by the Gulf of Finland.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "In which city would you find the Colosseum?",
+    "friend_advice": "It's the capital of Italy and an ancient empire.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "What is the basic unit of currency in Japan?",
+    "friend_advice": "To get something in Japan, you'll need this currency.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "What is the largest continent by area?",
+    "friend_advice": "This continent is home to China and the Himalayas.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "What is the main alcoholic ingredient in a margarita?",
+    "friend_advice": "This spirit is famously crafted from the blue agave plant.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which bird is known for delivering babies in folklore?",
+    "friend_advice": "This bird is often depicted carrying a bundle in cartoons.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Who is credited with developing the first practical light bulb?",
+    "friend_advice": "He held over 1,000 patents and founded General Electric.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "What kind of animal is a pufferfish?",
+    "friend_advice": "Known for inflating, it's an ocean-dwelling creature.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who composed the opera 'Carmen'?",
+    "friend_advice": "The composer is French and known for his 1875 opera.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "The Prado Museum is located in which European city?",
+    "friend_advice": "It's Spain's capital city, not known for Gaudi architecture.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "What type of animal is a lynx?",
+    "friend_advice": "It's a feline known for its tufted ears and short tail.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which novel features the fictional island of Lilliput?",
+    "friend_advice": "Jonathan Swift's satirical work with tiny inhabitants on an island.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which African country is known for Victoria Falls?",
+    "friend_advice": "Victoria Falls is located on the Zambezi River's border.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Who was the first President of the United States of America?",
+    "friend_advice": "He famously crossed the Delaware River during the Revolutionary War.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which instrument does a flautist play?",
+    "friend_advice": "This instrument is closely associated with classical wooden wind sounds.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which Asian country is known as the Land of the White Elephant?",
+    "friend_advice": "It's famous for its elephants and Wat Phra Kaew.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which English king had six wives?",
+    "friend_advice": "Divorced, beheaded, died; divorced, beheaded, survived.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What type of tree produces acorns?",
+    "friend_advice": "It's known for its strong wood and distinct leaves.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "What is the culinary term for a dish cooked in paper?",
+    "friend_advice": "Think of cooking with parchment paper or foil wrapping.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which U.S. state is famous for the city of Las Vegas?",
+    "friend_advice": "Known for its large casinos and vibrant nightlife.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which Greek island is famous for its volcanic caldera?",
+    "friend_advice": "Known for its stunning sunsets and blue-domed churches.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which footballer is nicknamed 'El Pibe de Oro'?",
+    "friend_advice": "Legendary Argentine considered one of the greatest footballers ever.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What device measures atmospheric pressure?",
+    "friend_advice": "It's often associated with mercury and weather prediction.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Who wrote the science fiction novel 'Fahrenheit 451'?",
+    "friend_advice": "The author shares a first name with \"Sugar\" singer Charles.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which Italian cheese is traditionally used on pizza?",
+    "friend_advice": "It's creamy, melts perfectly, and commonly comes from buffalo milk.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "friend_advice": "It sank during its maiden voyage across the Atlantic Ocean.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which Renaissance artist painted 'The Birth of Venus'?",
+    "friend_advice": "He was known for his mythological themes and elegant style.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "What is the capital city of Hungary?",
+    "friend_advice": "It's known for the Danube River and thermal baths.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which instrument is known for a slide and is prominent in blues music?",
+    "friend_advice": "Think of bottleneck and open tuning in blues music.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "What is the boiling point of water at sea level in degrees Celsius?",
+    "friend_advice": "It's the centigrade point where water transitions to gas.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "The Ganges River flows primarily through which country?",
+    "friend_advice": "This country is famous for the Taj Mahal.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which country is home to the annual Running of the Bulls festival?",
+    "friend_advice": "This event is famously held in Pamplona during San Fermín.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What is the largest organ on the exterior of the human body?",
+    "friend_advice": "This organ covers and protects the entire body surface.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which gas makes up the majority of Earth’s atmosphere?",
+    "friend_advice": "It's about 78% of the atmospheric composition.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "In soccer, what does FIFA stand for?",
+    "friend_advice": "It's in French, and the acronym starts with 'Fédération.'",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "friend_advice": "It's famous for its theme parks and Miami Beach.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "In the Harry Potter series, what magical sport is played on broomsticks?",
+    "friend_advice": "Players chase a golden ball called the Snitch.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What is the currency of Switzerland?",
+    "friend_advice": "It's named after the country and a financial term.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "Who is known for writing the play 'Oedipus Rex'?",
+    "friend_advice": "The same playwright wrote 'Antigone' and 'Electra', completing a trilogy.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "In which city is the United Nations headquarters located?",
+    "friend_advice": "It's the most populous city in the United States.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Which company is best known for producing the iPhone?",
+    "friend_advice": "Think of the company with a fruit name and logo.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Mount Kilimanjaro is found in which African country?",
+    "friend_advice": "This peak is located in a country known for safari adventures.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "What type of animal is a guppy?",
+    "friend_advice": "This small, colorful creature thrives in aquarium water habitats.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which artist designed the glass pyramid at the entrance to the Louvre Museum?",
+    "friend_advice": "The architect was a Chinese-American renowned for modern designs.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "What is the tallest mountain in North America?",
+    "friend_advice": "It's located in Alaska and part of the Alaska Range.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "friend_advice": "It's located in Ontario and hosts Parliament Hill.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere after nitrogen?",
+    "friend_advice": "It supports combustion and is essential for respiration.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which instrument is used to observe distant planets and stars?",
+    "friend_advice": "It magnifies celestial objects and is essential for astronomers.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "friend_advice": "This flower is iconic during the Japanese spring, known as sakura.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which musical term means to play softly?",
+    "friend_advice": "It's also the name of a keyboard instrument.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Who invented the phonograph?",
+    "friend_advice": "Think of the inventor famous for the electric light bulb.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "friend_advice": "It's closest to the sun and smaller than the moon.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "In which country did Impressionism as an art movement begin?",
+    "friend_advice": "Home to famous artists like Monet and Renoir.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which device stores electrical energy for a short period?",
+    "friend_advice": "It temporarily holds and quickly releases electrical charge.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which animal is classified as a marsupial?",
+    "friend_advice": "It famously carries its young in a pouch.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "What does the Richter scale measure?",
+    "friend_advice": "It quantifies the magnitude of seismic energy release.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which Italian city is known for its leaning tower?",
+    "friend_advice": "The famous leaning tower's city shares its name with the structure.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "friend_advice": "Holden Caulfield is the protagonist in this author's novel.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "What is tofu primarily made from?",
+    "friend_advice": "It's a popular legume-based protein alternative in vegetarian diets.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which team sport is played on an ice rink with sticks and a puck?",
+    "friend_advice": "It's played on ice with a puck and skates.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "What is the national sport of Japan?",
+    "friend_advice": "It's a traditional Japanese sport featuring large wrestlers.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which country hosts the city of Marrakech?",
+    "friend_advice": "It's known for the Atlas Mountains and historic markets.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "friend_advice": "It's famous for Mount Etna, Europe's tallest active volcano.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who led South Africa through the end of apartheid?",
+    "friend_advice": "He became South Africa's first Black president in 1994.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which part of the plant carries out photosynthesis?",
+    "friend_advice": "It's a flat green structure optimized to capture sunlight.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Which animal is famous for changing its skin color?",
+    "friend_advice": "Known for its color adaptability to blend with surroundings.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "In computer science, what does 'RAM' stand for?",
+    "friend_advice": "It's a type of computer memory that can be accessed randomly.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "What is the world’s deepest ocean trench?",
+    "friend_advice": "It's located in the western Pacific Ocean near Guam.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which country is the origin of feta cheese?",
+    "friend_advice": "Known for its ancient ruins, mythology, and Olympic Games origin.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What sport is played at Wimbledon?",
+    "friend_advice": "Think grass courts and a prestigious Grand Slam tournament in London.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "Which country is known as the Land of the Long White Cloud?",
+    "friend_advice": "Its Maori name is Aotearoa.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Who is the author of 'Crime and Punishment'?",
+    "friend_advice": "Author of \"The Brothers Karamazov\" and \"The Idiot.\"",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which African animal is known for its large, curved horn?",
+    "friend_advice": "Think of an animal with a strong defensive horn.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "In which country is Angkor Wat located?",
+    "friend_advice": "This UNESCO site is a symbol on the Cambodian flag.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Who wrote the epic poem 'The Odyssey'?",
+    "friend_advice": "Blind poet from ancient Greece known for epic tales.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What currency is used in South Africa?",
+    "friend_advice": "It's named after the Witwatersrand area where gold was discovered.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which author wrote 'The Adventures of Tom Sawyer'?",
+    "friend_advice": "He also wrote 'The Adventures of Huckleberry Finn.'",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "friend_advice": "She won in Physics in 1903 and Chemistry in 1911.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What year did World War II end?",
+    "friend_advice": "Think about the year of victory in Europe and Japan.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Which Shakespeare character utters 'To be, or not to be'?",
+    "friend_advice": "The Prince of Denmark contemplates life and death.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which Asian country is famous for the dish pho?",
+    "friend_advice": "The country associated with Hanoi and Ha Long Bay.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What is the name of the longest river in South America?",
+    "friend_advice": "This river flows through the Brazilian rainforest.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is the world's largest land mammal?",
+    "friend_advice": "This giant is native to Africa and loves peanuts.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Who directed the film 'Jaws'?",
+    "friend_advice": "He also directed \"E.T. the Extra-Terrestrial.\"",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which classic novel features the character Jay Gatsby?",
+    "friend_advice": "His extravagant parties take place in West Egg, Long Island.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "What is the name of the world's smallest bird species?",
+    "friend_advice": "This tiny bird is native to Cuba and very vibrant.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "In computing, what does the acronym 'HTML' stand for?",
+    "friend_advice": "Think of a web structure involving links and text styling.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which ancient city was destroyed by the eruption of Mount Vesuvius in 79 AD?",
+    "friend_advice": "Think of a Roman city perfectly preserved under volcanic ash.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Which river runs through the city of Paris?",
+    "friend_advice": "This river's name is a homophone of a word meaning \"seen.\"",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Who created the fictional detective Sherlock Holmes?",
+    "friend_advice": "The author was a physician from Scotland.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Who is known as the King of Pop?",
+    "friend_advice": "He dazzled with moonwalk and iconic glove.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What type of painting technique uses wet plaster?",
+    "friend_advice": "Michelangelo's Sistine Chapel ceiling is a famous example.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which grain is most commonly used to make couscous?",
+    "friend_advice": "It's derived from durum wheat often used in pasta.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "The bumblebee bat is native to which continent?",
+    "friend_advice": "Think of the continent with Thailand's diverse wildlife.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "The Komodo dragon is native to which country?",
+    "friend_advice": "This island nation is known for its diverse archipelago.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which painting technique uses small dots to create images?",
+    "friend_advice": "Seurat and Signac are famous for this dot technique.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "What is the longest bone in the human body?",
+    "friend_advice": "It's located in the thigh and supports the hip joint.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Which country produces the most olives in the world?",
+    "friend_advice": "This European country is famous for flamenco and paella.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which bird is the national emblem of the United States?",
+    "friend_advice": "It's known for its white head and majestic appearance.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which country is famous for inventing paper?",
+    "friend_advice": "This ancient civilization's invention dates back to Han Dynasty.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "What is the capital city of Egypt?",
+    "friend_advice": "Pyramids and Pharaohs are closely associated with this city.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "What element does the chemical symbol 'Na' represent?",
+    "friend_advice": "It's a soft, silvery-white metal, essential for life.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which is the largest desert in the world by area?",
+    "friend_advice": "This desert covers an entire polar continent at the bottom.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Which Italian dish features layers of pasta, cheese, and meat sauce?",
+    "friend_advice": "Garfield the cat's favorite layered Italian pasta dish.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which American author wrote 'The Old Man and the Sea'?",
+    "friend_advice": "He won a Pulitzer Prize for this novel in 1953.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "The Taj Mahal was built in which century?",
+    "friend_advice": "Construction was completed under Emperor Shah Jahan in 1648.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "Which tennis player has the most men's Grand Slam singles titles?",
+    "friend_advice": "He surpassed Roger Federer and Rafael Nadal's records recently.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which sport uses a racket and a shuttlecock?",
+    "friend_advice": "This sport is popular in Asia and players hit a shuttlecock.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which river is the second-longest in the world?",
+    "friend_advice": "This river flows through the largest tropical rainforest.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who is the artist of the sculpture 'David'?",
+    "friend_advice": "He also painted the Sistine Chapel ceiling.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which ancient wonder was located in Babylon?",
+    "friend_advice": "Known for its lush terraced gardens in ancient Babylon.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Which chemical element is a noble gas?",
+    "friend_advice": "This element is famous for bright advertising signs.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "friend_advice": "This city is known for its ancient temples and ruins.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is the technical term for animals that eat both plants and meat?",
+    "friend_advice": "They have a diet similar to humans, enjoying varied meals.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "friend_advice": "It has 54 recognized sovereign nations, more than any other.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which famous movie features the DeLorean time machine?",
+    "friend_advice": "This movie is famous for traveling through time in style.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which artist is known for the painting 'Water Lilies'?",
+    "friend_advice": "He was a key figure in the Impressionist movement.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Who is the Greek goddess of love and beauty?",
+    "friend_advice": "She was born from sea foam according to mythology.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Sitar and tabla are traditional instruments from which country?",
+    "friend_advice": "These instruments feature prominently in Indian classical music.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which molecule carries oxygen in the blood?",
+    "friend_advice": "It contains iron and binds oxygen in red blood cells.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What grain is traditional risotto made from?",
+    "friend_advice": "It originates from Italy and is short, plump, and creamy.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which country is famous for the chocolate brand Toblerone?",
+    "friend_advice": "Think of the Alps and triangular chocolate bars.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Which planet is known for having the Great Red Spot?",
+    "friend_advice": "It's the largest planet in our solar system.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who invented the process of pasteurization?",
+    "friend_advice": "His name is synonymous with killing microbes in milk.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which African nation has the highest population?",
+    "friend_advice": "The country is famous for Nollywood and Afrobeat music.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which tennis Grand Slam is played on clay courts?",
+    "friend_advice": "It's the Grand Slam held at Roland Garros in Paris.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "friend_advice": "He made a 'giant leap for mankind' on Apollo 11.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which river flows through Baghdad?",
+    "friend_advice": "Flows through Iraq, famous since ancient Mesopotamian times.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which country hosts the annual Day of the Dead festival?",
+    "friend_advice": "This festival celebrates deceased loved ones with ofrendas and marigolds.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which composer wrote 'Symphony No. 9' also known as 'Ode to Joy'?",
+    "friend_advice": "He was a German composer, losing hearing later in life.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which continent is the Andes mountain range located on?",
+    "friend_advice": "Think South America, Andes mountains, sun worshippers.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Who was the civil rights leader who gave the 'I Have a Dream' speech?",
+    "friend_advice": "He famously spoke at the 1963 March on Washington.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which film features the quote 'Here's looking at you, kid'?",
+    "friend_advice": "Humphrey Bogart delivers this line in a 1942 classic.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who played the lead role in the TV series 'Breaking Bad'?",
+    "friend_advice": "He transformed from a mild-mannered teacher to drug kingpin.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "What does the acronym 'CPU' stand for in computing?",
+    "friend_advice": "It's known as the \"brain\" of the computer system.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which video game series features the fictional region of Hyrule?",
+    "friend_advice": "Link's adventures take place here with Princess Zelda.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What is the name of the plumber protagonist in Nintendo's famous platformer series?",
+    "friend_advice": "He's often depicted wearing red overalls and a cap.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What Italian dessert is made of coffee-soaked ladyfingers and mascarpone cheese?",
+    "friend_advice": "Its name means \"pick me up\" in Italian.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which drink is traditionally made by fermenting apples?",
+    "friend_advice": "It's a popular fall drink, especially known in the UK.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which sport features the terms 'birdie' and 'par'?",
+    "friend_advice": "Think of a game played on a course with clubs.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which athlete set a 100m world record at the 2009 World Championships in Berlin?",
+    "friend_advice": "Known as the fastest man, he hails from Jamaica.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "friend_advice": "Her hits include 'Like a Virgin' and 'Vogue.'",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which artist cut off a part of his ear and sent it to a friend?",
+    "friend_advice": "Known for vivid colors and a troubled life in Arles.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which company is known for the slogan 'Just Do It'?",
+    "friend_advice": "This company's logo is a famous swoosh symbol.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which car manufacturer produces the Corolla?",
+    "friend_advice": "Think of a popular Japanese car brand known for reliability.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "What is the term for a word that has the opposite meaning of another word?",
+    "friend_advice": "This term describes words like 'hot' vs 'cold.'",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which language uses the Cyrillic alphabet?",
+    "friend_advice": "Think about the language spoken in Moscow and Saint Petersburg.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "If a train travels 80 kilometers in 2 hours, what is its average speed?",
+    "friend_advice": "Divide distance by time for speed calculation.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who co-founded Microsoft alongside Bill Gates?",
+    "friend_advice": "He co-founded Microsoft but is not a search engine giant.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which film won the Academy Award for Best Picture in 1994?",
+    "friend_advice": "This film stars Tom Hanks as a simple, extraordinary man.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Who played the character Eleven in the series 'Stranger Things'?",
+    "friend_advice": "Her breakout role was a telekinetic girl in this series.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which company manufactured the first commercially available microprocessor?",
+    "friend_advice": "They launched the 4004, a groundbreaking 4-bit CPU.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "What is the most widely used computer operating system in the world?",
+    "friend_advice": "This OS has a Start Menu and is known for its \"blue screen of death.\"",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which video game franchise features the character Master Chief?",
+    "friend_advice": "This Spartan super-soldier is iconic in sci-fi shooting games.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Which game is known for its block-based world and mining mechanics?",
+    "friend_advice": "The game is created by Mojang and involves mining blocks.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "What type of pasta is shaped like small rice grains and often used in soups?",
+    "friend_advice": "Its name sounds like \"orzo,\" not \"rice\" in Italian cuisine.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which athlete holds the record for the most goals scored in a single NHL season?",
+    "friend_advice": "Think of the \"The Great One\" in hockey history.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "What sport is known for the Triple Crown event?",
+    "friend_advice": "Secretariat famously won all three in 1973.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which band released the album 'Sgt. Pepper's Lonely Hearts Club Band'?",
+    "friend_advice": "Liverpudlian quartet that changed pop music in the 1960s.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Who is famous for the sculpture known as 'The Thinker'?",
+    "friend_advice": "He created sculptures capturing intense emotion and was French.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which brand's logo features a red and white ribbon-like script?",
+    "friend_advice": "Famous soft drink with a curvy logo started in 1886.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Who founded the online retail company Amazon?",
+    "friend_advice": "His company started with selling books online from his garage.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "What is an example of a palindrome word?",
+    "friend_advice": "This word reads the same forward and backward.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which punctuation mark is used at the end of a question?",
+    "friend_advice": "It resembles a hook or an upside-down \"u\" with a dot.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "What is the next prime number after 17?",
+    "friend_advice": "It's the first odd prime number after seventeen.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "If a recipe requires 2/3 cup of sugar, how much is needed for double the recipe?",
+    "friend_advice": "Double 2/3 gives you a sum of two fractions.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who was the British scientist known for his contributions to the theory of evolution by natural selection?",
+    "friend_advice": "The author of 'On the Origin of Species'.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who was the first female astronaut from the United States to travel into space?",
+    "friend_advice": "She made history aboard the Space Shuttle Challenger in 1983.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which film trilogy is centered around a magical ring and characters like Frodo and Gandalf?",
+    "friend_advice": "Involves a quest to destroy a ring in Middle-earth.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "On which animated TV show would you find the character Homer Simpson?",
+    "friend_advice": "This show features a yellow, donut-loving family from Springfield.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "What does Wi-Fi primarily allow devices to do?",
+    "friend_advice": "It enables devices to go online without physical connections.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "Which company is known for producing the Galaxy line of smartphones?",
+    "friend_advice": "The company is South Korean and rhymes with \"Ham Sung.\"",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which video game features a battle royale mode called 'Warzone'?",
+    "friend_advice": "This franchise is known for Modern Warfare and Black Ops.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "In which video game do players control champions and try to destroy a Nexus?",
+    "friend_advice": "It's a popular MOBA game developed by Riot Games.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Gnocchi is a type of dumpling primarily made from what ingredient?",
+    "friend_advice": "These dumplings are often paired with pasta sauces in Italy.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Which athlete famously won eight gold medals at a single Olympic Games?",
+    "friend_advice": "He's a legendary swimmer who dominated Beijing 2008 Olympics.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "The Stanley Cup is awarded annually in which sport?",
+    "friend_advice": "This sport is played on ice with a puck and skates.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which singer released the album '1989' in 2014?",
+    "friend_advice": "She transitioned from country to pop with this album.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Who is the legendary reggae musician known for songs like 'One Love'?",
+    "friend_advice": "Jamaican icon famous for Rastafarian themes and 'Exodus' album.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which artist is associated with making mobile sculptures?",
+    "friend_advice": "Think of kinetic art and suspended, moving pieces.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which company is the primary parent of the brand Audi?",
+    "friend_advice": "This group also owns Porsche and Lamborghini.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which search engine is owned by Microsoft?",
+    "friend_advice": "It's named after a sound of a bell ringing.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "What is the term for a word formed by rearranging the letters of another word?",
+    "friend_advice": "Think of rearranging letters to create a new word.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Which language is most closely related to Italian?",
+    "friend_advice": "Both languages evolved from Latin and share many similarities.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is the sum of the angles in any triangle?",
+    "friend_advice": "In any triangle, angles always add up to this.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "If X = 3 and Y = X + 4, what is the value of Y?",
+    "friend_advice": "Add 4 to three to find Y's value.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Which film marked the debut of the character Indiana Jones?",
+    "friend_advice": "It's the first adventure where he seeks the Ark.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Who played the role of Tony Stark in the Marvel Cinematic Universe?",
+    "friend_advice": "He starred in Iron Man and is known for his comeback.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "What technology is used to make phone calls over the internet?",
+    "friend_advice": "It's abbreviated as VoIP and transmits voice over the web.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which video game is set in the fictional city of Rapture?",
+    "friend_advice": "Explore an underwater city founded by Andrew Ryan.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "In which series do players catch creatures called pocket monsters?",
+    "friend_advice": "The main character is known for saying \"I choose you!\"",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which country is the origin of tempura, a dish of battered and fried foods?",
+    "friend_advice": "It's a popular dish often served with sushi and ramen.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "What is paneer primarily made from?",
+    "friend_advice": "This popular Indian cheese is often made from dairy.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who was the first woman to win an Olympic gold medal in gymnastics for the USA?",
+    "friend_advice": "She won the gold in the 1984 Los Angeles Olympics.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which artist is famous for the sculpture 'Bird in Space'?",
+    "friend_advice": "Known for his abstract, fluid forms and Romanian origin.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which art style is associated with artists like Georges Braque and Pablo Picasso?",
+    "friend_advice": "Characterized by abstract forms, geometric shapes, and multiple perspectives.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which company is the parent of the brand Dove soap?",
+    "friend_advice": "The brand is part of a multinational consumer goods company.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which English word means 'fear of confined spaces'?",
+    "friend_advice": "It's the fear of small, enclosed spaces.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "What is the grammatical term for a word that modifies a verb, adjective, or another adverb?",
+    "friend_advice": "It often describes how, when, where, or to what extent.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "If a number is divisible by 6 and by 9, it must be divisible by which smallest number?",
+    "friend_advice": "Find the LCM of 6 and 9 for shared divisibility.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who was the first African American president of the United States?",
+    "friend_advice": "His presidency began in 2009 after a historic election.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "Which film won the Academy Award for Best Picture in 2021?",
+    "friend_advice": "Think of a film about modern-day nomads in America.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which animated TV series features the character Aang, a young Avatar?",
+    "friend_advice": "Consider a series about elemental bending and a flying bison.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "What technology is used to store large amounts of data on optical discs?",
+    "friend_advice": "Hint: High-definition format, successor to DVD for movie watching.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which programming language was created by Guido van Rossum and named after a comedy group?",
+    "friend_advice": "Named after the British troupe known for Flying Circus.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which game company created the series 'Uncharted'?",
+    "friend_advice": "This company is also known for 'The Last of Us.'",
+    "friend_confidence": 83
+  },
+  {
+    "question": "In which game is the main objective to build civilizations and achieve victory through science or domination?",
+    "friend_advice": "Known for the \"One More Turn\" addictive game mechanic.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which French soup is traditionally made with onions and topped with melted cheese?",
+    "friend_advice": "It's a classic French dish featuring caramelized onions.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which type of pasta looks like small tubes and is often used in baked dishes?",
+    "friend_advice": "Commonly seen in baked ziti dishes.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What term is used when a batter hits a home run with the bases loaded in baseball?",
+    "friend_advice": "It's the highest-scoring play in one swing.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which country won the FIFA Women's World Cup in 2019?",
+    "friend_advice": "They have won the most Women's World Cup titles.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Who composed the classical piece 'The Four Seasons'?",
+    "friend_advice": "This Baroque composer was known as the \"Red Priest.\"",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which band released the song 'Hotel California' in 1976?",
+    "friend_advice": "The band shares its name with a type of bird.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which modern art movement is closely linked with Salvador Dalí?",
+    "friend_advice": "This movement features dream-like scenes and bizarre imagery.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which company is famous for its sportswear logo resembling a blue trefoil?",
+    "friend_advice": "Their logo has three stripes and is German-based.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What coffee brand is known for its green siren logo?",
+    "friend_advice": "This brand's logo features a twin-tailed mermaid, or siren.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "What is the term for a word that has the same spelling but different meanings?",
+    "friend_advice": "These words share spelling but differ in meaning and pronunciation.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which official language uses the most characters in its writing system?",
+    "friend_advice": "It's known for its thousands of intricate characters.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "What is the square root of 121?",
+    "friend_advice": "Think of a pair of identical numbers that multiply to 121.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "If a triangle has side lengths of 3, 4, and 5, what is its area?",
+    "friend_advice": "A right triangle's area is half the product of legs.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Who was the first person to win an Academy Award for Best Actor twice?",
+    "friend_advice": "He starred in \"Captains Courageous\" and \"Boys Town.\"",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which philanthropist is known for founding the Carnegie libraries?",
+    "friend_advice": "He was a steel magnate from Scotland turned philanthropist.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which 1999 film was directed by M. Night Shyamalan and features a boy who sees ghosts?",
+    "friend_advice": "The movie made famous the line, \"I see dead people.\"",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Which TV series is set at the fictional Dunder Mifflin Paper Company?",
+    "friend_advice": "Steve Carell plays the world's best boss in this show.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "What does HTTP stand for in website addresses?",
+    "friend_advice": "It's a protocol for transferring hypertext on the web.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which company developed the PlayStation gaming console?",
+    "friend_advice": "Think Walkman, electronics giant, and Japanese tech company.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which video game features an archaeologist named Lara Croft?",
+    "friend_advice": "She explores ancient tombs and solves puzzles.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "The main character of 'Half-Life' is known by what name?",
+    "friend_advice": "He's a theoretical physicist battling aliens from Black Mesa.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which beverage is made primarily from fermented grapes?",
+    "friend_advice": "This drink often accompanies cheese and has various red, white, and sparkling varieties.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which sport awards the Vince Lombardi Trophy?",
+    "friend_advice": "It's awarded at the end of the Super Bowl.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Who performed the 2016 hit song 'Can't Stop the Feeling!'?",
+    "friend_advice": "Think of the singer famous for bringing sexy back.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Which musical instrument has 88 keys and is played by pressing them with the fingers?",
+    "friend_advice": "This instrument's keys produce sounds from hammers striking strings.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which company is known for its slogan 'Think Different'?",
+    "friend_advice": "It's the company behind the iPhone and Mac computers.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "What automobile brand manufactures the Civic model?",
+    "friend_advice": "The company is known for its motorcycles and reliable cars.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "What is the word for a word that has the same meaning as another?",
+    "friend_advice": "Consider words similar in meaning, like 'happy' and 'joyful.'",
+    "friend_confidence": 79
+  },
+  {
+    "question": "What is the value of 7 squared?",
+    "friend_advice": "Multiply seven by itself to get the answer.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "What is half of one-fifth?",
+    "friend_advice": "Divide 0.2 by 2 to find the answer.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Who is the founder of SpaceX?",
+    "friend_advice": "He is also the CEO of Tesla and Neuralink.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which film features a character named Neo battling agents in a digital world?",
+    "friend_advice": "Think about a chosen one in a simulated reality.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Who starred as the T-800 in the original 'Terminator' movie?",
+    "friend_advice": "This actor is famous for his role as a cyborg.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "What technology is primarily used for contactless payments by tapping a card?",
+    "friend_advice": "It stands for Near Field Communication.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which programming language is often associated with Android app development?",
+    "friend_advice": "It was the primary Android development language before Kotlin.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "In which game do players guide a yellow character eating pellets and ghosts in a maze?",
+    "friend_advice": "This classic arcade game features a yellow circle chomping dots.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which type of nut is commonly used in making marzipan?",
+    "friend_advice": "This nut is often harvested for its milk and oils.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "How many players are there on a standard volleyball team on the court?",
+    "friend_advice": "Each team has enough players for two rows on court.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which Olympic event combines cross-country skiing and rifle shooting?",
+    "friend_advice": "It's a winter event combining skiing and target shooting.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which band is known for hits like 'With or Without You' and 'Beautiful Day'?",
+    "friend_advice": "This Irish rock band features Bono as the lead singer.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which artist is famous for the soft sculpture 'Soft Toilet'?",
+    "friend_advice": "Known for oversized sculptures of everyday objects in pop art.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which multinational company is known for its blue oval logo and makes the Mustang?",
+    "friend_advice": "It's an American automaker known for the Model T.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "What is the term for a word that sounds the same as another but has different meaning?",
+    "friend_advice": "Think of 'phone' indicating sound in this linguistic term.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which language is primarily spoken in the Netherlands?",
+    "friend_advice": "The language shares its name with the country’s demonym.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "What is the result of multiplying 8 by 12?",
+    "friend_advice": "8 times 12 is the same as 6 dozen eggs.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "If a rectangle has a length of 10 and a width of 4, what is its area?",
+    "friend_advice": "Use length multiplied by width for rectangular areas.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Who is credited as the creator of the modern Olympic Games?",
+    "friend_advice": "This French educator revived the games in the 1890s.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which 1994 film features two hitmen named Vincent Vega and Jules Winnfield?",
+    "friend_advice": "Quentin Tarantino directed this cult classic film.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which animated TV show features a young genius named Dexter with a secret laboratory?",
+    "friend_advice": "The show's title shares the boy genius's name.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "What does the acronym GPU stand for in computing?",
+    "friend_advice": "Handles rendering images for displays and gaming tasks.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which company developed the programming language Java?",
+    "friend_advice": "Originally developed in the early 1990s by an American company.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which video game series features a protagonist named Samus Aran?",
+    "friend_advice": "This series' protagonist is a bounty hunter exploring alien planets.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "Which 2015 game is set in the monster-filled region of The Continent and features Geralt?",
+    "friend_advice": "It features a monster hunter named Geralt of Rivia.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which beverage is traditionally made by fermenting barley and flavored with hops?",
+    "friend_advice": "This drink is commonly served in pints at pubs.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "In basketball, how many points is a shot from behind the arc worth?",
+    "friend_advice": "Think of a triangle, the shape of half the court.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Which classical composer wrote 'Swan Lake'?",
+    "friend_advice": "Known for his ballets, including 'The Nutcracker' and 'Sleeping Beauty.'",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which company owns the sports brand Reebok?",
+    "friend_advice": "They also own brands like Forever 21 and Brooks Brothers.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "What company is most associated with the Big Mac hamburger?",
+    "friend_advice": "Famous fast-food chain with golden arches as its symbol.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "What Latin phrase means 'blank slate'?",
+    "friend_advice": "René Descartes wrote about the mind as a clean state.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ?",
+    "friend_advice": "Each number is double the previous one.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "In the periodic table, which element has the highest electrical conductivity at standard temperature and pressure?",
+    "friend_advice": "It's often used in jewelry and prized for its shine.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Who was the primary author of the influential 18th-century work 'The Wealth of Nations'?",
+    "friend_advice": "This author is often called the \"Father of Economics.\"",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which Shakespeare play features characters named Goneril, Regan, and Cordelia?",
+    "friend_advice": "A tragedy about a king and his three daughters.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who composed the opera 'Die Meistersinger von Nürnberg'?",
+    "friend_advice": "This composer is famous for writing 'The Ring Cycle'.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which branch of mathematics studies the properties of space that are preserved under continuous transformations?",
+    "friend_advice": "It deals with properties unchanged by stretching or bending.",
+    "friend_confidence": 75
+  },
+  {
+    "question": "Which Norse god is the father of Thor in mythology?",
+    "friend_advice": "The Allfather and ruler of Asgard in Norse mythology.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Who was the first person to perform a successful human heart transplant?",
+    "friend_advice": "He performed the first human heart transplant in 1967.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which Czech author wrote 'The Trial' and is known for themes of existential anxiety?",
+    "friend_advice": "He wrote about a man facing a surreal legal process.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Which physicist formulated the uncertainty principle, a fundamental theory in quantum mechanics?",
+    "friend_advice": "Think of the famous \"uncertainty principle\" in quantum mechanics.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which chemical process is used to convert unsaturated fats to saturated fats by the addition of hydrogen?",
+    "friend_advice": "This process involves adding hydrogen atoms to double bonds.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Who played Salieri in the 1984 film 'Amadeus'?",
+    "friend_advice": "He won the Academy Award for Best Actor for this role.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Who invented the movable-type printing press in Europe?",
+    "friend_advice": "He revolutionized book-making in 15th-century Germany.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "Which mathematician is credited with founding set theory in the late 19th century?",
+    "friend_advice": "He introduced the concept of different sizes of infinity.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which 20th-century painter created the triptych 'Three Studies for Figures at the Base of a Crucifixion'?",
+    "friend_advice": "The artist is known for his distinctive, dark, emotionally charged style.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "In which year was the first Nobel Prize in Physics awarded?",
+    "friend_advice": "It was the start of the 20th century.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which Italian company is known for producing the iconic Vespa scooter?",
+    "friend_advice": "It's the company that also means \"wasp\" in Italian.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "What is the French culinary term for a bundle of herbs tied together and used to flavor soups and stews?",
+    "friend_advice": "It translates to \"garnished bouquet\" in English.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which physicist discovered cosmic microwave background radiation alongside Arno Penzias?",
+    "friend_advice": "He shared the Nobel Prize in Physics with Penzias.",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Which ancient Greek playwright wrote 'The Persians', one of the earliest surviving plays?",
+    "friend_advice": "He is known as the father of Greek tragedy.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "What is the name of the weak force-carrying boson discovered at CERN in 1983?",
+    "friend_advice": "Discovered with the Z boson, mediates nuclear force.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who was the first U.S. Secretary of the Treasury to found a national bank?",
+    "friend_advice": "He appears on the $10 bill and a famous musical.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which artist painted 'The Garden of Earthly Delights'?",
+    "friend_advice": "This Dutch painter is known for fantastical, detailed landscapes.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Who formulated the literary theory of 'the intentional fallacy' in 1946?",
+    "friend_advice": "Co-authored the concept with Monroe Beardsley in 1946.",
+    "friend_confidence": 82
+  },
+  {
+    "question": "Which enzyme is responsible for synthesizing the RNA primer during DNA replication in E. coli?",
+    "friend_advice": "It lays down RNA primers to start DNA replication.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who sang the original 1967 hit 'A Whiter Shade of Pale'?",
+    "friend_advice": "Their name sounds like a Latin phrase but isn't one.",
+    "friend_confidence": 72
+  },
+  {
+    "question": "Which film marked the first collaboration between director Werner Herzog and actor Klaus Kinski?",
+    "friend_advice": "Their collaboration began in 1972 with a film set in Peru.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which 20th-century mathematician proved Fermat’s Last Theorem in 1994?",
+    "friend_advice": "He worked on the theorem secretly for many years.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which novel features the enigmatic character Dean Moriarty?",
+    "friend_advice": "Jack Kerouac's story of cross-country adventures.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "What medical condition is also known as Lou Gehrig’s disease?",
+    "friend_advice": "It shares a name with a famous baseball player.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which South American civilization constructed the city of Tiwanaku near Lake Titicaca?",
+    "friend_advice": "This civilization shares its name with the city itself.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who composed the full ballet 'Appalachian Spring'?",
+    "friend_advice": "He is known as 'the Dean of American Composers.'",
+    "friend_confidence": 87
+  },
+  {
+    "question": "What was the first commercially available programmable general-purpose computer?",
+    "friend_advice": "It was popular in the early 1950s in America.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which mythological monster was slain by Bellerophon with the help of Pegasus?",
+    "friend_advice": "It's a fire-breathing creature composed of multiple animal parts.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "In the International Phonetic Alphabet, what does the symbol [ʃ] represent?",
+    "friend_advice": "It's the sound in \"sh\" as in \"shush.\"",
+    "friend_confidence": 93
+  },
+  {
+    "question": "Who is credited with inventing the Lie group in mathematics?",
+    "friend_advice": "His name is part of the concept itself.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Which physicist demonstrated the wave nature of electrons through experiments with nickel crystals in 1927?",
+    "friend_advice": "His experiments confirmed the de Broglie hypothesis about matter waves.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who wrote the novel 'The Master and Margarita', which blends satire, fantasy, and biblical themes in Soviet Russia?",
+    "friend_advice": "The author's last name is similar to a famous cocktail.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "In the context of network protocols, what does the acronym OSPF stand for?",
+    "friend_advice": "It's a routing protocol used in IP networks.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which German composer wrote the 1850 opera 'Lohengrin', featuring the 'Bridal Chorus'?",
+    "friend_advice": "Famous for his operas, including 'The Ring Cycle'. ",
+    "friend_confidence": 79
+  },
+  {
+    "question": "What is the mathematical name for a solid with exactly ten faces?",
+    "friend_advice": "The prefix 'deca-' suggests the number ten in geometry.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "Which South African athlete set a still-standing 800m men's world record at the 2012 London Olympics?",
+    "friend_advice": "This Kenyan runner is famous for his front-running style.",
+    "friend_confidence": 91
+  },
+  {
+    "question": "Which Norwegian painter created the work 'The Dance of Life' in 1899?",
+    "friend_advice": "He also painted 'The Scream,' famous for expressing anxiety.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which Greek mythological figure solved the riddle of the Sphinx and became king of Thebes?",
+    "friend_advice": "Famous for accidentally fulfilling a prophecy involving his parents.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who is the author of the 1987 cyberpunk novel 'Count Zero', which is the second entry in the Sprawl trilogy?",
+    "friend_advice": "He also wrote the seminal work, 'Neuromancer.'",
+    "friend_confidence": 96
+  },
+  {
+    "question": "What enzyme is responsible for converting fibrinogen to fibrin during blood coagulation?",
+    "friend_advice": "This enzyme is crucial in the final step of clotting.",
+    "friend_confidence": 76
+  },
+  {
+    "question": "Which American artist painted the large mural 'Detroit Industry' in the 1930s?",
+    "friend_advice": "He was a prominent Mexican muralist married to Frida Kahlo.",
+    "friend_confidence": 95
+  },
+  {
+    "question": "In formal logic, what is the name for a statement that is always true regardless of its variable values?",
+    "friend_advice": "It's a statement undeniably true in every possible scenario.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which novel by J. M. Coetzee features the character Magistrate during times of imperial expansion and tension?",
+    "friend_advice": "This title alludes to anticipating an unknown external threat.",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which mathematician introduced the concept of the 'game tree' central to combinatorial game theory?",
+    "friend_advice": "He is known for his theorem on chess in 1913.",
+    "friend_confidence": 90
+  },
+  {
+    "question": "Who composed the 1948 orchestral suite 'The Young Person’s Guide to the Orchestra'?",
+    "friend_advice": "The composer is British and famous for 'Peter Grimes.'",
+    "friend_confidence": 94
+  },
+  {
+    "question": "Which Japanese film director made 'Ugetsu', a 1953 masterpiece of postwar cinema blending ghostly and historical elements?",
+    "friend_advice": "He is known for his meticulous period dramas and empathy.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "What is the term for the process by which plants convert nitrate to atmospheric nitrogen gas, releasing it from the soil?",
+    "friend_advice": "This process reduces nitrates, often releasing nitrogen gas.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "Which 20th-century chess grandmaster was World Champion from 1969 to 1972, known for their positional style?",
+    "friend_advice": "He faced Bobby Fischer and is a Russian grandmaster.",
+    "friend_confidence": 74
+  },
+  {
+    "question": "Which Roman emperor was responsible for constructing the massive defensive fortification known as the Antonine Wall in Scotland?",
+    "friend_advice": "He shares a name with the wall he commissioned.",
+    "friend_confidence": 81
+  },
+  {
+    "question": "In the OSI reference model, which layer is primarily responsible for routing packets between networks?",
+    "friend_advice": "It's the third layer, key for routing between networks.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Who won the men's singles title at the 1985 Wimbledon Championships, defeating Kevin Curren in the final?",
+    "friend_advice": "He was the youngest Wimbledon men's singles champion at 17.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which chemical element has the highest melting point of all pure elements?",
+    "friend_advice": "It's symbol is W and used in light bulb filaments.",
+    "friend_confidence": 84
+  },
+  {
+    "question": "Which painter is renowned for the work 'American Gothic', depicting a farmer and his daughter in front of a house?",
+    "friend_advice": "He painted the iconic Midwestern farmer and daughter duo.",
+    "friend_confidence": 77
+  },
+  {
+    "question": "What is the culinary term for the outer, colored part of citrus fruit peel, often used as flavoring?",
+    "friend_advice": "This term is used when grating citrus peels for flavor.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Who directed the 1963 historical epic film 'Cleopatra' starring Elizabeth Taylor and Richard Burton?",
+    "friend_advice": "He was also known for directing 'All About Eve.'",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which protease enzyme initiates protein digestion in the human stomach?",
+    "friend_advice": "It's activated by the acidic environment of the stomach.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Which 20th-century composer created 'Music for 18 Musicians', a seminal minimalist work?",
+    "friend_advice": "He shares his last name with a famous physicist.",
+    "friend_confidence": 85
+  },
+  {
+    "question": "Who is the mythical Greek figure punished by being forced to roll a boulder up a hill for eternity?",
+    "friend_advice": "His name is synonymous with a never-ending, futile task.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "What is the term for a corporate acquisition in which a smaller firm purchases a larger one?",
+    "friend_advice": "It's like the plot twist where David buys Goliath.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Who is credited as the founder of probability theory, having corresponded with Fermat on the subject in the 17th century?",
+    "friend_advice": "Think \"Pascal's Triangle\" and early collaborations on probability.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Which enzyme catalyzes the conversion of pyruvate to acetyl-CoA in cellular respiration?",
+    "friend_advice": "The enzyme is named after the substrate pyruvate it transforms.",
+    "friend_confidence": 86
+  },
+  {
+    "question": "What chemical element is primarily obtained from the ore cassiterite?",
+    "friend_advice": "This element is commonly used to coat food cans.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "In classical mechanics, what is the SI unit for angular momentum?",
+    "friend_advice": "It's a product of moment of inertia and angular velocity.",
+    "friend_confidence": 89
+  },
+  {
+    "question": "Who wrote the 1877 Russian novel 'Anna Karenina'?",
+    "friend_advice": "This author also wrote 'War and Peace'.",
+    "friend_confidence": 79
+  },
+  {
+    "question": "Which mathematical constant is approximately equal to 2.71828?",
+    "friend_advice": "It's the base of the natural logarithm.",
+    "friend_confidence": 78
+  },
+  {
+    "question": "Which protein is the primary component of hair, nails, and feathers?",
+    "friend_advice": "This protein is known for its protective and structural properties.",
+    "friend_confidence": 83
+  },
+  {
+    "question": "Who directed the surrealist film 'Un Chien Andalou' in 1929 with Salvador Dalí?",
+    "friend_advice": "The director collaborated with Dalí and is Spanish.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "In electronics, what does the abbreviation 'LED' stand for?",
+    "friend_advice": "This device glows when electricity passes through it.",
+    "friend_confidence": 88
+  },
+  {
+    "question": "Who was the first African to win the Nobel Peace Prize, in 1960?",
+    "friend_advice": "He was a South African anti-apartheid activist and politician.",
+    "friend_confidence": 92
+  },
+  {
+    "question": "Which 20th-century British composer wrote the 'Enigma Variations'?",
+    "friend_advice": "Known for the Nimrod variation and a musical puzzle.",
+    "friend_confidence": 87
+  },
+  {
+    "question": "Who invented the process for creating stainless steel in the early 20th century?",
+    "friend_advice": "His invention revolutionized the cutlery and corrosion-resistant industries.",
+    "friend_confidence": 73
+  },
+  {
+    "question": "Which ancient Indian text is considered the earliest treatise on statecraft and economic policy?",
+    "friend_advice": "Attributed to Kautilya, it outlines strategies for governance.",
+    "friend_confidence": 96
+  },
+  {
+    "question": "What is the term for the range of frequencies that a radio receiver can process?",
+    "friend_advice": "It's a term commonly used in context with data rate.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Who was the Brazilian architect credited with designing much of Brasília’s modernist structures?",
+    "friend_advice": "He was a key figure in Brazil's modernist architecture.",
+    "friend_confidence": 80
+  },
+  {
+    "question": "Which enzyme catalyzes the hydrolysis of lactose into glucose and galactose?",
+    "friend_advice": "It's named after the sugar it helps to break down.",
+    "friend_confidence": 93
+  }
+]

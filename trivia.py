@@ -62,6 +62,8 @@ HARD_WEAK_MODEL_RESULTS_PATH = OUTPUT_DIR / "hard_weak_model_results.json"
 HARD_WEAK_MODEL_REJECTIONS_PATH = OUTPUT_DIR / "hard_weak_model_rejections.json"
 FINAL_WITH_HARD_JSON_PATH = OUTPUT_DIR / "final_with_hard_trivia_questions.json"
 FINAL_WITH_HARD_CSV_PATH = OUTPUT_DIR / "final_with_hard_trivia_questions.csv"
+FRIEND_ADVICE_JSON_PATH = OUTPUT_DIR / "friend_advice.json"
+FRIEND_ADVICE_CSV_PATH = OUTPUT_DIR / "friend_advice.csv"
 SQLITE_DB_PATH = OUTPUT_DIR / "trivia_questions.db"
 
 class TriviaQuestion(BaseModel):
@@ -701,7 +703,19 @@ def write_json_payload(payload: object, path: Path) -> None:
     if bytes_written == 0 and payload:
         raise RuntimeError(f"Failed to write JSON payload to {path}.")
 
+def read_friend_advice_csv(path: Path) -> dict[str, tuple[str, int]]:
+    if not path.exists():
+        return {}
+    with path.open("r", newline="", encoding="utf-8") as csv_file:
+        reader = csv.DictReader(csv_file)
+        return {
+            str(row["question"]): (str(row["friend_advice"]), int(str(row["friend_confidence"])))
+            for row in reader
+        }
+
+
 def write_sqlite_database(questions: list[TriviaQuestion], path: Path) -> None:
+    friend_advice_by_question = read_friend_advice_csv(FRIEND_ADVICE_CSV_PATH)
     path.parent.mkdir(parents=True, exist_ok=True)
 
     with sqlite3.connect(path) as connection:
@@ -716,7 +730,9 @@ def write_sqlite_database(questions: list[TriviaQuestion], path: Path) -> None:
                 wrong_answer_1 TEXT NOT NULL,
                 wrong_answer_2 TEXT NOT NULL,
                 wrong_answer_3 TEXT NOT NULL,
-                difficulty INTEGER NOT NULL CHECK (difficulty BETWEEN 1 AND 10)
+                difficulty INTEGER NOT NULL CHECK (difficulty BETWEEN 1 AND 10),
+                friend_advice TEXT,
+                friend_confidence INTEGER
             )
             """
         )
@@ -728,9 +744,11 @@ def write_sqlite_database(questions: list[TriviaQuestion], path: Path) -> None:
                 wrong_answer_1,
                 wrong_answer_2,
                 wrong_answer_3,
-                difficulty
+                difficulty,
+                friend_advice,
+                friend_confidence
             )
-            VALUES (?, ?, ?, ?, ?, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
             """,
             [
                 (
@@ -740,6 +758,8 @@ def write_sqlite_database(questions: list[TriviaQuestion], path: Path) -> None:
                     question.wrong_answer_2,
                     question.wrong_answer_3,
                     question.difficulty,
+                    friend_advice_by_question.get(question.question, (None, None))[0],
+                    friend_advice_by_question.get(question.question, (None, None))[1],
                 )
                 for question in questions
             ],
@@ -828,7 +848,12 @@ def add_hard_command() -> None:
 def sqlite_command() -> None:
     questions = read_questions_csv(FINAL_WITH_HARD_CSV_PATH)
     write_sqlite_database(questions, SQLITE_DB_PATH)
+    advice_count = len(read_friend_advice_csv(FRIEND_ADVICE_CSV_PATH))
     print(f"Saved {len(questions)} questions to SQLite database: {SQLITE_DB_PATH}")
+    if advice_count:
+        print(f"Merged {advice_count} friend advice rows from {FRIEND_ADVICE_CSV_PATH}.")
+    else:
+        print(f"No friend advice CSV at {FRIEND_ADVICE_CSV_PATH}; friend_advice columns left empty.")
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate and review trivia questions.")
