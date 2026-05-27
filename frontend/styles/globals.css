@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Paytone+One&display=swap');
+@import './theme.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background:
+    radial-gradient(circle at top left, rgba(122, 79, 160, 0.35), transparent 32rem),
+    var(--bg-deep);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.app-shell {
+  min-height: 100vh;
+  padding: 32px;
+}
+
+.screen-card {
+  width: min(1040px, 100%);
+  margin: 0 auto;
+  padding: 28px;
+  background: var(--bg-card);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-card);
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.28);
+}
+
+.primary-button {
+  border: 0;
+  border-radius: var(--radius-btn);
+  padding: 13px 20px;
+  background: var(--accent-gold);
+  color: var(--bg-deep);
+  font-weight: 900;
+}
+
+.ghost-button {
+  border: 2.5px solid var(--border-color);
+  border-radius: var(--radius-btn);
+  padding: 12px 18px;
+  background: transparent;
+  color: var(--accent-purple-light);
+  font-weight: 900;
+}
+
+.section-label {
+  color: var(--text-dim);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.answer-wrong-blur {
+  filter: blur(3px);
+  opacity: 0.25;
+  transform: scale(0.95);
+  transition: all 0.4s ease;
+  pointer-events: none;
+}
+
+.answer-correct-pop {
+  border: 3px solid var(--correct) !important;
+  background: rgba(0, 230, 118, 0.15) !important;
+  transform: scale(1.06);
+  box-shadow: 0 0 20px rgba(0, 230, 118, 0.4);
+  animation: correct-pop 0.4s ease forwards;
+  transition: all 0.4s ease;
+}
+
+.answer-correct-pop .badge {
+  background: var(--correct) !important;
+  color: var(--bg-deep) !important;
+}
+
+@keyframes correct-pop {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.1); }
+  70% { transform: scale(1.03); }
+  100% { transform: scale(1.06); }
+}
+
+.result-banner {
+  animation: slideUp 0.3s ease forwards;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

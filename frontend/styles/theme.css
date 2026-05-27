@@ -1,0 +1,21 @@
+:root {
+  --bg-deep: #180638;
+  --bg-card: #2A1050;
+  --bg-dark: #130428;
+  --border-color: #3A1A60;
+  --border-hover: #FFD700;
+  --accent-gold: #FFD700;
+  --accent-gold-stroke: #B8940A;
+  --accent-purple-light: #C9A7EB;
+  --accent-purple-mid: #7A4FA0;
+  --text-primary: #F0E0FF;
+  --text-muted: #D0B8F0;
+  --text-dim: #7A4FA0;
+  --correct: #00E676;
+  --wrong: #FF4466;
+  --font-display: 'Paytone One', sans-serif;
+  --font-body: 'Nunito', sans-serif;
+  --radius-card: 18px;
+  --radius-btn: 14px;
+  --radius-pill: 20px;
+}
