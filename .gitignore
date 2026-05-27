@@ -23,9 +23,16 @@ env/
 ENV/
 
 # Environment variables and secrets
+# Safe to commit: Socket.IO client/server code, localhost defaults, event names.
+# Never commit: API keys, .env files, or production SOCKET_URL overrides.
+# Operational only (not gitignored): open CORS and no socket auth — tune in
+# server/main.py and deployment config when you go public, not via .gitignore.
 .env
 .env.*
 !.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
 
 # Test and coverage output
 .pytest_cache/
